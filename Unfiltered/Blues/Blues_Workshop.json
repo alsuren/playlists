@@ -1,4 +1,7 @@
-{"playlist_name": "Blues Workshop", "songs": [
+{"playlist_name": "Blues Workshop",
+"http_link": "http://open.spotify.com/user/lilynectar/playlist/2velz0EQcTr1lLaGh7CsgR",
+"spotify_link": "spotify:user:lilynectar:playlist:2velz0EQcTr1lLaGh7CsgR",
+"songs": [
 {"name": "I Wish", "artists": ["Stevie Wonder"], "album": "Stevie Wonder's Original Musiquarium I", "duration": 254000, "link": "spotify:track:2dCDC6FXz80njhDidJVkAx"},
 {"name": "Unchain My Heart", "artists": ["Ray Charles"], "album": "Genius - The Ultimate Ray Charles Collection", "duration": 170000, "link": "spotify:track:1uUkyReB7KSYuA2NBdKQWp"},
 {"name": "I Never Loved A Man [The Way I Love You]", "artists": ["Aretha Franklin"], "album": "Definitive Soul: Aretha Franklin", "duration": 165000, "link": "spotify:track:3zyDPAVCR5FQuvkzV0vs5e"},

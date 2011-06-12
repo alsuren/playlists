@@ -1,4 +1,7 @@
-{"playlist_name": "Swing Blues", "songs": [
+{"playlist_name": "Swing Blues",
+"http_link": "http://open.spotify.com/user/fi.warner/playlist/1Wa0qiV1CCn8oApfIJuFwG",
+"spotify_link": "spotify:user:fi.warner:playlist:1Wa0qiV1CCn8oApfIJuFwG",
+"songs": [
 {"name": "Red Door Blues", "artists": ["Indigo Swing"], "album": "Indigo Swing", "duration": 162000, "link": "spotify:track:1IswD6C4Vs6a6AiP1fHhh9"},
 {"name": "Rocky Mountain Blues", "artists": ["Billie Holliday"], "album": "Le jazz de Cabu - une petite histoire du swing de Louis Armstrong à Miles Davis", "duration": 191000, "link": "spotify:track:7JW81xl2R0JuMvGP9kKO9y"},
 {"name": "Jump Swing Blues", "artists": ["Rick Krive"], "album": "Swing", "duration": 238000, "link": "spotify:track:5WCeiDvs4PuwuKWzgAqTdM"},

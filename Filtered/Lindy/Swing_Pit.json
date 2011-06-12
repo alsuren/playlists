@@ -1,4 +1,7 @@
-{"playlist_name": "Swing Pit", "songs": [
+{"playlist_name": "Swing Pit",
+"http_link": "http://open.spotify.com/user/laura.h.knight/playlist/7nYM19nWy5bf4gGAdfE6my",
+"spotify_link": "spotify:user:laura.h.knight:playlist:7nYM19nWy5bf4gGAdfE6my",
+"songs": [
 {"name": "There's Honey on the Moon Tonight", "artists": ["Fats Waller"], "album": "Archive '27-'41", "duration": 156000, "link": "spotify:track:3RYLywz4gbL57J1GVygkcY"},
 {"name": "I Wish I Could Shimmy Like My Sister Kate", "artists": ["Muggsy Spanier"], "album": "Masters of Classic Jazz: The Trumpet", "duration": 152000, "link": "spotify:track:5ZdC2h7biG8NkiBkODxLiD"},
 {"name": "Gimme A Pigfoot", "artists": ["La Vern Baker"], "album": "La Vern Baker Sings Bessie Smith", "duration": 191000, "link": "spotify:track:3xtuvsSAtxSIqjl47D4Bdu"},

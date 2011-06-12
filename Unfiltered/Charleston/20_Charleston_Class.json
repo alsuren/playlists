@@ -1,4 +1,7 @@
-{"playlist_name": "20 Charleston Class", "songs": [
+{"playlist_name": "20 Charleston Class",
+"http_link": "http://open.spotify.com/user/laura.h.knight/playlist/6xyQhqPj7SDRAmD2J7eqRn",
+"spotify_link": "spotify:user:laura.h.knight:playlist:6xyQhqPj7SDRAmD2J7eqRn",
+"songs": [
 {"name": "Happy Feet", "artists": ["The Manhattan Rhythm Kings"], "album": "The Aviator Music From The Motion Picture", "duration": 178000, "link": "spotify:track:66gUOgx2fKdlE9CjDZw7s7"},
 {"name": "Charleston", "artists": ["Sidney Bechet"], "album": "Love For Sale", "duration": 233000, "link": "spotify:track:3S1nVLcRJqUYLcuG9cWk4p"},
 {"name": "Who's Sorry Now", "artists": ["Boilermaker Jazz Band"], "album": "Give Me Your Telephone Number", "duration": 234000, "link": "spotify:track:3hOAzBncYKX3c9wxvSluOy"},

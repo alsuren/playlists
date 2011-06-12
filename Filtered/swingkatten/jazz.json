@@ -1,4 +1,7 @@
-{"playlist_name": "jazz", "songs": [
+{"playlist_name": "jazz",
+"http_link": "http://open.spotify.com/user/swingkatten/playlist/5IXi76dzTJYHdMoTVSGXWu",
+"spotify_link": "spotify:user:swingkatten:playlist:5IXi76dzTJYHdMoTVSGXWu",
+"songs": [
 {"name": "Moanin' - Live", "artists": ["Oscar Peterson"], "album": "Ballads, Blues & Bossa Nova (Jazz Club)", "duration": 337000, "link": "spotify:track:4ZxUN8sXuLtH1YX3dQ8y6E"},
 {"name": "Harlem Nocturne", "artists": ["DUKE ELLINGTON"], "album": "Duke Ellington", "duration": 171000, "link": "spotify:track:77BkFFr4NvODPoHhJo83LV"},
 {"name": "O Tannenbaum", "artists": ["Vince Guaraldi Trio"], "album": "A Charlie Brown Christmas [Expanded]", "duration": 310000, "link": "spotify:track:26K487DjriwukQ5KuZpfLo"},

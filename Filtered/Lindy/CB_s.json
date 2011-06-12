@@ -1,4 +1,7 @@
-{"playlist_name": "CB's", "songs": [
+{"playlist_name": "CB's",
+"http_link": "http://open.spotify.com/user/hot.chilli/playlist/504hdStCeDDlvAcWEzBOs9",
+"spotify_link": "spotify:user:hot.chilli:playlist:504hdStCeDDlvAcWEzBOs9",
+"songs": [
 {"name": "All The Cats Join In - Original", "artists": ["Benny Goodman"], "album": "All The Cats Join In", "duration": 263000, "link": "spotify:track:7ciE20GvYcFk4qVDPfOi9x"},
 {"name": "When I Get Low I Get High", "artists": ["Ella Fitzgerald"], "album": "Ella Fitzgerald Vol.2", "duration": 149000, "link": "spotify:track:6I02q9OIDOT2S7kvnEV5Di"},
 {"name": "Spooks", "artists": ["Louis Armstrong", "Gordon Jenkins"], "album": "Satchmo In Style", "duration": 156000, "link": "spotify:track:5QpSh3ZtTDqpC0QYYbidIN"},

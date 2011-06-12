@@ -1,4 +1,7 @@
-{"playlist_name": "Gospel", "songs": [
+{"playlist_name": "Gospel",
+"http_link": "http://open.spotify.com/user/alandra/playlist/2a5S18pdFwdjKKuIV4BOP5",
+"spotify_link": "spotify:user:alandra:playlist:2a5S18pdFwdjKKuIV4BOP5",
+"songs": [
 {"name": "Rock My Soul", "artists": ["Heavenly Gospel Singers"], "album": "Heavenly Gospel Singers Vol. 2 (1936-1937)", "duration": 178000, "link": "spotify:track:7AW0z6W0ItKCBVNvgbzM9q"},
 {"name": "Children Go Where I Send Thee", "artists": ["Gospel Starlets"], "album": "Gospel Soul Of Christmas", "duration": 160000, "link": "spotify:track:36hCk1DNzLKhYMvXxjuYHM"},
 {"name": "He's My Rock", "artists": ["The Five Blind Boys Of Mississippi"], "album": "Essential Gospel Masters", "duration": 176000, "link": "spotify:track:5PGbLLZ5Yz28tFPoCl9Wdd"},

@@ -1,4 +1,7 @@
-{"playlist_name": "arkiv - lindy för nybörjare", "songs": [
+{"playlist_name": "arkiv - lindy för nybörjare",
+"http_link": "http://open.spotify.com/user/swingkatten/playlist/1kJiedlIsVuhTaUMMoOrK5",
+"spotify_link": "spotify:user:swingkatten:playlist:1kJiedlIsVuhTaUMMoOrK5",
+"songs": [
 {"name": "The Gal From Joe's (02-24-39)", "artists": ["Charlie Barnet"], "album": "Complete Jazz Series 1937 - 1939", "duration": 203000, "link": "spotify:track:6iUaEBowLweeU41scWwjmb"},
 {"name": "Hey Now, Hey Now", "artists": ["Cab Calloway"], "album": "Are You Hep To The Jive?", "duration": 174000, "link": "spotify:track:1dUon4PSpGXuqKvVjtSsoC"},
 {"name": "Apollo Jump", "artists": ["Lucky Millinder"], "album": "Jumpin' Jive!", "duration": 206000, "link": "spotify:track:24l1e01BanY6440NZ8DsUU"},

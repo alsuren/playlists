@@ -1,4 +1,7 @@
-{"playlist_name": "speakeasy-2011-04-25", "songs": [
+{"playlist_name": "speakeasy-2011-04-25",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/4zPMSspmsfpzPOgLnrI079",
+"spotify_link": "spotify:user:alsuren:playlist:4zPMSspmsfpzPOgLnrI079",
+"songs": [
 {"name": "Gimme A Pigfoot", "artists": ["La Vern Baker"], "album": "La Vern Baker Sings Bessie Smith", "duration": 191000, "link": "spotify:track:3xtuvsSAtxSIqjl47D4Bdu"},
 {"name": "The Frim Fram Sauce", "artists": ["Ella Fitzgerald"], "album": "Ella Fitzgerald", "duration": 196000, "link": "spotify:track:5J7ylyGSrSbGuZwBRm14JR"},
 {"name": "Vem Vet", "artists": ["Lisa Ekdahl"], "album": "Lisa Ekdahl", "duration": 185000, "link": "spotify:track:0oKOAL9nhFMieApXNLYkZ8"},

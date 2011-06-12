@@ -1,4 +1,7 @@
-{"playlist_name": "+ Standards/Overplayed", "songs": [
+{"playlist_name": "+ Standards/Overplayed",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/3nO6xTuYkFTcNcSTYb72mB",
+"spotify_link": "spotify:user:alsuren:playlist:3nO6xTuYkFTcNcSTYb72mB",
+"songs": [
 {"name": "It's A Man's Man's Man's World", "artists": ["James Brown"], "album": "Sex Machine", "duration": 168000, "link": "spotify:local:James+Brown:Sex+Machine:It%27s+A+Man%27s+Man%27s+Man%27s+World:168"},
 {"name": "Sinkin' Soon", "artists": ["Norah Jones"], "album": "Not Too Late", "duration": 278000, "link": "spotify:track:3zjM3l6tM50gSNNBJ7zdAa"},
 {"name": "Egyptian Fantasy", "artists": ["Sidney Bechet"], "album": "BD Jazz - Sidney Bechet in New York - CD2", "duration": 186000, "link": "spotify:local:Sidney+Bechet:BD+Jazz+-+Sidney+Bechet+in+New+York+-+CD2:Egyptian+Fantasy:186"},

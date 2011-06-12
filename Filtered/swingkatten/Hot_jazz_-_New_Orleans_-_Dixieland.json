@@ -1,4 +1,7 @@
-{"playlist_name": "Hot jazz - New Orleans - Dixieland", "songs": [
+{"playlist_name": "Hot jazz - New Orleans - Dixieland",
+"http_link": "http://open.spotify.com/user/swingkatten/playlist/33GnsZLag4WTNU3zbTtmat",
+"spotify_link": "spotify:user:swingkatten:playlist:33GnsZLag4WTNU3zbTtmat",
+"songs": [
 {"name": "Shake That Thing", "artists": ["Vince Giordano's Nighthawks"], "album": "The Aviator Music From The Motion Picture", "duration": 178000, "link": "spotify:track:6h8zXaMGp0daGIiwlsQG9y"},
 {"name": "Viper Mad", "artists": ["Firecracker Jazz Band"], "album": "Firecracker Jazz Band Explodes", "duration": 290000, "link": "spotify:track:3zU5wx7LAzrsyYcYGu7GiD"},
 {"name": "At The Jazzband Ball", "artists": ["Papa Bue", "Dutch Swing College Band", "Kenny Ball", "Chris Barber", "Acker Bilk"], "album": "The Swing Code", "duration": 225000, "link": "spotify:track:7HyJzi7BDGOwsBeG2WGMth"},

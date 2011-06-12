@@ -1,4 +1,7 @@
-{"playlist_name": "May 2010", "songs": [
+{"playlist_name": "May 2010",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/6nG6TSXdou8sk3RWHoGK3a",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:6nG6TSXdou8sk3RWHoGK3a",
+"songs": [
 {"name": "Dancing In The Street", "artists": ["Martha Reeves"], "album": "Hits Of The Sixties [Disc 2]", "duration": 154000, "link": "spotify:local:Martha+Reeves:Hits+Of+The+Sixties+%5bDisc+2%5d:Dancing+In+The+Street:154"},
 {"name": "Sent For You Yesterday", "artists": ["Count Basie"], "album": "The Best of Early Basie", "duration": 178000, "link": "spotify:local:Count+Basie:The+Best+of+Early+Basie:Sent+For+You+Yesterday:178"},
 {"name": "Stevie Wonder / Signed, Sealed, Delivered I'm Yours", "artists": ["The Greatest Motown Stars"], "album": "Love From Motown", "duration": 155000, "link": "spotify:local:The+Greatest+Motown+Stars:Love+From+Motown:Stevie+Wonder+%2f+Signed%2c+Sealed%2c+Deli"},

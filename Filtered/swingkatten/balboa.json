@@ -1,4 +1,7 @@
-{"playlist_name": "balboa", "songs": [
+{"playlist_name": "balboa",
+"http_link": "http://open.spotify.com/user/swingkatten/playlist/2U9MYDeE9Pdkac5JuIv1rT",
+"spotify_link": "spotify:user:swingkatten:playlist:2U9MYDeE9Pdkac5JuIv1rT",
+"songs": [
 {"name": "Down South Camp Meeting (05-06-37)", "artists": ["Charlie Barnet"], "album": "Complete Jazz Series 1936 - 1937", "duration": 161000, "link": "spotify:track:5h3mzkRdyEhDX7Q7R2BOnN"},
 {"name": "Rigamarole - Original", "artists": ["Willie Bryant and His Orchestra"], "album": "Willie Bryant and His Orchestra Selected Favorites", "duration": 155000, "link": "spotify:track:3iXkrE2p6kDzdLxV3tin2y"},
 {"name": "All The Cats Join In", "artists": ["George Gee And The Jump Jivin' Wailers"], "album": "If Dreams Come True", "duration": 259000, "link": "spotify:track:5uuJeYDhBJDW0fso9vXhlm"},

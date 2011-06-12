@@ -1,4 +1,7 @@
-{"playlist_name": "Electro swing", "songs": [
+{"playlist_name": "Electro swing",
+"http_link": "http://open.spotify.com/user/helenhighwater/playlist/3dBAkgbpfIvaMgeSUEhaPW",
+"spotify_link": "spotify:user:helenhighwater:playlist:3dBAkgbpfIvaMgeSUEhaPW",
+"songs": [
 {"name": "KissKiss", "artists": ["Parov Stelar"], "album": "Hôtel Costes 8 by Stéphane Pompougnac", "duration": 281000, "link": "spotify:track:0jakfggA0WkYpkAXni6pts"},
 {"name": "Kiss me twice", "artists": ["Parov Stelar"], "album": "Hôtel Costes 9 by Stéphane Pompougnac", "duration": 284000, "link": "spotify:track:3NVWHqOWoYQyewSBO3g8Mt"},
 {"name": "Chambermaid Swing", "artists": ["Parov Stelar"], "album": "Lounge Classics Digital Box Set; The Platinum Collection Of Timeless Chilled Bar Grooves", "duration": 346000, "link": "spotify:track:6X9V0eW5oB4M6FlxQfd12L"},

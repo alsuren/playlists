@@ -1,4 +1,7 @@
-{"playlist_name": "Blues...dance", "songs": [
+{"playlist_name": "Blues...dance",
+"http_link": "http://open.spotify.com/user/tenants/playlist/3XxJPcIKUJr1xe8UKOKUw6",
+"spotify_link": "spotify:user:tenants:playlist:3XxJPcIKUJr1xe8UKOKUw6",
+"songs": [
 {"name": "Reconsider Baby", "artists": ["Lonnie Brooks"], "album": "Reconsider Baby (The Blues Collection Vol.40)", "duration": 191000, "link": "spotify:local:Lonnie+Brooks:Reconsider+Baby+%28The+Blues+Collection+Vol.40%29:Reconsider+Baby:191"},
 {"name": "Two Guitars Shuffle", "artists": ["Lonnie Brooks"], "album": "Reconsider Baby (The Blues Collection Vol.40)", "duration": 381000, "link": "spotify:local:Lonnie+Brooks:Reconsider+Baby+%28The+Blues+Collection+Vol.40%29:Two+Guitars+Shuffle:3"},
 {"name": "The Thrill Is Gone", "artists": ["B.B. King"], "album": "The King Of The Blues (The Blues Collection Vol.2)", "duration": 304000, "link": "spotify:local:B.B.+King:The+King+Of+The+Blues+%28The+Blues+Collection+Vol.2%29:The+Thrill+Is+Gone:3"},

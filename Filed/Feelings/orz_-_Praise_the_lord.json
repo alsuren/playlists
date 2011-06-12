@@ -1,4 +1,7 @@
-{"playlist_name": "orz - Praise the lord", "songs": [
+{"playlist_name": "orz - Praise the lord",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/0V05uvxd7cLXfc7vRxMwBL",
+"spotify_link": "spotify:user:alsuren:playlist:0V05uvxd7cLXfc7vRxMwBL",
+"songs": [
 {"name": "Up And Above My Head I Hear Music In The Air", "artists": ["Sister Rosetta Tharpe"], "album": "Roots Of R&B", "duration": 152000, "link": "spotify:local:Sister+Rosetta+Tharpe:Roots+Of+R%26B:Up+And+Above+My+Head+I+Hear+Music+In+The+Air:152"},
 {"name": "Keep Your Hand On The Plow", "artists": ["Mahalia Jackson"], "album": "The Queen Of Gospel", "duration": 148000, "link": "spotify:local:Mahalia+Jackson:The+Queen+Of+Gospel:Keep+Your+Hand+On+The+Plow:148"},
 ]}

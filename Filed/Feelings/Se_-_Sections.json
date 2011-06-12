@@ -1,4 +1,7 @@
-{"playlist_name": "Se - Sections", "songs": [
+{"playlist_name": "Se - Sections",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/3jb2m9TvHn8OsBHbDQHxKF",
+"spotify_link": "spotify:user:alsuren:playlist:3jb2m9TvHn8OsBHbDQHxKF",
+"songs": [
 {"name": "Get Happy", "artists": ["Ella Fitzgerald"], "album": "Gold - Ella Fitzgerald (CD 1)", "duration": 212000, "link": "spotify:local:Ella+Fitzgerald:Gold+-+Ella+Fitzgerald+%28CD+1%29:Get+Happy:212"},
 {"name": "Diga Diga Doo", "artists": ["Toots Thielemans"], "album": "1955-1978", "duration": 275000, "link": "spotify:local:Toots+Thielemans:1955-1978:Diga+Diga+Doo:275"},
 {"name": "Straighten Up And Fly Right", "artists": ["Nat King Cole"], "album": "Straighten Up And Right", "duration": 146000, "link": "spotify:track:4NAYWeo8QTYDodVYzhqJ3O"},

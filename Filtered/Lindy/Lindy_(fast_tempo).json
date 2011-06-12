@@ -1,4 +1,7 @@
-{"playlist_name": "Lindy (fast tempo)", "songs": [
+{"playlist_name": "Lindy (fast tempo)",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/2dvkG3MBSKHOocwyNovlxQ",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:2dvkG3MBSKHOocwyNovlxQ",
+"songs": [
 {"name": "Honeysuckle Rose", "artists": ["Count Basie"], "album": "The Best of Early Basie", "duration": 178000, "link": "spotify:local:Count+Basie:The+Best+of+Early+Basie:Honeysuckle+Rose:178"},
 {"name": "Jumpin' At The Woodside", "artists": ["Count Basie"], "album": "The Best of Early Basie", "duration": 185000, "link": "spotify:local:Count+Basie:The+Best+of+Early+Basie:Jumpin%27+At+The+Woodside:185"},
 {"name": "Shorty George", "artists": ["Count Basie"], "album": "The Best of Early Basie", "duration": 165000, "link": "spotify:local:Count+Basie:The+Best+of+Early+Basie:Shorty+George:165"},

@@ -1,4 +1,7 @@
-{"playlist_name": "Random mix of swing", "songs": [
+{"playlist_name": "Random mix of swing",
+"http_link": "http://open.spotify.com/user/wisehelayna/playlist/3sjDqzNIDcPztKiEV1RNTP",
+"spotify_link": "spotify:user:wisehelayna:playlist:3sjDqzNIDcPztKiEV1RNTP",
+"songs": [
 {"name": "With Plenty Of Money And You", "artists": ["Tony Bennett", "Count Basie"], "album": "A Couple Of Swells", "duration": 93000, "link": "spotify:track:7MLGwC92d8t1DGEpULcPQm"},
 {"name": "You And Me And The Bottle Makes 3 Tonight", "artists": ["Various Artists"], "album": "Music That Swings", "duration": 219000, "link": "spotify:track:0yP5WCpFNHLhiWid3e4j45"},
 {"name": "Knock Me A Kiss", "artists": ["Louis Jordan"], "album": "Five Guys Named Moe", "duration": 141000, "link": "spotify:track:4jFhVBfB0GOz7ZTGjsGAlW"},

@@ -1,4 +1,7 @@
-{"playlist_name": "Triple Step Practise", "songs": [
+{"playlist_name": "Triple Step Practise",
+"http_link": "http://open.spotify.com/user/kazaroth/playlist/5iYKd57z2najpI5uMoyHwd",
+"spotify_link": "spotify:user:kazaroth:playlist:5iYKd57z2najpI5uMoyHwd",
+"songs": [
 {"name": "The Frim Fram Sauce", "artists": ["Ella Fitzgerald"], "album": "Ella Fitzgerald", "duration": 196000, "link": "spotify:track:5J7ylyGSrSbGuZwBRm14JR"},
 {"name": "Aint Misbehavin", "artists": ["Fats Waller"], "album": "Fats Waller Vol. 10", "duration": 235000, "link": "spotify:track:3VpFxtf35qtjEqd3C8BFp2"},
 {"name": "Too Darn Hot", "artists": ["Ella Fitzgerald"], "album": "Songbooks - Ella Fitzgerald Sings Cole Porter And Rodgers & Hart", "duration": 229000, "link": "spotify:track:05wouriIITwBnVEpE13jmD"},

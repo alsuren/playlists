@@ -1,4 +1,7 @@
-{"playlist_name": "Charleston", "songs": [
+{"playlist_name": "Charleston",
+"http_link": "http://open.spotify.com/user/green_glitter_/playlist/58meG8aJXcxCUWtbV8TwjL",
+"spotify_link": "spotify:user:green_glitter_:playlist:58meG8aJXcxCUWtbV8TwjL",
+"songs": [
 {"name": "Charleston", "artists": ["Sam Levine"], "album": "Dixieland Jazz", "duration": 151000, "link": "spotify:track:7v207hdBWC3x7ulva83dWt"},
 {"name": "Shake That Thing", "artists": ["Vince Giordano's Nighthawks"], "album": "The Aviator Music From The Motion Picture", "duration": 178000, "link": "spotify:track:6h8zXaMGp0daGIiwlsQG9y"},
 {"name": "Sister Kate", "artists": ["The Ditty Bops"], "album": "The Ditty Bops", "duration": 145000, "link": "spotify:track:1kqTuY7rbpPSOrOjQlumDN"},

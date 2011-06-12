@@ -1,4 +1,7 @@
-{"playlist_name": "Saturday set", "songs": [
+{"playlist_name": "Saturday set",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/4vFiao7lDX0Ar5tJhLspty",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:4vFiao7lDX0Ar5tJhLspty",
+"songs": [
 {"name": "I Get The Sweetest Feeling", "artists": ["Jackie Wilson"], "album": "Hits Of The Sixties [Disc 2]", "duration": 175000, "link": "spotify:local:Jackie+Wilson:Hits+Of+The+Sixties+%5bDisc+2%5d:I+Get+The+Sweetest+Feeling:175"},
 {"name": "Harlem Shuffle", "artists": ["Bob & Earl"], "album": "Hits Of The Sixties [Disc 2]", "duration": 171000, "link": "spotify:local:Bob+%26+Earl:Hits+Of+The+Sixties+%5bDisc+2%5d:Harlem+Shuffle:171"},
 {"name": "Gimme Some Lovin'", "artists": ["The Spencer Davis Group"], "album": "Sounds Of The Sixties", "duration": 174000, "link": "spotify:local:The+Spencer+Davis+Group:Sounds+Of+The+Sixties:Gimme+Some+Lovin%27:174"},

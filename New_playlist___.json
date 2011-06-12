@@ -1,3 +1,6 @@
-{"playlist_name": "New playlist...", "songs": [
+{"playlist_name": "New playlist...",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/2SH1Hmzsu6F5lrHhPMx6Zk",
+"spotify_link": "spotify:user:alsuren:playlist:2SH1Hmzsu6F5lrHhPMx6Zk",
+"songs": [
 {"name": "silence.mp3", "artists": [""], "album": "", "duration": 30000, "link": "spotify:local:::silence.mp3:30"},
 ]}

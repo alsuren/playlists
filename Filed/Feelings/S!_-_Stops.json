@@ -1,4 +1,7 @@
-{"playlist_name": "S! - Stops", "songs": [
+{"playlist_name": "S! - Stops",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/5aByDuO6d3kQPHJ2Xw81jN",
+"spotify_link": "spotify:user:alsuren:playlist:5aByDuO6d3kQPHJ2Xw81jN",
+"songs": [
 {"name": "Stop It's Wonderful", "artists": ["Tommy Dorsey"], "album": "Herrang Compilation - Classics", "duration": 170000, "link": "spotify:local:Tommy+Dorsey:Herrang+Compilation+-+Classics:Stop+It%27s+Wonderful:170"},
 {"name": "Posin", "artists": ["Jimmie Lunceford"], "album": "Herrang Compilation - Classics", "duration": 180000, "link": "spotify:local:Jimmie+Lunceford:Herrang+Compilation+-+Classics:Posin:180"},
 {"name": "Posin", "artists": ["Jimmie Lunceford"], "album": "Herrang Compilation - Classics", "duration": 180000, "link": "spotify:local:Jimmie+Lunceford:Herrang+Compilation+-+Classics:Posin:180"},

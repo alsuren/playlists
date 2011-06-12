@@ -1,4 +1,7 @@
-{"playlist_name": "Modern stuff for blues", "songs": [
+{"playlist_name": "Modern stuff for blues",
+"http_link": "http://open.spotify.com/user/tenants/playlist/0mqNn6tBVo8BcmCR9MggD6",
+"spotify_link": "spotify:user:tenants:playlist:0mqNn6tBVo8BcmCR9MggD6",
+"songs": [
 {"name": "Sinkin' Soon", "artists": ["Norah Jones"], "album": "Not Too Late", "duration": 278000, "link": "spotify:track:3zjM3l6tM50gSNNBJ7zdAa"},
 {"name": "Two Left Feet", "artists": ["Holly Golightly", "The Brokeoffs"], "album": "Medicine County", "duration": 202000, "link": "spotify:track:73QSdyWpaWekKBevF2wf1h"},
 {"name": "Sweat", "artists": ["Popa Chubby"], "album": "Booty And The Beast", "duration": 352000, "link": "spotify:track:3QQH3sINjCT91WavuMwn6S"},

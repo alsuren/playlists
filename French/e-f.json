@@ -1,4 +1,7 @@
-{"playlist_name": "e-f", "songs": [
+{"playlist_name": "e-f",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/5LfwOHAzS0sTJ7Oy1OSmG7",
+"spotify_link": "spotify:user:alsuren:playlist:5LfwOHAzS0sTJ7Oy1OSmG7",
+"songs": [
 {"name": "Nouns 1", "artists": ["Penton Overseas, Inc."], "album": "Vocabulearn ® French - English Level 1", "duration": 814000, "link": "spotify:track:2qbxM5GqOprrL7K1Gq8cYz"},
 {"name": "Nouns 2", "artists": ["Penton Overseas, Inc."], "album": "Vocabulearn ® French - English Level 1", "duration": 431000, "link": "spotify:track:4yiyLKVjrSi53qYzLEacvV"},
 {"name": "Adjectives, Adverbs, Prepositions, Conjunctions 1", "artists": ["Penton Overseas, Inc."], "album": "Vocabulearn ® French - English Level 1", "duration": 623000, "link": "spotify:track:51bNmdtX9bGX2cVoDecqnV"},

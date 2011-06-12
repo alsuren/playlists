@@ -1,4 +1,7 @@
-{"playlist_name": "Balboa", "songs": [
+{"playlist_name": "Balboa",
+"http_link": "http://open.spotify.com/user/alandra/playlist/3soqAaWPocDRnJnoWghMhz",
+"spotify_link": "spotify:user:alandra:playlist:3soqAaWPocDRnJnoWghMhz",
+"songs": [
 {"name": "Keep Your Hand On The Plow", "artists": ["Mahalia Jackson"], "album": "The Queen Of Gospel", "duration": 148000, "link": "spotify:local:Mahalia+Jackson:The+Queen+Of+Gospel:Keep+Your+Hand+On+The+Plow:148"},
 {"name": "For Lisa (An Adaptation of Beethoven's "Fur Elise")", "artists": ["The Brian Setzer Orchestra"], "album": "Wolfgang's Big Night Out", "duration": 225000, "link": "spotify:local:The+Brian+Setzer+Orchestra:Wolfgang%27s+Big+Night+Out:For+Lisa+%28An+Adaptation+of+Be"},
 {"name": "The jumpin' blues", "artists": ["Charlie Parker"], "album": "The Bird", "duration": 188000, "link": "spotify:local:Charlie+Parker:The+Bird:The+jumpin%27+blues:188"},

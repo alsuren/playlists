@@ -1,4 +1,7 @@
-{"playlist_name": "Madrid Swing", "songs": [
+{"playlist_name": "Madrid Swing",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/3L02mVOqZVkzEUddGJ2dbR",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:3L02mVOqZVkzEUddGJ2dbR",
+"songs": [
 {"name": "Jam Session", "artists": ["Benny Goodman"], "album": "The Birth Of Swing (1935-1936) (Disc 3)", "duration": 176000, "link": "spotify:local:Benny+Goodman:The+Birth+Of+Swing+%281935-1936%29+%28Disc+3%29:Jam+Session:176"},
 {"name": "Sent For You Yesterday", "artists": ["Count Basie"], "album": "The Best of Early Basie", "duration": 178000, "link": "spotify:local:Count+Basie:The+Best+of+Early+Basie:Sent+For+You+Yesterday:178"},
 {"name": "Jam Session", "artists": ["Benny Goodman"], "album": "The Birth Of Swing (1935-1936) (Disc 3)", "duration": 176000, "link": "spotify:local:Benny+Goodman:The+Birth+Of+Swing+%281935-1936%29+%28Disc+3%29:Jam+Session:176"},

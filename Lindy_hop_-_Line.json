@@ -1,4 +1,7 @@
-{"playlist_name": "Lindy hop - Line", "songs": [
+{"playlist_name": "Lindy hop - Line",
+"http_link": "http://open.spotify.com/user/meytal/playlist/2UukEnVDsrHqDTIbOZ5hJF",
+"spotify_link": "spotify:user:meytal:playlist:2UukEnVDsrHqDTIbOZ5hJF",
+"songs": [
 {"name": "These Foolish Things", "artists": ["Teddy Wilson And His Orchestra With Billie Holliday"], "album": "Billie Holiday (Disc 01)", "duration": 196000, "link": "spotify:track:4FSpUL5TGUV5227d5Rt7Uw"},
 {"name": "Love Me Or Leave Me", "artists": ["Billie Holliday"], "album": "Le jazz de Cabu - une petite histoire du swing de Louis Armstrong à Miles Davis", "duration": 157000, "link": "spotify:track:4Wwk4HH3WDY56giKd8gyKt"},
 {"name": "I Can't Give You Anything But Love", "artists": ["Ella Fitzgerald"], "album": "All Roads Lead To Rome", "duration": 311000, "link": "spotify:track:4PSTjS4UZpU8Ckg5vcMsR9"},

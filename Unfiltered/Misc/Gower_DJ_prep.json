@@ -1,4 +1,7 @@
-{"playlist_name": "Gower DJ prep", "songs": [
+{"playlist_name": "Gower DJ prep",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/0fNC9bSBvtRPfeTNRnrJ0Y",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:0fNC9bSBvtRPfeTNRnrJ0Y",
+"songs": [
 {"name": "Twenty-Four Robbers (rip)", "artists": ["Fats Waller"], "album": "Ain't Misbehavin'", "duration": 171000, "link": "spotify:local:Fats+Waller:Ain%27t+Misbehavin%27:Twenty-Four+Robbers+%28rip%29:171"},
 {"name": "Little Pony", "artists": ["Count Basie"], "album": "America's #1 Band!: Columbia Years (Disc 3)", "duration": 149000, "link": "spotify:local:Count+Basie:America%27s+%231+Band%21%3a+Columbia+Years+%28Disc+3%29:Little+Pony:149"},
 {"name": "You Know I'm No Good", "artists": ["Amy Winehouse"], "album": "Back To Black", "duration": 257000, "link": "spotify:local:Amy+Winehouse:Back+To+Black:You+Know+I%27m+No+Good:257"},

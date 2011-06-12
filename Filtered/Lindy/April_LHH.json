@@ -1,4 +1,7 @@
-{"playlist_name": "April LHH", "songs": [
+{"playlist_name": "April LHH",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/2JuQZ5ZcckjIA2psbkPGUU",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:2JuQZ5ZcckjIA2psbkPGUU",
+"songs": [
 {"name": "Jumpin' At The Woodside", "artists": ["Count Basie"], "album": "The Best of Early Basie", "duration": 185000, "link": "spotify:local:Count+Basie:The+Best+of+Early+Basie:Jumpin%27+At+The+Woodside:185"},
 {"name": "Jumpin' At The Woodside", "artists": ["Count Basie"], "album": "The Best of Early Basie", "duration": 185000, "link": "spotify:local:Count+Basie:The+Best+of+Early+Basie:Jumpin%27+At+The+Woodside:185"},
 {"name": "Celery Stalks At Midnight", "artists": ["Big 18"], "album": "More Live Echoes Of The Swinging Bands", "duration": 253000, "link": "spotify:local:Big+18:More+Live+Echoes+Of+The+Swinging+Bands:Celery+Stalks+At+Midnight:253"},

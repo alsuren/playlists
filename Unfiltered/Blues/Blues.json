@@ -1,4 +1,7 @@
-{"playlist_name": "Blues", "songs": [
+{"playlist_name": "Blues",
+"http_link": "http://open.spotify.com/user/alandra/playlist/4hBu9wBxUCh5DtHdXQUvI5",
+"spotify_link": "spotify:user:alandra:playlist:4hBu9wBxUCh5DtHdXQUvI5",
+"songs": [
 {"name": "Mr. Siegal", "artists": ["Tom Waits"], "album": "Heartattack And Vine", "duration": 315000, "link": "spotify:track:7kmuwX8aKwn9hBHmxy8sbX"},
 {"name": "Rhapsody In Blue", "artists": ["DUKE ELLINGTON"], "album": "Recollections Of The Big Band Era", "duration": 289000, "link": "spotify:track:0xoeC8rWOhU66yJd023HXk"},
 {"name": "St. James' Infirmary", "artists": ["Django Reinhardt"], "album": "Django In Rome 1949/1950 - CD D", "duration": 156000, "link": "spotify:track:65bresqAibbgh9vYya7YzG"},

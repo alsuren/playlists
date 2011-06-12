@@ -1,4 +1,7 @@
-{"playlist_name": "Favorite Swing", "songs": [
+{"playlist_name": "Favorite Swing",
+"http_link": "http://open.spotify.com/user/robertwiberg/playlist/2w3Q92Mzwds9vhZXpyftsZ",
+"spotify_link": "spotify:user:robertwiberg:playlist:2w3Q92Mzwds9vhZXpyftsZ",
+"songs": [
 {"name": "Three Little Fishes", "artists": ["Kay Kyser & His Orchestra"], "album": "The Very Best Of", "duration": 190000, "link": "spotify:track:5CIWcy5rzdMICSXaPUtYTW"},
 {"name": "Three Little Fishes", "artists": ["The Mills Brothers"], "album": "The Very Best of the Mills Brothers", "duration": 161000, "link": "spotify:track:3LDAIoEK7yiZVCCclQ6PBy"},
 {"name": "Three Little Fishes", "artists": ["The Smoothies"], "album": "Easy Does It (Part 1)", "duration": 204000, "link": "spotify:track:37G5BsggwSRO3llGZuHeVF"},

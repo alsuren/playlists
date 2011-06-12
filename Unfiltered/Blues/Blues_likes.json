@@ -1,4 +1,7 @@
-{"playlist_name": "Blues likes", "songs": [
+{"playlist_name": "Blues likes",
+"http_link": "http://open.spotify.com/user/lmo23/playlist/2afsXgLUHNxusWwZBwu9tt",
+"spotify_link": "spotify:user:lmo23:playlist:2afsXgLUHNxusWwZBwu9tt",
+"songs": [
 {"name": "Sweet Lover", "artists": ["Aretha Franklin"], "album": "Soul Sister: The Best Of Aretha Franklin", "duration": 203000, "link": "spotify:track:2RF5atVmZfNv4Sx1ZOT2iO"},
 {"name": "It's All Right", "artists": ["Ray Charles"], "album": "Jukebox Hits", "duration": 136000, "link": "spotify:track:4EOWqXd5zSjwf4gSfH3cc7"},
 {"name": "Now That I'm Free", "artists": ["Wynona Carr"], "album": "Jump Jack Jump!", "duration": 158000, "link": "spotify:track:2Qoxu5ZCCibqQfuwDCt2ge"},

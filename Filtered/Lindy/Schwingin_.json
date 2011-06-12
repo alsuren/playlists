@@ -1,4 +1,7 @@
-{"playlist_name": "Schwingin'", "songs": [
+{"playlist_name": "Schwingin'",
+"http_link": "http://open.spotify.com/user/vbobs/playlist/0GcLXkkdBsPHYr1jLXstFX",
+"spotify_link": "spotify:user:vbobs:playlist:0GcLXkkdBsPHYr1jLXstFX",
+"songs": [
 {"name": "Duke's Place", "artists": ["DUKE ELLINGTON", "Louis Armstrong"], "album": "Capitol Sings Duke Ellington: Mood Indigo", "duration": 305000, "link": "spotify:track:0ktOa6du8o30YIy5RxManu"},
 {"name": "I'm Beginning To See The Light", "artists": ["Peggy Lee"], "album": "Things Are Swingin'", "duration": 109000, "link": "spotify:track:1HfFkGvKTZ7kPp2HQu4Qzn"},
 {"name": "Communications (12-22-47)", "artists": ["Slim Gaillard"], "album": "Complete Jazz Series 1947 - 1951", "duration": 150000, "link": "spotify:track:4Kq0wSx9fzMZVKtPwWnmHk"},

@@ -1,4 +1,7 @@
-{"playlist_name": "Lester Swings (Jammin' With Lester)", "songs": [
+{"playlist_name": "Lester Swings (Jammin' With Lester)",
+"http_link": "http://open.spotify.com/user/lestmak/playlist/2Poq45zmSqXFsN6zbZQLWl",
+"spotify_link": "spotify:user:lestmak:playlist:2Poq45zmSqXFsN6zbZQLWl",
+"songs": [
 {"name": "L-O-V-E", "artists": ["Nat King Cole"], "album": "The Unforgettable Nat King Cole", "duration": 153000, "link": "spotify:track:7E3rc13GL2I5wA6CIFXaxs"},
 {"name": "The Nango", "artists": ["Stan Kenton"], "album": "The Formative Years", "duration": 164000, "link": "spotify:track:1athAn7bf6rHIC0uJNnFpB"},
 {"name": "Lamento Gitano", "artists": ["Stan Kenton"], "album": "The Formative Years", "duration": 201000, "link": "spotify:track:56UmRFM42MGORfGMjedP13"},

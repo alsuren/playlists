@@ -1,4 +1,7 @@
-{"playlist_name": "Primavera en Madrid", "songs": [
+{"playlist_name": "Primavera en Madrid",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/2WjOFVXbtRwXjRz3FlTyWf",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:2WjOFVXbtRwXjRz3FlTyWf",
+"songs": [
 {"name": "I Ain't Got Nobody", "artists": ["Muggsy Spanier All - Stars with Earl Hines"], "album": "The Chicago Dates", "duration": 229000, "link": "spotify:local:Muggsy+Spanier+All+-+Stars+with+Earl+Hines:The+Chicago+Dates:I+Ain%27t+Got+Nobody:229"},
 {"name": "The Right Kind Of Lovin'", "artists": ["Lucky Millinder"], "album": "Apollo Jump", "duration": 160000, "link": "spotify:local:Lucky+Millinder:Apollo+Jump:The+Right+Kind+Of+Lovin%27:160"},
 {"name": "Sweet Sue Just You", "artists": ["Muggsy Spanier"], "album": "1944", "duration": 267000, "link": "spotify:local:Muggsy+Spanier:1944:Sweet+Sue+Just+You:267"},

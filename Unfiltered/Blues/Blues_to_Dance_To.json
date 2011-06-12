@@ -1,4 +1,7 @@
-{"playlist_name": "Blues to Dance To", "songs": [
+{"playlist_name": "Blues to Dance To",
+"http_link": "http://open.spotify.com/user/lilynectar/playlist/2I4KLXF1Ojh341q8KDfWVs",
+"spotify_link": "spotify:user:lilynectar:playlist:2I4KLXF1Ojh341q8KDfWVs",
+"songs": [
 {"name": "I'll Play The Blues For You (Pt. 1) - Single Version", "artists": ["Albert King"], "album": "The Very Best Of Albert King", "duration": 223000, "link": "spotify:track:3u8v3sqdPJzlqgthu1q6BM"},
 {"name": "The Thrill Is Gone", "artists": ["B.B. King"], "album": "B.B. King And His Orchestra Live", "duration": 309000, "link": "spotify:track:2l9eWSE3Tupp0ArEDo45eB"},
 {"name": "Ain't No Sunshine featuring Tracy Chapman", "artists": ["Buddy Guy"], "album": "Bring 'Em In", "duration": 205000, "link": "spotify:track:3OpDEJPWzv76Y9Q6ccLVE6"},

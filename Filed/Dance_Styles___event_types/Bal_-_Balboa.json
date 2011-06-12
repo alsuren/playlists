@@ -1,4 +1,7 @@
-{"playlist_name": "Bal - Balboa", "songs": [
+{"playlist_name": "Bal - Balboa",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/27hfUg99OYKXSPw2k2ypcd",
+"spotify_link": "spotify:user:alsuren:playlist:27hfUg99OYKXSPw2k2ypcd",
+"songs": [
 {"name": "Scram!", "artists": ["Echoes of Swing", "Leonard Feather"], "album": "Harlem Joys", "duration": 201000, "link": "spotify:track:6Rj9GAp1l02vz0PABrYc6m"},
 {"name": "Twenty-four Robbers", "artists": ["Fats Waller"], "album": "Classic Years Of Fats Waller Vol. 2", "duration": 164000, "link": "spotify:track:4wn1ZE82n53OZebeSaN6F4"},
 {"name": "Look-A There", "artists": ["Slim Gaillard", "Pompey Guts Dobson", "Slam Stewart", "Sam Allen"], "album": "Slim and Slam", "duration": 136000, "link": "spotify:track:4SKlX50Fu9E4Q3A2e3GYYP"},

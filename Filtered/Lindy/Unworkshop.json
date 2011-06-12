@@ -1,4 +1,7 @@
-{"playlist_name": "Unworkshop", "songs": [
+{"playlist_name": "Unworkshop",
+"http_link": "http://open.spotify.com/user/yoyomarules/playlist/7zllB64zWDx6LtRGZIJ20E",
+"spotify_link": "spotify:user:yoyomarules:playlist:7zllB64zWDx6LtRGZIJ20E",
+"songs": [
 {"name": "Gangbusters", "artists": ["The Cats And The Fiddle"], "album": "We Cats Will Sing For You 1939-1940 Volume 1", "duration": 187000, "link": "spotify:track:4NPCF1Gqh5QqdKBZjIwPUB"},
 {"name": "C Jam Blues - Live", "artists": ["Lincoln Center Jazz Orchestra"], "album": "Live In Swing City- Swingin' With Duke", "duration": 214000, "link": "spotify:track:5egcvD0mnAU1hLQulxxPKI"},
 {"name": "Blip Blop", "artists": ["Bill Doggett"], "album": "Monster Party", "duration": 169000, "link": "spotify:track:6AjMbVfI4nRC1xQywkAhtW"},

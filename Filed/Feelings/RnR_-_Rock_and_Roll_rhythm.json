@@ -1,4 +1,7 @@
-{"playlist_name": "RnR - Rock and Roll rhythm", "songs": [
+{"playlist_name": "RnR - Rock and Roll rhythm",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/6Hv9cP00KO5QGA1reNaV3r",
+"spotify_link": "spotify:user:alsuren:playlist:6Hv9cP00KO5QGA1reNaV3r",
+"songs": [
 {"name": "rag mop", "artists": ["lionel hampton"], "album": "(if you cant sing it) you have to swing it", "duration": 171000, "link": "spotify:local:lionel+hampton:%28if+you+cant+sing+it%29+you+have+to+swing+it:rag+mop:171"},
 {"name": "Tuxedo Junction", "artists": ["Jools Holland & His Rhythm & Blues Orchestra"], "album": "Jools Holland - More Friends - Small World Big Band Volume Two", "duration": 214000, "link": "spotify:track:1AqGGi7EG7cFjMry4PImTS"},
 {"name": "Pencil Full Of Lead", "artists": ["Paolo Nutini"], "album": "Sunny Side Up", "duration": 147000, "link": "spotify:track:6ACPfkfDfJfGGE4oKfbiRY"},

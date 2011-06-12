@@ -1,4 +1,7 @@
-{"playlist_name": "July-Oct 2010", "songs": [
+{"playlist_name": "July-Oct 2010",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/6Gkc5Gzj6Z6AgYR0BCWM6w",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:6Gkc5Gzj6Z6AgYR0BCWM6w",
+"songs": [
 {"name": "Good Morning Blues", "artists": ["Count Basie"], "album": "The Best of Early Basie", "duration": 195000, "link": "spotify:local:Count+Basie:The+Best+of+Early+Basie:Good+Morning+Blues:195"},
 {"name": "Build Me Up Buttercup", "artists": ["The Foundations"], "album": "Hits Of The Sixties [Disc 1]", "duration": 174000, "link": "spotify:local:The+Foundations:Hits+Of+The+Sixties+%5bDisc+1%5d:Build+Me+Up+Buttercup:174"},
 {"name": "Stevie Wonder / If You Really Love Me", "artists": ["The Greatest Motown Stars"], "album": "Love From Motown", "duration": 184000, "link": "spotify:local:The+Greatest+Motown+Stars:Love+From+Motown:Stevie+Wonder+%2f+If+You+Really+Love+Me:18"},

@@ -1,4 +1,7 @@
-{"playlist_name": "L - Love (possibly without logical reason)", "songs": [
+{"playlist_name": "L - Love (possibly without logical reason)",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/1OjZvaVeRNYbeGOpkG7xBD",
+"spotify_link": "spotify:user:alsuren:playlist:1OjZvaVeRNYbeGOpkG7xBD",
+"songs": [
 {"name": "Yacht club swing", "artists": ["Fats Waller"], "album": "The panic is on - CD2", "duration": 231000, "link": "spotify:local:Fats+Waller:The+panic+is+on+-+CD2:Yacht+club+swing:231"},
 {"name": "Spring cleaning", "artists": ["Fats Waller"], "album": "The panic is on - CD1", "duration": 150000, "link": "spotify:local:Fats+Waller:The+panic+is+on+-+CD1:Spring+cleaning:150"},
 {"name": "Scram!", "artists": ["Echoes of Swing", "Leonard Feather"], "album": "Harlem Joys", "duration": 201000, "link": "spotify:track:6Rj9GAp1l02vz0PABrYc6m"},

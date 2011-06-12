@@ -1,4 +1,7 @@
-{"playlist_name": "Blues Fusion - whatever that is", "songs": [
+{"playlist_name": "Blues Fusion - whatever that is",
+"http_link": "http://open.spotify.com/user/lilynectar/playlist/13Xj5YwVXZXt6RCKXlChHw",
+"spotify_link": "spotify:user:lilynectar:playlist:13Xj5YwVXZXt6RCKXlChHw",
+"songs": [
 {"name": "Cyclone", "artists": ["Ernie Halter"], "album": "Starting Over", "duration": 169000, "link": "spotify:track:4JCAPVl0NUxBDvLuSH4Qyn"},
 {"name": "Signed, Sealed, Delivered (I'm Yours)", "artists": ["Stevie Wonder"], "album": "Motown: The Complete No. 1's", "duration": 159000, "link": "spotify:track:4SP460OCd2Cz97x1OU7DZi"},
 {"name": "Glory Box", "artists": ["Portishead"], "album": "Dummy", "duration": 306000, "link": "spotify:track:1kP7mnqqSsCxmIqHnr2m20"},

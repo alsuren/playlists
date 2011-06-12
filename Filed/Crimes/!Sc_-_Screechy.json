@@ -1,4 +1,7 @@
-{"playlist_name": "!Sc - Screechy", "songs": [
+{"playlist_name": "!Sc - Screechy",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/7eviPDvQSAmKyhLgy7A4E0",
+"spotify_link": "spotify:user:alsuren:playlist:7eviPDvQSAmKyhLgy7A4E0",
+"songs": [
 {"name": "I wanna be like you", "artists": ["Ball & His Jazzmen, Kenny"], "album": "In Disneyland", "duration": 133000, "link": "spotify:local:Ball+%26+His+Jazzmen%2c+Kenny:In+Disneyland:I+wanna+be+like+you:133"},
 {"name": "Washboard Wiggles", "artists": ["Calamity Jazz"], "album": "Gettin' My Bonus In Love", "duration": 178000, "link": "spotify:track:58tghHAlUZaBOON89SZhQ7"},
 {"name": "Diga Diga Do", "artists": ["Zoot Sims", "Joe Venuti"], "album": "Joe & Zoot & More", "duration": 207000, "link": "spotify:track:1OOFnKx4gkglQIofBpw16v"},

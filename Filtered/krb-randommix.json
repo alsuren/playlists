@@ -1,4 +1,7 @@
-{"playlist_name": "krb-randommix", "songs": [
+{"playlist_name": "krb-randommix",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/2ELQyoqHY1OXMk1MZyJJjt",
+"spotify_link": "spotify:user:alsuren:playlist:2ELQyoqHY1OXMk1MZyJJjt",
+"songs": [
 {"name": "Yacht Club Swing", "artists": ["Fats Waller & His Rhythm"], "album": "A Career Perspective 1922-1943", "duration": 232000, "link": "spotify:track:48mMGmxvoEYK8EU3sJmwJa"},
 {"name": "Shake That Thing", "artists": ["Vince Giordano's Nighthawks"], "album": "The Aviator Music From The Motion Picture", "duration": 178000, "link": "spotify:track:6h8zXaMGp0daGIiwlsQG9y"},
 {"name": "The Grabtown Grapple", "artists": ["Barney Kessel"], "album": "Jazz Guitar Legends", "duration": 180000, "link": "spotify:track:5mx67BATYyDTW1bZyGQAUz"},

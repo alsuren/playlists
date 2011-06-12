@@ -1,4 +1,7 @@
-{"playlist_name": "= Common-ish sounding (bread and butter)", "songs": [
+{"playlist_name": "= Common-ish sounding (bread and butter)",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/7bdk76FlL9SS7jN1sh8AL1",
+"spotify_link": "spotify:user:alsuren:playlist:7bdk76FlL9SS7jN1sh8AL1",
+"songs": [
 {"name": "Snatch And Grab It", "artists": ["Julia Lee"], "album": "Roots Of R&B", "duration": 176000, "link": "spotify:local:Julia+Lee:Roots+Of+R%26B:Snatch+And+Grab+It:176"},
 {"name": "That Da Da Strain", "artists": ["Bud Freeman And His Famous Chicagoans"], "album": "Classic Columbia Condon Mob Sessions (CD 1)", "duration": 162000, "link": "spotify:local:Bud+Freeman+And+His+Famous+Chicagoans:Classic+Columbia+Condon+Mob+Sessions+%28CD+1%29"},
 {"name": "Taps Miller", "artists": ["Count Basie"], "album": "Count Basie", "duration": 312000, "link": "spotify:track:0m7d6D5uLnKtgWfszmST1H"},

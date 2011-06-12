@@ -1,4 +1,7 @@
-{"playlist_name": "swing", "songs": [
+{"playlist_name": "swing",
+"http_link": "http://open.spotify.com/user/swingkatten/playlist/0rAX0qCQSdjeg2u5tIs9M4",
+"spotify_link": "spotify:user:swingkatten:playlist:0rAX0qCQSdjeg2u5tIs9M4",
+"songs": [
 {"name": "'Tain't What You Do (It's The Way That Cha Do It)", "artists": ["Chick Webb's Orchestra", "Ella Fitzgerald"], "album": "Live At The Savoy Ballroom 1940", "duration": 165000, "link": "spotify:track:5Hzbp14bnTnGbHUAswdUqP"},
 {"name": "Swing It, Sister", "artists": ["Mills Brothers"], "album": "The Classic Years (Disc 1)", "duration": 157000, "link": "spotify:track:64emuCfc0xcm49AIrSMApy"},
 {"name": "The Gal From Joe's (02-24-39)", "artists": ["Charlie Barnet"], "album": "Complete Jazz Series 1937 - 1939", "duration": 203000, "link": "spotify:track:6iUaEBowLweeU41scWwjmb"},

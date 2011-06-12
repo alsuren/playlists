@@ -1,4 +1,7 @@
-{"playlist_name": "Lindy hop for beginners", "songs": [
+{"playlist_name": "Lindy hop for beginners",
+"http_link": "http://open.spotify.com/user/swingkatten/playlist/2B5Snyux79Tp3X3pzsUIHV",
+"spotify_link": "spotify:user:swingkatten:playlist:2B5Snyux79Tp3X3pzsUIHV",
+"songs": [
 {"name": "On The Sunny Side Of The Street", "artists": ["Tommy Dorsey"], "album": "The Dorsey Brothers", "duration": 192000, "link": "spotify:track:1rKUAbnATZ8onL6TOM8nP5"},
 {"name": "Hey Now, Hey Now", "artists": ["Cab Calloway"], "album": "Are You Hep To The Jive?", "duration": 174000, "link": "spotify:track:1dUon4PSpGXuqKvVjtSsoC"},
 {"name": "Apollo Jump", "artists": ["Lucky Millinder"], "album": "Jumpin' Jive!", "duration": 206000, "link": "spotify:track:24l1e01BanY6440NZ8DsUU"},

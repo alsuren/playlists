@@ -1,4 +1,7 @@
-{"playlist_name": "Ify blues", "songs": [
+{"playlist_name": "Ify blues",
+"http_link": "http://open.spotify.com/user/fi.warner/playlist/1hfsZdlKQQr4Uw6mL0fKbA",
+"spotify_link": "spotify:user:fi.warner:playlist:1hfsZdlKQQr4Uw6mL0fKbA",
+"songs": [
 {"name": "Summertime", "artists": ["Louis Armstrong", "Ella Fitzgerald"], "album": "The Beatles Jukebox", "duration": 297000, "link": "spotify:track:6ojMugRyzh3US4se7esA7Z"},
 {"name": "I'm A Good Man But A Poor Man", "artists": ["Cecil Grant"], "album": "Greatest Piano Blues Boogie", "duration": 147000, "link": "spotify:track:1sxbXpiq1ZtmejkQ4hOJ6M"},
 {"name": "What Kind Of Woman Is This?", "artists": ["Buddy Guy"], "album": "Bring 'Em In", "duration": 317000, "link": "spotify:track:3Q3bn1Ytvy9iHbBIcpXgze"},

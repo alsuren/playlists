@@ -1,4 +1,7 @@
-{"playlist_name": "Ah - Relaxed", "songs": [
+{"playlist_name": "Ah - Relaxed",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/6SWyAMOjXh4396bSxNU3FS",
+"spotify_link": "spotify:user:alsuren:playlist:6SWyAMOjXh4396bSxNU3FS",
+"songs": [
 {"name": "Blue Drag", "artists": ["Washboard Rhythm Kings"], "album": "The Washboard Rhythm Kings Vol. 3 - 1932-1933", "duration": 192000, "link": "spotify:track:7jWb9SO2e87c7MvnmKUzvw"},
 {"name": "Milk And Water", "artists": ["Amos Milburn"], "album": "The Greatest Rhythm & Booze Collection", "duration": 187000, "link": "spotify:track:2TtSJ6h8IFYJAIvgAwk84D"},
 {"name": "Bad, Bad Whiskey", "artists": ["Amos Milburn"], "album": "The Greatest Rhythm & Booze Collection", "duration": 175000, "link": "spotify:track:2ZhNhvR5MbNJ72yzAaVtQ1"},

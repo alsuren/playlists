@@ -1,4 +1,7 @@
-{"playlist_name": "R - Revival", "songs": [
+{"playlist_name": "R - Revival",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/34C9CPMmkbcTlLSyAarcRh",
+"spotify_link": "spotify:user:alsuren:playlist:34C9CPMmkbcTlLSyAarcRh",
+"songs": [
 {"name": "Love Me Or Leave Me", "artists": ["Sammy Davis Jr."], "album": "Love Me Or Leave Me", "duration": 174000, "link": "spotify:local:Sammy+Davis+Jr.:Love+Me+Or+Leave+Me:Love+Me+Or+Leave+Me:174"},
 {"name": "Blues My Naughty Sweetie Gives To Me", "artists": ["Mary Flower"], "album": "Bywater Dance", "duration": 250000, "link": "spotify:track:3MV93oKYUg9ZpjzpDAqMsj"},
 {"name": "I wanna be like you", "artists": ["Ball & His Jazzmen, Kenny"], "album": "In Disneyland", "duration": 133000, "link": "spotify:local:Ball+%26+His+Jazzmen%2c+Kenny:In+Disneyland:I+wanna+be+like+you:133"},

@@ -1,4 +1,7 @@
-{"playlist_name": "Cl - Clap hands", "songs": [
+{"playlist_name": "Cl - Clap hands",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/1Ygx1HPQF2mcbgKl9QqygB",
+"spotify_link": "spotify:user:alsuren:playlist:1Ygx1HPQF2mcbgKl9QqygB",
+"songs": [
 {"name": "(I Got Spurs That) Jingle, Jangle, Jingle", "artists": ["Kay Kyser & His Orchestra"], "album": "Best Of The Big Bands", "duration": 200000, "link": "spotify:track:45YtTdmH2PNKEnxN3uTZQy"},
 {"name": "If I Knew You Were Coming I'd Have Baked A Cake", "artists": ["Eileen Barton"], "album": "America's Greatest Hits Volume 1 1950", "duration": 158000, "link": "spotify:track:62fUEv7cRRGP5sIGbyG10q"},
 {"name": "Did You Ever See Jackie Robinson Hit That Ball?", "artists": ["Count Basie"], "album": "After You've Gone", "duration": 149000, "link": "spotify:track:5drmCKr47snm2y371t7bvj"},

@@ -1,4 +1,7 @@
-{"playlist_name": "jazz christmas", "songs": [
+{"playlist_name": "jazz christmas",
+"http_link": "http://open.spotify.com/user/westgarth89/playlist/1379ZgIomCQYyZWnBC3OB1",
+"spotify_link": "spotify:user:westgarth89:playlist:1379ZgIomCQYyZWnBC3OB1",
+"songs": [
 {"name": "Last Christmas - Single Version", "artists": ["Wham!"], "album": "LAST CHRISTMAS", "duration": 263000, "link": "spotify:track:2FRnf9qhLbvw8fu4IBXx78"},
 {"name": "The Christmas Song (Merry Christmas To You)", "artists": ["Nat King Cole Trio"], "album": "The Ultimate Jazz Christmas", "duration": 192000, "link": "spotify:track:6aFnwhvzbPmUDmJ01ZOUlw"},
 {"name": "White Christmas", "artists": ["Beegie Adair"], "album": "Jazz Piano Christmas", "duration": 269000, "link": "spotify:track:6ewZLD3goDokGTIJBanBMK"},

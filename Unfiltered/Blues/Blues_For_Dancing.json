@@ -1,4 +1,7 @@
-{"playlist_name": "Blues For Dancing", "songs": [
+{"playlist_name": "Blues For Dancing",
+"http_link": "http://open.spotify.com/user/nattsilver/playlist/0Nv61XkbZ77dFctNtGqitB",
+"spotify_link": "spotify:user:nattsilver:playlist:0Nv61XkbZ77dFctNtGqitB",
+"songs": [
 {"name": "Virginia Avenue", "artists": ["Tom Waits"], "album": "Closing Time", "duration": 190000, "link": "spotify:track:2zLEyrj0YdHgecEGmqSji0"},
 {"name": "I Want A Little Sugar In My Bowl", "artists": ["Nina Simone"], "album": "The Blues", "duration": 151000, "link": "spotify:track:2q2CBiPXqzc5lviBXNrdzs"},
 {"name": "Cold Turkey", "artists": ["Anthony David"], "album": "Mihai's Music", "duration": 280000, "link": "spotify:local:Anthony+David:Mihai%27s+Music:Cold+Turkey:280"},

@@ -1,4 +1,7 @@
-{"playlist_name": "!Bi - Stereo", "songs": [
+{"playlist_name": "!Bi - Stereo",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/7L8kIzYabsYSY3hSHv5Sbj",
+"spotify_link": "spotify:user:alsuren:playlist:7L8kIzYabsYSY3hSHv5Sbj",
+"songs": [
 {"name": "Tuxedo Junction", "artists": ["DUKE ELLINGTON"], "album": "Recollections Of The Big Band Era", "duration": 210000, "link": "spotify:track:0pZmtNFJddofD2hzM4OnAh"},
 {"name": "Opus No. 1", "artists": ["Glen Gray & The Casa Loma Orchestra"], "album": "Best Jazz 100", "duration": 179000, "link": "spotify:track:0a0QXKC9elulD4yOvqCHJj"},
 {"name": "Stomp, Stomp", "artists": ["The Cats & The Fiddle"], "album": "The Very Best Of", "duration": 176000, "link": "spotify:track:2L1xNFCiVLqSh3fjVAt0Lt"},

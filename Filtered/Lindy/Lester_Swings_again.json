@@ -1,4 +1,7 @@
-{"playlist_name": "Lester Swings again", "songs": [
+{"playlist_name": "Lester Swings again",
+"http_link": "http://open.spotify.com/user/lestmak/playlist/6ffo4dPFkNU6YSoCXLWAjm",
+"spotify_link": "spotify:user:lestmak:playlist:6ffo4dPFkNU6YSoCXLWAjm",
+"songs": [
 {"name": "Main Stem", "artists": ["Blue Harlem"], "album": "I Dare You!", "duration": 197000, "link": "spotify:track:3iIZY6CpLCmTciU7q7TObj"},
 {"name": "Bump's Boogie", "artists": ["Blue Harlem"], "album": "I Dare You!", "duration": 216000, "link": "spotify:track:4DV7JjbtZAQYUqn83dF4RW"},
 {"name": "That's The Way To Treat Your Woman", "artists": ["Blue Harlem"], "album": "I Dare You!", "duration": 218000, "link": "spotify:track:12MBQIYG3rJVa3t5wubiRq"},

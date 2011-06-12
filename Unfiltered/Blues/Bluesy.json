@@ -1,4 +1,7 @@
-{"playlist_name": "Bluesy", "songs": [
+{"playlist_name": "Bluesy",
+"http_link": "http://open.spotify.com/user/helenhighwater/playlist/5CqJCmKWnXERPeRxt2hCEJ",
+"spotify_link": "spotify:user:helenhighwater:playlist:5CqJCmKWnXERPeRxt2hCEJ",
+"songs": [
 {"name": "Blues In The Night", "artists": ["Dinah Shore"], "album": "Smash Hits Of The 40's", "duration": 192000, "link": "spotify:track:0I1kVIjpE5MMxVfJFLXTSq"},
 {"name": "Blues In The Night", "artists": ["Peggy Lee"], "album": "American Idols: Peggy Lee", "duration": 196000, "link": "spotify:track:1rZs5v4yRHJgSXriCBCq6M"},
 {"name": "Lonely Avenue", "artists": ["Ray Charles"], "album": "Definitive Soul: Ray Charles", "duration": 153000, "link": "spotify:track:3g23btMNyOfbqV2dOVvyfg"},

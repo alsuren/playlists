@@ -1,4 +1,7 @@
-{"playlist_name": "Non-Dancing Favourites", "songs": [
+{"playlist_name": "Non-Dancing Favourites",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/63PYUlBIdn5A0F7evGWKwI",
+"spotify_link": "spotify:user:alsuren:playlist:63PYUlBIdn5A0F7evGWKwI",
+"songs": [
 {"name": "A New England", "artists": ["Billy Bragg"], "album": "Life's a Riot With Spy Vs. Spy", "duration": 135000, "link": "spotify:track:64C00gcYOfCw2RWC28iW7B"},
 {"name": "Sexuality", "artists": ["Billy Bragg"], "album": "Don’t Try This At Home", "duration": 228000, "link": "spotify:track:738asyD8kv9AGoETeooJgH"},
 {"name": "Richard", "artists": ["Billy Bragg"], "album": "Billy Bragg Vol. 1", "duration": 172000, "link": "spotify:track:2asSRUG0HQcO6BvZpRf9XO"},

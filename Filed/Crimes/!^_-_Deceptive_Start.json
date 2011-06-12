@@ -1,4 +1,7 @@
-{"playlist_name": "!^ - Deceptive Start", "songs": [
+{"playlist_name": "!^ - Deceptive Start",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/6itlzKbRAIQasoZIBi7MBP",
+"spotify_link": "spotify:user:alsuren:playlist:6itlzKbRAIQasoZIBi7MBP",
+"songs": [
 {"name": "Diga Diga Doo", "artists": ["Toots Thielemans"], "album": "1955-1978", "duration": 275000, "link": "spotify:local:Toots+Thielemans:1955-1978:Diga+Diga+Doo:275"},
 {"name": "Vine Street Rumble", "artists": ["Count Basie"], "album": "Count Basie", "duration": 224000, "link": "spotify:track:4AbTedRwp2UDFdNX8xz5Bi"},
 {"name": "Don't Sit Under The Apple Tree - With Anyone Else But Me", "artists": ["The Andrews Sisters"], "album": "The Andrews Sisters - 16 Golden Greats", "duration": 180000, "link": "spotify:track:1EQ2DVVVpva8lEGMvh3BXI"},

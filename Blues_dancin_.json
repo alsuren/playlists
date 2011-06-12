@@ -1,4 +1,7 @@
-{"playlist_name": "Blues dancin'", "songs": [
+{"playlist_name": "Blues dancin'",
+"http_link": "http://open.spotify.com/user/meytal/playlist/1QSOFdVkdgY8JmBoWMxvZ1",
+"spotify_link": "spotify:user:meytal:playlist:1QSOFdVkdgY8JmBoWMxvZ1",
+"songs": [
 {"name": "Ten Long Years", "artists": ["Eric Clapton / B.B. King"], "album": "Riding With The King", "duration": 280000, "link": "spotify:track:0RAVtO3JIyzl6Ao9XgoOCR"},
 {"name": "Key To The Highway", "artists": ["Eric Clapton / B.B. King"], "album": "Riding With The King", "duration": 220000, "link": "spotify:track:5KMaSEs0gtqjkPHSFQddYt"},
 {"name": "Have You Ever Loved A Woman", "artists": ["Derek & The Dominos"], "album": "Layla And Other Assorted Love Songs", "duration": 415000, "link": "spotify:track:7LyupAByfCEexeR4KQLEay"},

@@ -1,4 +1,7 @@
-{"playlist_name": "BCB 28th November", "songs": [
+{"playlist_name": "BCB 28th November",
+"http_link": "http://open.spotify.com/user/laura.h.knight/playlist/5bZ1sgrhelc30iJZxrIK7g",
+"spotify_link": "spotify:user:laura.h.knight:playlist:5bZ1sgrhelc30iJZxrIK7g",
+"songs": [
 {"name": "Soothe Me", "artists": ["Sam & Dave"], "album": "The Best Of Sam & Dave", "duration": 152000, "link": "spotify:track:3pL0x4IUqemNfzJPn5Hvbi"},
 {"name": "All Your Love", "artists": ["Otis Rush"], "album": "Coffee House Blues", "duration": 158000, "link": "spotify:track:52lEuEIGQMsfUPr33o3WkG"},
 {"name": "Help me", "artists": ["Sonny Boy Williamson"], "album": "Beginner's Guide to the Blues", "duration": 189000, "link": "spotify:local:Sonny+Boy+Williamson:Beginner%27s+Guide+to+the+Blues:Help+me:189"},

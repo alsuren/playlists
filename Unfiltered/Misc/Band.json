@@ -1,4 +1,7 @@
-{"playlist_name": "Band", "songs": [
+{"playlist_name": "Band",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/2xM7iqJGFNybW8PGy71WBP",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:2xM7iqJGFNybW8PGy71WBP",
+"songs": [
 {"name": "Summertime", "artists": ["Charlie Parker"], "album": "The Genius Of Charlie Paker", "duration": 167000, "link": "spotify:local:Charlie+Parker:The+Genius+Of+Charlie+Paker:Summertime:167"},
 {"name": "Summertime", "artists": ["Charlie Parker"], "album": "The Genius Of Charlie Paker", "duration": 167000, "link": "spotify:local:Charlie+Parker:The+Genius+Of+Charlie+Paker:Summertime:167"},
 {"name": "Ain't No Mountain High Enough", "artists": ["Diana Ross"], "album": "Motown Memories - 20 Motown Hits", "duration": 211000, "link": "spotify:local:Diana+Ross:Motown+Memories+-+20+Motown+Hits:Ain%27t+No+Mountain+High+Enough:211"},

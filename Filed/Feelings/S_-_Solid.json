@@ -1,4 +1,7 @@
-{"playlist_name": "S - Solid", "songs": [
+{"playlist_name": "S - Solid",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/1R2hPd2dlL8DU3MgBkq3Hk",
+"spotify_link": "spotify:user:alsuren:playlist:1R2hPd2dlL8DU3MgBkq3Hk",
+"songs": [
 {"name": "Who Said Shorty Wasn't Coming Back?", "artists": ["Lucky Millinder"], "album": "Let It Roll Again", "duration": 162000, "link": "spotify:local:Lucky+Millinder:Let+It+Roll+Again:Who+Said+Shorty+Wasn%27t+Coming+Back%3f:162"},
 {"name": "One O'Clock Jump", "artists": ["Count Basie"], "album": "Frankie Manning's Really Swingin' Big Band Favorites", "duration": 183000, "link": "spotify:local:Count+Basie:Frankie+Manning%27s+Really+Swingin%27+Big+Band+Favorites:One+O%27Clock+Ju"},
 {"name": "Tuxedo Junction", "artists": ["Erskine Hawkins"], "album": "Frankie Manning's Really Swingin' Big Band Favorites", "duration": 198000, "link": "spotify:local:Erskine+Hawkins:Frankie+Manning%27s+Really+Swingin%27+Big+Band+Favorites:Tuxedo+Junct"},

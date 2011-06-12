@@ -1,4 +1,7 @@
-{"playlist_name": "Old time blues", "songs": [
+{"playlist_name": "Old time blues",
+"http_link": "http://open.spotify.com/user/leveret/playlist/7j9lXzOCOh7RFmdGdJiAem",
+"spotify_link": "spotify:user:leveret:playlist:7j9lXzOCOh7RFmdGdJiAem",
+"songs": [
 {"name": "Birmingham Jail", "artists": ["Leadbelly"], "album": "", "duration": 146000, "link": "spotify:local:Leadbelly::Birmingham+Jail:146"},
 {"name": "Harmonica Blues", "artists": ["Robert Johnson, Sonny Boy Williamson"], "album": "", "duration": 234000, "link": "spotify:local:Robert+Johnson%2c+Sonny+Boy+Williamson::Harmonica+Blues:234"},
 {"name": "Where Did You Sleep Last Night", "artists": ["Woody Guthrie & Leadbelly"], "album": "", "duration": 180000, "link": "spotify:local:Woody+Guthrie+%26+Leadbelly::Where+Did+You+Sleep+Last+Night:180"},

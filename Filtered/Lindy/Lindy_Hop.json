@@ -1,4 +1,7 @@
-{"playlist_name": "Lindy Hop", "songs": [
+{"playlist_name": "Lindy Hop",
+"http_link": "http://open.spotify.com/user/charmzor/playlist/5Cm7v1aGSj3L0jroS7tjI5",
+"spotify_link": "spotify:user:charmzor:playlist:5Cm7v1aGSj3L0jroS7tjI5",
+"songs": [
 {"name": "Hot Mallets", "artists": ["Dizzy Gillespie"], "album": "The Ultimate Collection", "duration": 138000, "link": "spotify:track:56Jnbh7l0tIIxHqi2OuIaB"},
 {"name": "Stompy Jones", "artists": ["DUKE ELLINGTON"], "album": "Hollywood Hangover", "duration": 185000, "link": "spotify:track:4Sb7N7BcaM3scLWJ5BIwWs"},
 {"name": "Little Gate's Special (03-15-39)", "artists": ["Bunny Berigan"], "album": "Complete Jazz Series 1938 - 1942", "duration": 185000, "link": "spotify:track:712S71vOdoW1BkyiyoQ1ny"},

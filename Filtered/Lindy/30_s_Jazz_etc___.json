@@ -1,4 +1,7 @@
-{"playlist_name": "30's Jazz etc...", "songs": [
+{"playlist_name": "30's Jazz etc...",
+"http_link": "http://open.spotify.com/user/melcoe2407/playlist/4xGGt4mWRsvcgn1CLg6FxO",
+"spotify_link": "spotify:user:melcoe2407:playlist:4xGGt4mWRsvcgn1CLg6FxO",
+"songs": [
 {"name": "Jumpin' Jive", "artists": ["Cab Calloway"], "album": "The Hits Of The 30's & 40's", "duration": 170000, "link": "spotify:track:2fVhSjvOAENqZXSJppyfkc"},
 {"name": "The Music Goes Round And Round", "artists": ["Tommy Dorsey's Clambake Seven"], "album": "The Hits Of The 30's & 40's", "duration": 204000, "link": "spotify:track:4TvIeblt8PnQXYjHNCtA9J"},
 {"name": "Blue, Turning Grey Over You", "artists": ["Fats Waller & His Rhythm Five"], "album": "Harlem Jazz:  The 30's", "duration": 267000, "link": "spotify:track:2CZkDhLCZ7PlnCmkZE6L8Y"},

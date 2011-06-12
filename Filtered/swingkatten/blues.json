@@ -1,4 +1,7 @@
-{"playlist_name": "blues", "songs": [
+{"playlist_name": "blues",
+"http_link": "http://open.spotify.com/user/swingkatten/playlist/3I2yPdmS2jD6wUoydT1lvv",
+"spotify_link": "spotify:user:swingkatten:playlist:3I2yPdmS2jD6wUoydT1lvv",
+"songs": [
 {"name": "Blow Top Blues", "artists": ["Koko Taylor"], "album": "From The Heart Of A Woman", "duration": 258000, "link": "spotify:track:2wZXpx1sfDnnPFStIkL9tq"},
 {"name": "Down Home Blues", "artists": ["Jack McDuff", "Gene Harris"], "album": "Down Home Blues", "duration": 420000, "link": "spotify:track:3rDGkCi4mfeIE9xpcONIwe"},
 {"name": "Telephoning The Blues", "artists": ["Victoria Spivey"], "album": "Victoria Spivey Vol. 3 1929-1936", "duration": 196000, "link": "spotify:track:6dcf2d36TtKLRuiOFkoe8Y"},

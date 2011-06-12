@@ -1,4 +1,7 @@
-{"playlist_name": "$ - Strolls", "songs": [
+{"playlist_name": "$ - Strolls",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/5rtJY8OoWsstNG25cANfwD",
+"spotify_link": "spotify:user:alsuren:playlist:5rtJY8OoWsstNG25cANfwD",
+"songs": [
 {"name": "Big Apple Contest", "artists": ["Solomon Douglas"], "album": "Swingmatism", "duration": 178000, "link": "spotify:track:1YBL1PPkd5P1LBSaO99OxN"},
 {"name": "Opus No 1", "artists": ["Tommy Dorsey"], "album": "The Dorsey Brothers", "duration": 174000, "link": "spotify:track:2K0f3yFuwtXTOIMXSq37Re"},
 {"name": "The Dipsy Doodle (12-17-37)", "artists": ["Ella Fitzgerald"], "album": "Best of - 50 Tracks", "duration": 196000, "link": "spotify:track:7fzDklib5SE2YG2CAmPfu5"},

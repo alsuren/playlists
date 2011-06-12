@@ -1,4 +1,7 @@
-{"playlist_name": "work that skirt", "songs": [
+{"playlist_name": "work that skirt",
+"http_link": "http://open.spotify.com/user/sholybonoly/playlist/5KT0p0kSApHQP6Ep2sO5nm",
+"spotify_link": "spotify:user:sholybonoly:playlist:5KT0p0kSApHQP6Ep2sO5nm",
+"songs": [
 {"name": "Jubilee Stomp", "artists": ["Harlem"], "album": "Harlemania", "duration": 175000, "link": "spotify:track:2m7cq23Y7eH6kPT4xNozgJ"},
 {"name": "Lindy Hop", "artists": ["Lil Armstrong"], "album": "Perfect Swing", "duration": 174000, "link": "spotify:track:60JgpecNeKotGOAa2JhLCx"},
 {"name": "Stomp, Stomp", "artists": ["The Cats & The Fiddle"], "album": "The Very Best Of", "duration": 176000, "link": "spotify:track:2L1xNFCiVLqSh3fjVAt0Lt"},

@@ -1,4 +1,7 @@
-{"playlist_name": "O - New Orleans (Bechet through to Prima)", "songs": [
+{"playlist_name": "O - New Orleans (Bechet through to Prima)",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/1JtKpC10dl98nGCtOyqZXw",
+"spotify_link": "spotify:user:alsuren:playlist:1JtKpC10dl98nGCtOyqZXw",
+"songs": [
 {"name": "I wanna be like you", "artists": ["Ball & His Jazzmen, Kenny"], "album": "In Disneyland", "duration": 133000, "link": "spotify:local:Ball+%26+His+Jazzmen%2c+Kenny:In+Disneyland:I+wanna+be+like+you:133"},
 {"name": "The Maple Leaf Rag", "artists": ["Turk Murphy"], "album": "Atlantic Jazz: New Orleans", "duration": 193000, "link": "spotify:track:37zZcfEXTJaJ6HjDWWFtmH"},
 {"name": "Blues My Naughty Sweetie Gives To Me", "artists": ["Sidney Bechet"], "album": "The Fabulous Sidney Bechet", "duration": 343000, "link": "spotify:track:26zJinKqbORQyrDyMFLQhS"},

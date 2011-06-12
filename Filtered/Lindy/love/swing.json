@@ -1,4 +1,7 @@
-{"playlist_name": "swing", "songs": [
+{"playlist_name": "swing",
+"http_link": "http://open.spotify.com/user/rec53/playlist/04BzXBaRuj30R3HpJ5oCfe",
+"spotify_link": "spotify:user:rec53:playlist:04BzXBaRuj30R3HpJ5oCfe",
+"songs": [
 {"name": "My Baby Comes 'Round At 8", "artists": ["Indigo Swing"], "album": "Indigo Swing", "duration": 176000, "link": "spotify:track:7wXQNaB1TRmRyFYzzYpkjI"},
 {"name": "Jive At Five", "artists": ["Count Basie"], "album": "Introducing Count Basie", "duration": 161000, "link": "spotify:track:4rXO3QjCoH6hxRXc9i12BT"},
 {"name": "Shorty George", "artists": ["Count Basie"], "album": "Kansas City Jazz:The 30s and 40s", "duration": 167000, "link": "spotify:track:5XnJJpbcpAr6PE2vPCfh2E"},

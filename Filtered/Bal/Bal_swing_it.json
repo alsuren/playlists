@@ -1,4 +1,7 @@
-{"playlist_name": "Bal swing it", "songs": [
+{"playlist_name": "Bal swing it",
+"http_link": "http://open.spotify.com/user/sholybonoly/playlist/7L971scwX8TxlY7rKkqrVB",
+"spotify_link": "spotify:user:sholybonoly:playlist:7L971scwX8TxlY7rKkqrVB",
+"songs": [
 {"name": "Topsy", "artists": ["The J Street Jumpers"], "album": "Is You Is Or Is You Ain't My Baby?", "duration": 282000, "link": "spotify:track:0GnHEHyWtZyjvpjyMlIqm0"},
 {"name": "Let Yourself Go", "artists": ["Bunny Berigan"], "album": "Bunny Berigan: The Key Sessions 1936 (Disc D)", "duration": 169000, "link": "spotify:local:Bunny+Berigan:Bunny+Berigan%3a+The+Key+Sessions+1936+%28Disc+D%29:Let+Yourself+Go:169"},
 {"name": "I'm Putting All My Eggs In One Basket", "artists": ["Boilermaker Jazz Band"], "album": "Give Me Your Telephone Number", "duration": 240000, "link": "spotify:track:50QogqoEkvvpLYnDsPyEhJ"},

@@ -1,4 +1,7 @@
-{"playlist_name": "Swing for beginners", "songs": [
+{"playlist_name": "Swing for beginners",
+"http_link": "http://open.spotify.com/user/ginton/playlist/47HZF15gy4H8AbgNESrsyZ",
+"spotify_link": "spotify:user:ginton:playlist:47HZF15gy4H8AbgNESrsyZ",
+"songs": [
 {"name": "Loose Lid Special", "artists": ["Tommy Dorsey"], "album": "Archive Of American Popular Music 1934-1945", "duration": 166000, "link": "spotify:track:78is8pn0us3cW10GX4srxw"},
 {"name": "Ain't The Gravy Good? - 78rpm Version", "artists": ["Cootie Williams & His Rug Cutters; Vocal by Cootie Williams"], "album": "The Duke's Men: Small Groups, Volume 2", "duration": 190000, "link": "spotify:track:6f3Ly3zG2ESJDRYLO3wgZt"},
 {"name": "Effervescent Blues", "artists": ["John Kirby"], "album": "Story Of Buster Bailey 1926-1945", "duration": 173000, "link": "spotify:track:208kd8YhFk06ezWGtSIbPn"},

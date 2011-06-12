@@ -1,4 +1,7 @@
-{"playlist_name": "Lindy (slower tempo)", "songs": [
+{"playlist_name": "Lindy (slower tempo)",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/5iVNcvgWcZW2Z0R7zlyr0b",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:5iVNcvgWcZW2Z0R7zlyr0b",
+"songs": [
 {"name": "Shufflin' And Rollin'", "artists": ["Buddy Johnson & His Orchestra"], "album": "Walk 'Em: The Decca Sessions", "duration": 192000, "link": "spotify:local:Buddy+Johnson+%26+His+Orchestra:Walk+%27Em%3a+The+Decca+Sessions:Shufflin%27+And+Roll"},
 {"name": "Shout, Sister, Shout", "artists": ["Lucky Millinder"], "album": "Apollo Jump", "duration": 165000, "link": "spotify:local:Lucky+Millinder:Apollo+Jump:Shout%2c+Sister%2c+Shout:165"},
 {"name": "A Viper's Moan", "artists": ["Mora's Modern Rhythmists"], "album": "Call Of The Freaks", "duration": 210000, "link": "spotify:local:Mora%27s+Modern+Rhythmists:Call+Of+The+Freaks:A+Viper%27s+Moan:210"},

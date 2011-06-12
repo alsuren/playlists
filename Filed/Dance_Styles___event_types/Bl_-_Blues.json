@@ -1,4 +1,7 @@
-{"playlist_name": "Bl - Blues", "songs": [
+{"playlist_name": "Bl - Blues",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/0BYsIriOBcRs8IRj3CyMMG",
+"spotify_link": "spotify:user:alsuren:playlist:0BYsIriOBcRs8IRj3CyMMG",
+"songs": [
 {"name": "16 Tons", "artists": ["Tennessee Ernie Ford"], "album": "Joe Strummer's Jukebox: Songs That Inspired The Man", "duration": 157000, "link": "spotify:track:4CiZWNky694NAiNtlobQFk"},
 {"name": "Blues My Naughty Sweetie Gives To Me", "artists": ["Sidney Bechet"], "album": "The Fabulous Sidney Bechet", "duration": 343000, "link": "spotify:track:26zJinKqbORQyrDyMFLQhS"},
 {"name": "Sugar Blues", "artists": ["Clyde McCoy"], "album": "Herrang Compilation - Classics", "duration": 160000, "link": "spotify:local:Clyde+McCoy:Herrang+Compilation+-+Classics:Sugar+Blues:160"},

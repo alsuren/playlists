@@ -1,4 +1,7 @@
-{"playlist_name": "random new danceable", "songs": [
+{"playlist_name": "random new danceable",
+"http_link": "http://open.spotify.com/user/wisehelayna/playlist/3SA50hpHkakUvKDc5yvbEa",
+"spotify_link": "spotify:user:wisehelayna:playlist:3SA50hpHkakUvKDc5yvbEa",
+"songs": [
 {"name": "You Give Me Something", "artists": ["James Morrison"], "album": "You Give Me Something", "duration": 213000, "link": "spotify:track:5GPk5ri9ArqVCHEKjR3nfQ"},
 {"name": "Walking In Memphis", "artists": ["Marc Cohn"], "album": "Marc Cohn", "duration": 252000, "link": "spotify:track:5fgkjhICZnqFctrV0AyuQD"},
 {"name": "From Russia With Love", "artists": ["Matt Monroe"], "album": "A Portrait Of Matt Monroe", "duration": 55000, "link": "spotify:track:4aSoHgnolwRT9rlmpuN0Jp"},

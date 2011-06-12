@@ -1,4 +1,7 @@
-{"playlist_name": "Swing", "songs": [
+{"playlist_name": "Swing",
+"http_link": "http://open.spotify.com/user/fi.warner/playlist/5ENBURUN10erUqYlqopl48",
+"spotify_link": "spotify:user:fi.warner:playlist:5ENBURUN10erUqYlqopl48",
+"songs": [
 {"name": "Swing, Swing, Swing (Sing, Sing, Sing)", "artists": ["Keely Smith"], "album": "Swing, Swing, Swing", "duration": 181000, "link": "spotify:track:7L6YMCU6sL7fXQyruSqu0X"},
 {"name": "Swing, Swing, Swing", "artists": ["Big Al's Swing Kids"], "album": "Swing and Shout", "duration": 188000, "link": "spotify:track:5lWuEaIKjiHEH3B8Bw3abM"},
 {"name": "Basie", "artists": ["Count Basie"], "album": "Basie At Birdland", "duration": 204000, "link": "spotify:track:6ShjCaeXgk3gjd1sn8qlsU"},

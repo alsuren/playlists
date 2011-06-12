@@ -1,4 +1,7 @@
-{"playlist_name": "Ebere blues", "songs": [
+{"playlist_name": "Ebere blues",
+"http_link": "http://open.spotify.com/user/fi.warner/playlist/08JP928uF8EiJO2A7jZXHd",
+"spotify_link": "spotify:user:fi.warner:playlist:08JP928uF8EiJO2A7jZXHd",
+"songs": [
 {"name": "The Blues Are Brewin", "artists": ["Kenny White"], "album": "Yonder Comes The Blues", "duration": 208000, "link": "spotify:track:62I7PcDiQqMyrtezyESiJZ"},
 {"name": "Saint Louis Blues", "artists": ["Teddy Buckner"], "album": "A Salute to Louis Armstrong", "duration": 375000, "link": "spotify:track:4V3HIhDZQYiGwA8aTM96Qh"},
 {"name": "Stormy Weather", "artists": ["Billie Holiday"], "album": "Billie Holiday", "duration": 220000, "link": "spotify:track:1E9Vm7JJk8S2GJpYpbBoPQ"},

@@ -1,4 +1,7 @@
-{"playlist_name": "Next Swing pit", "songs": [
+{"playlist_name": "Next Swing pit",
+"http_link": "http://open.spotify.com/user/laura.h.knight/playlist/2szdF9Bp75cprIzaWcLfp1",
+"spotify_link": "spotify:user:laura.h.knight:playlist:2szdF9Bp75cprIzaWcLfp1",
+"songs": [
 {"name": "Jivin' With Jarvis", "artists": ["Lionel Hampton"], "album": "All Star Sessions, Volume 1: Open House", "duration": 163000, "link": "spotify:track:6c7dq7Bo2XzUo5b8aRPs4t"},
 {"name": "Subdued Mood", "artists": ["Pee Wee King"], "album": "Pee Wee King's Country Hoedown", "duration": 127000, "link": "spotify:track:1lYz34IaYIokZF7Pp9jaxq"},
 {"name": "Shake That Thing", "artists": ["Vince Giordano's Nighthawks"], "album": "The Aviator Music From The Motion Picture", "duration": 178000, "link": "spotify:track:6h8zXaMGp0daGIiwlsQG9y"},

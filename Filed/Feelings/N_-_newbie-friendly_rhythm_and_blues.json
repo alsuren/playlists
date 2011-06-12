@@ -1,4 +1,7 @@
-{"playlist_name": "N - newbie-friendly rhythm and blues", "songs": [
+{"playlist_name": "N - newbie-friendly rhythm and blues",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/5hBnfLUfBb8XbcTr7g3udE",
+"spotify_link": "spotify:user:alsuren:playlist:5hBnfLUfBb8XbcTr7g3udE",
+"songs": [
 {"name": "Hey Bartender", "artists": ["Floyd Dixon"], "album": "A-Z: Kitty Daisy & Lewis - 'The Roots of Rock 'n' Roll'", "duration": 171000, "link": "spotify:track:3OtNnoaqpVOMvn8XfQ74l7"},
 {"name": "Elijah Rock", "artists": ["Earl Thomas"], "album": "Plantation Gospel", "duration": 261000, "link": "spotify:track:2My3OlwXsHmq3MyRRkHIrM"},
 {"name": "Fine Brown Frame", "artists": ["Nellie Lutcher"], "album": "The Best Of Nellie Lutcher", "duration": 175000, "link": "spotify:track:591YlX3IkD1gx7y1RDQfu0"},

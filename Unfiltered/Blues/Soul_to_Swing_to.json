@@ -1,4 +1,7 @@
-{"playlist_name": "Soul to Swing to", "songs": [
+{"playlist_name": "Soul to Swing to",
+"http_link": "http://open.spotify.com/user/lilynectar/playlist/5ja1UErJDpoyAP0257VSGz",
+"spotify_link": "spotify:user:lilynectar:playlist:5ja1UErJDpoyAP0257VSGz",
+"songs": [
 {"name": "Tainted Love (1976 Recording)", "artists": ["Gloria Jones"], "album": "Vixen", "duration": 163000, "link": "spotify:track:2ADfheRRkK5P2f1t8si3Lj"},
 {"name": "Got To Give It Up - Single Version", "artists": ["Marvin Gaye"], "album": "The Best Of Marvin Gaye", "duration": 249000, "link": "spotify:track:5n1A3VxqT4VcNez4Ah6dSu"},
 {"name": "I Wish", "artists": ["Stevie Wonder"], "album": "Stevie Wonder's Original Musiquarium I", "duration": 254000, "link": "spotify:track:2dCDC6FXz80njhDidJVkAx"},

@@ -1,4 +1,7 @@
-{"playlist_name": "Jazz Dance", "songs": [
+{"playlist_name": "Jazz Dance",
+"http_link": "http://open.spotify.com/user/kazaroth/playlist/2WoYwhJbcXdAmJZeMRo2lE",
+"spotify_link": "spotify:user:kazaroth:playlist:2WoYwhJbcXdAmJZeMRo2lE",
+"songs": [
 {"name": "Tia Juana", "artists": ["Bud Freeman"], "album": "All That Jazz", "duration": 161000, "link": "spotify:track:69BX0xAQtibya90YBkS0UG"},
 {"name": "Stomp, Stomp", "artists": ["The Cats & The Fiddle"], "album": "The Very Best Of", "duration": 176000, "link": "spotify:track:2L1xNFCiVLqSh3fjVAt0Lt"},
 {"name": "Tuxedo Junction", "artists": ["DUKE ELLINGTON"], "album": "Recollections Of The Big Band Era", "duration": 210000, "link": "spotify:track:0pZmtNFJddofD2hzM4OnAh"},

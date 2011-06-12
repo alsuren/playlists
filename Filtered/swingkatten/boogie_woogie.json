@@ -1,4 +1,7 @@
-{"playlist_name": "boogie woogie", "songs": [
+{"playlist_name": "boogie woogie",
+"http_link": "http://open.spotify.com/user/swingkatten/playlist/4H8IGb5MRTVDtGA6UXGnQy",
+"spotify_link": "spotify:user:swingkatten:playlist:4H8IGb5MRTVDtGA6UXGnQy",
+"songs": [
 {"name": "Another Day In L.A.", "artists": ["Indigo Swing"], "album": "Red Light!", "duration": 254000, "link": "spotify:track:0rdApPhrQ8wWLdAn4IOVkM"},
 {"name": "Blue Suit Boogie", "artists": ["Indigo Swing"], "album": "All Aboard!", "duration": 233000, "link": "spotify:track:2Psicj4FKUsLT3mVuKUKKh"},
 {"name": "Choo Choo Ch'boogie", "artists": ["Louis Jordan & His Tympany Five"], "album": "Choo Choo Ch’boogie", "duration": 165000, "link": "spotify:track:4LpSGzsWwusUg22atwxl4u"},

@@ -1,4 +1,7 @@
-{"playlist_name": "medium tempo swing", "songs": [
+{"playlist_name": "medium tempo swing",
+"http_link": "http://open.spotify.com/user/tenants/playlist/373dCHcWduDkbZLPlQtHx9",
+"spotify_link": "spotify:user:tenants:playlist:373dCHcWduDkbZLPlQtHx9",
+"songs": [
 {"name": "Mack the Knife", "artists": ["Ella Fitzgerald"], "album": "Ken Burns Jazz", "duration": 285000, "link": "spotify:local:Ella+Fitzgerald:Ken+Burns+Jazz:Mack+the+Knife:285"},
 {"name": "C Jam Blues - Live", "artists": ["Lincoln Center Jazz Orchestra"], "album": "Live In Swing City- Swingin' With Duke", "duration": 214000, "link": "spotify:track:5egcvD0mnAU1hLQulxxPKI"},
 {"name": "Shout, Sister, Shout", "artists": ["Sister Rosetta Tharpe", "Lucky Millinder And His Orchestra"], "album": "The A-Z Of Jazz", "duration": 164000, "link": "spotify:track:6DJ4XNPGqHkdg7c0m8abku"},

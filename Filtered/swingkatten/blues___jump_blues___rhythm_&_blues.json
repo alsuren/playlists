@@ -1,4 +1,7 @@
-{"playlist_name": "blues + jump blues + rhythm & blues", "songs": [
+{"playlist_name": "blues + jump blues + rhythm & blues",
+"http_link": "http://open.spotify.com/user/swingkatten/playlist/6orARJvFdisLH6m1dsoQ86",
+"spotify_link": "spotify:user:swingkatten:playlist:6orARJvFdisLH6m1dsoQ86",
+"songs": [
 {"name": "Sugar Mama-Peachy Mama", "artists": ["Percy Mayfield"], "album": "Specialty Profiles: Percy Mayfield", "duration": 155000, "link": "spotify:track:3RM7DjvrKP1DGpUrvQl1yM"},
 {"name": "Shake, Rattle And Roll - Single/LP Version", "artists": ["Big Joe Turner"], "album": "Atlantic Top 60: R&B Grooves", "duration": 180000, "link": "spotify:track:4qoKzvuxdO1TgCmtNghDkk"},
 {"name": "Good Rockin' Tonight", "artists": ["Wynonie Harris"], "album": "The Genesis of Rock 'n' Roll - Vol. 8: Rock 'n' Roll Takes Form (1946-1950)", "duration": 168000, "link": "spotify:track:10FfoCcl2vjL5UqbJsjR70"},

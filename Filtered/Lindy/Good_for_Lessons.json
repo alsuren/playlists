@@ -1,4 +1,7 @@
-{"playlist_name": "Good for Lessons", "songs": [
+{"playlist_name": "Good for Lessons",
+"http_link": "http://open.spotify.com/user/alandra/playlist/4OU3Saif04EC0jnu3lF88x",
+"spotify_link": "spotify:user:alandra:playlist:4OU3Saif04EC0jnu3lF88x",
+"songs": [
 {"name": "Help me", "artists": ["Sonny Boy Williamson"], "album": "Beginner's Guide to the Blues", "duration": 189000, "link": "spotify:local:Sonny+Boy+Williamson:Beginner%27s+Guide+to+the+Blues:Help+me:189"},
 {"name": "When I see an Elephant fly", "artists": ["Ball & His Jazzmen, Kenny"], "album": "In Disneyland", "duration": 186000, "link": "spotify:local:Ball+%26+His+Jazzmen%2c+Kenny:In+Disneyland:When+I+see+an+Elephant+fly:186"},
 {"name": "Salty Dog", "artists": ["George Lewis"], "album": "Atlantic Jazz - New Orleans", "duration": 173000, "link": "spotify:local:George+Lewis:Atlantic+Jazz+-+New+Orleans:Salty+Dog:173"},

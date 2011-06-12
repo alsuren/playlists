@@ -1,4 +1,7 @@
-{"playlist_name": "Balboa Ideas", "songs": [
+{"playlist_name": "Balboa Ideas",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/6OK6rHCaayBeuV39Wo8AIA",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:6OK6rHCaayBeuV39Wo8AIA",
+"songs": [
 {"name": "St Louis Blues", "artists": ["Louis Armstrong"], "album": "The Essence Of Louis Armstrong", "duration": 160000, "link": "spotify:local:Louis+Armstrong:The+Essence+Of+Louis+Armstrong:St+Louis+Blues:160"},
 {"name": "St Louis Blues", "artists": ["New Orleans Jazz Vipers"], "album": "Live On Frenchmen Street", "duration": 510000, "link": "spotify:local:New+Orleans+Jazz+Vipers:Live+On+Frenchmen+Street:St+Louis+Blues:510"},
 {"name": "Five O'Clock Whistle", "artists": ["Count Basie"], "album": "America's #1 Band!: Columbia Years (Disc 3)", "duration": 186000, "link": "spotify:local:Count+Basie:America%27s+%231+Band%21%3a+Columbia+Years+%28Disc+3%29:Five+O%27Clock+Wh"},

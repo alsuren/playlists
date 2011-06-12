@@ -1,4 +1,7 @@
-{"playlist_name": "Suenos de enero", "songs": [
+{"playlist_name": "Suenos de enero",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/2XtKU79Ev0u50F7lzjSgjO",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:2XtKU79Ev0u50F7lzjSgjO",
+"songs": [
 {"name": "Marvin Gaye & Tammi Terrell / You're All I Need To Get By", "artists": ["The Greatest Motown Stars"], "album": "Love From Motown", "duration": 165000, "link": "spotify:local:The+Greatest+Motown+Stars:Love+From+Motown:Marvin+Gaye+%26+Tammi+Terrell+%2f+You%27re"},
 {"name": "Sent For You Yesterday", "artists": ["Count Basie"], "album": "The Best of Early Basie", "duration": 178000, "link": "spotify:local:Count+Basie:The+Best+of+Early+Basie:Sent+For+You+Yesterday:178"},
 {"name": "Nancy Boy", "artists": ["Placebo"], "album": "Once More With Feeling: Singles 1996-2004 [Disc 1]", "duration": 199000, "link": "spotify:local:Placebo:Once+More+With+Feeling%3a+Singles+1996-2004+%5bDisc+1%5d:Nancy+Boy:199"},

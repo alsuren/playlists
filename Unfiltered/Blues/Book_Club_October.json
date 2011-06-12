@@ -1,4 +1,7 @@
-{"playlist_name": "Book Club October", "songs": [
+{"playlist_name": "Book Club October",
+"http_link": "http://open.spotify.com/user/laura.h.knight/playlist/1XNKoztHIZwdcncJlt9xIT",
+"spotify_link": "spotify:user:laura.h.knight:playlist:1XNKoztHIZwdcncJlt9xIT",
+"songs": [
 {"name": "Sugar Rum Cherry", "artists": ["DUKE ELLINGTON"], "album": "Duke Ellington", "duration": 188000, "link": "spotify:track:3n4FvbfFTKhOhDHDoPsBuX"},
 {"name": "I Don't Know", "artists": ["Ruth Brown"], "album": "The Essentials: Ruth Brown", "duration": 174000, "link": "spotify:track:047Ip9c6dijAJfuwloV3NF"},
 {"name": "Junker's Blues", "artists": ["Champion Jack Dupree"], "album": "Blues From The Gutter", "duration": 193000, "link": "spotify:track:31GIhpOQpKCzlnuPn03pBQ"},

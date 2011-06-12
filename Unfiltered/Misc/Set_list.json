@@ -1,4 +1,7 @@
-{"playlist_name": "Set list", "songs": [
+{"playlist_name": "Set list",
+"http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/7lnFJhBhDgMJDpSiZ41RdI",
+"spotify_link": "spotify:user:katie.anne.sewell:playlist:7lnFJhBhDgMJDpSiZ41RdI",
+"songs": [
 {"name": "Tutti Frutti", "artists": ["Slim Gaillard & Slam Stewart"], "album": "Complete Columbia Master Takes (Disc 1)", "duration": 159000, "link": "spotify:local:Slim+Gaillard+%26+Slam+Stewart:Complete+Columbia+Master+Takes+%28Disc+1%29:Tutti+Frut"},
 {"name": "Soul Man", "artists": ["Sam & Dave"], "album": "Hits Of The Sixties [Disc 2]", "duration": 157000, "link": "spotify:local:Sam+%26+Dave:Hits+Of+The+Sixties+%5bDisc+2%5d:Soul+Man:157"},
 {"name": "Rescue Me", "artists": ["Fontella Bass"], "album": "Hits Of The Sixties [Disc 2]", "duration": 168000, "link": "spotify:local:Fontella+Bass:Hits+Of+The+Sixties+%5bDisc+2%5d:Rescue+Me:168"},

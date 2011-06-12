@@ -1,4 +1,7 @@
-{"playlist_name": "Angel Blues Playlist 2 March 2011", "songs": [
+{"playlist_name": "Angel Blues Playlist 2 March 2011",
+"http_link": "http://open.spotify.com/user/janetwhiley/playlist/1Y4YBAdDgSaYNfz3RRQ3SF",
+"spotify_link": "spotify:user:janetwhiley:playlist:1Y4YBAdDgSaYNfz3RRQ3SF",
+"songs": [
 {"name": "Sister Kate", "artists": ["Firehouse Five Plus Two"], "album": "Dixieland Favorites", "duration": 269000, "link": "spotify:track:4pgPYb9tQDMdqHb8ErPf6f"},
 {"name": "Son Of A Preacher Man", "artists": ["Dusty Springfield"], "album": "The Silver Collection", "duration": 148000, "link": "spotify:track:0scrtPmtlIVwwk9s4LXJ8n"},
 {"name": "Blues For Stephanie", "artists": ["Pete Siers"], "album": "Those Who Choose To Swing", "duration": 157000, "link": "spotify:track:2fJt7tui1GEYDqNTWLVhIR"},

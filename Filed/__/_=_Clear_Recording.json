@@ -1,4 +1,7 @@
-{"playlist_name": "+= Clear Recording", "songs": [
+{"playlist_name": "+= Clear Recording",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/7KemoJ8QEOdh2xu45JtINR",
+"spotify_link": "spotify:user:alsuren:playlist:7KemoJ8QEOdh2xu45JtINR",
+"songs": [
 {"name": "Blip Blop", "artists": ["Bill Doggett"], "album": "Monster Party", "duration": 169000, "link": "spotify:track:6AjMbVfI4nRC1xQywkAhtW"},
 {"name": "Jump Through The Window - Original", "artists": ["Roy Eldridge"], "album": "Roy Eldridge Selected Hits Vol. 2", "duration": 163000, "link": "spotify:track:0Ih3LV1Ei74Qr6K5rEkkKZ"},
 {"name": "As Long As I Live", "artists": ["Catherine Russell"], "album": "Inside This Heart Of Mine", "duration": 213000, "link": "spotify:track:4ji8fPdcvThnlvGIoTfk3A"},

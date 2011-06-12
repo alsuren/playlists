@@ -1,4 +1,7 @@
-{"playlist_name": "30 Great Hot Records", "songs": [
+{"playlist_name": "30 Great Hot Records",
+"http_link": "http://open.spotify.com/user/laura.h.knight/playlist/2pm1JPm8t4iLieSkLBmJiJ",
+"spotify_link": "spotify:user:laura.h.knight:playlist:2pm1JPm8t4iLieSkLBmJiJ",
+"songs": [
 {"name": "Boogie Woogie Stomp", "artists": ["Albert Ammons"], "album": "The History of Blue Note, 70th Anniversary", "duration": 219000, "link": "spotify:track:4Er3S9rmQ2mHUnlMdUvCDj"},
 {"name": "West End Blues", "artists": ["Louis Armstrong"], "album": "Louis Armstrong", "duration": 175000, "link": "spotify:track:5LMiNx7RMdho7ZJDtRpPh1"},
 {"name": "'Long About Midnight", "artists": ["Mildred Bailey"], "album": "The Very Best Of", "duration": 180000, "link": "spotify:track:25v2u2zAG2H5vLxl7y5XTt"},

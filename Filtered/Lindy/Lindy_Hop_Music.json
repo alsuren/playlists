@@ -1,4 +1,7 @@
-{"playlist_name": "Lindy Hop Music", "songs": [
+{"playlist_name": "Lindy Hop Music",
+"http_link": "http://open.spotify.com/user/sakarias.larsson/playlist/4GjTrc7DOyxFRG6K8oAyu5",
+"spotify_link": "spotify:user:sakarias.larsson:playlist:4GjTrc7DOyxFRG6K8oAyu5",
+"songs": [
 {"name": "It Don't Mean A Thing (If It Ain't Got That Swing)", "artists": ["The Mills Brothers"], "album": "Classic Tunes With The Mills Brothers", "duration": 165000, "link": "spotify:track:1iGR2xfcWr5d6jtOy3DtEf"},
 {"name": "Shake The Blues Away (12 - 15 - 44)", "artists": ["Wingy Manone"], "album": "Complete Jazz Series 1944 - 1946", "duration": 182000, "link": "spotify:track:6afdLPc0LHA4jVZ8tLa538"},
 {"name": "Shorty's Got To Go", "artists": ["Lucky Millinder"], "album": "Jukebox Hits 1942-1951", "duration": 193000, "link": "spotify:track:5oq99avfd6j3xfO8SQhfRr"},

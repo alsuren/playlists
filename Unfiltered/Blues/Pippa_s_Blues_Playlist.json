@@ -1,4 +1,7 @@
-{"playlist_name": "Pippa's Blues Playlist", "songs": [
+{"playlist_name": "Pippa's Blues Playlist",
+"http_link": "http://open.spotify.com/user/laura.h.knight/playlist/08hvdx7oZ9Sh1EVgliwjAF",
+"spotify_link": "spotify:user:laura.h.knight:playlist:08hvdx7oZ9Sh1EVgliwjAF",
+"songs": [
 {"name": "Mo' Better Blues", "artists": ["Gordon Webster"], "album": "Blues Till Dawn", "duration": 292000, "link": "spotify:track:1s7sjLfjmLloqIMwdMMVjk"},
 {"name": "Nobody's Fault But Mine", "artists": ["Joan Osborne", "The Holmes Brothers"], "album": "Shout, Sister, Shout!: A Tribute To Sister Rosetta Tharpe", "duration": 244000, "link": "spotify:track:04YLTd0FIrvOBRQOp1rHqF"},
 {"name": "Night Time Is The Right Time", "artists": ["Rufus and Carla Thomas"], "album": "Stax-Volt: The Complete Singles 1959-1968", "duration": 160000, "link": "spotify:track:5tt4gWT4Y3Vwwjqa7VNeIJ"},

@@ -1,4 +1,7 @@
-{"playlist_name": "Shazamed stuff", "songs": [
+{"playlist_name": "Shazamed stuff",
+"http_link": "http://open.spotify.com/user/hot.chilli/playlist/5PN0cgoV1vXxkmoverwqBG",
+"spotify_link": "spotify:user:hot.chilli:playlist:5PN0cgoV1vXxkmoverwqBG",
+"songs": [
 {"name": "Jump Through The Window", "artists": ["Roy Eldridge Orchestra"], "album": "Little Jazz Giant", "duration": 164000, "link": "spotify:track:6vDCccxEjjSGngEwoJFzsI"},
 {"name": "I Can't Give You Anything But Love", "artists": ["Ella Fitzgerald"], "album": "Essential Live Performances", "duration": 220000, "link": "spotify:track:00dNALmb1aXzsBH6wUq3xd"},
 {"name": "It Don't Mean A Thing (If It Ain't Got That Swing) - New York, August 12, 1932", "artists": ["Billy Banks"], "album": "Jazz Sound Lexicon >1932< Vol. 3", "duration": 167000, "link": "spotify:track:3WBmERK6g9U9sCWt0hsEgs"},

@@ -1,4 +1,7 @@
-{"playlist_name": "blues", "songs": [
+{"playlist_name": "blues",
+"http_link": "http://open.spotify.com/user/wisehelayna/playlist/3R2vktzu9Jyqiauy1vWRcu",
+"spotify_link": "spotify:user:wisehelayna:playlist:3R2vktzu9Jyqiauy1vWRcu",
+"songs": [
 {"name": "I Cried A Tear - Single/LP Version", "artists": ["LaVern Baker"], "album": "Blues Ballads", "duration": 156000, "link": "spotify:track:28dTB69zJBpBIiDH32Jp1M"},
 {"name": "I Waited Too Long", "artists": ["LaVern Baker"], "album": "Blues Ballads", "duration": 153000, "link": "spotify:track:5wCafJ848fEfg1l2iRp0I9"},
 {"name": "Then The Lights Go Out", "artists": ["Jimmy Witherspoon"], "album": "Singin' The Blues", "duration": 181000, "link": "spotify:track:6kYjYrc6SHiUyZebWOh0wL"},

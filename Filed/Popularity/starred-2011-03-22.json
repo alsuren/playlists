@@ -1,4 +1,7 @@
-{"playlist_name": "starred-2011-03-22", "songs": [
+{"playlist_name": "starred-2011-03-22",
+"http_link": "http://open.spotify.com/user/alsuren/playlist/7KbATXQsoqIKZ09LyyzE1O",
+"spotify_link": "spotify:user:alsuren:playlist:7KbATXQsoqIKZ09LyyzE1O",
+"songs": [
 {"name": "Bridegroom Special", "artists": ["Yiddish Swing Orchestra"], "album": "Klezmer (Yiddish Swing Music)", "duration": 204000, "link": "spotify:local:Yiddish+Swing+Orchestra:Klezmer+%28Yiddish+Swing+Music%29:Bridegroom+Special:204"},
 {"name": "Hop, Skip And Jump", "artists": ["Artie Shaw"], "album": "The Complete Gramercy Five Sessions", "duration": 177000, "link": "spotify:local:Artie+Shaw:The+Complete+Gramercy+Five+Sessions:Hop%2c+Skip+And+Jump:177"},
 {"name": "In The Mood", "artists": ["Glenn Miller"], "album": "Glenn Miller & Friends", "duration": 215000, "link": "spotify:track:2hHivyDLD7j0wbSAzhavzU"},

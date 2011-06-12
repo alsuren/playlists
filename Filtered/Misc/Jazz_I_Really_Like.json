@@ -1,4 +1,7 @@
-{"playlist_name": "Jazz I Really Like", "songs": [
+{"playlist_name": "Jazz I Really Like",
+"http_link": "http://open.spotify.com/user/maxholloway/playlist/569s4DEIoqw4oqfoSLt4nV",
+"spotify_link": "spotify:user:maxholloway:playlist:569s4DEIoqw4oqfoSLt4nV",
+"songs": [
 {"name": "Good Bait", "artists": ["Joe Lovano"], "album": "On This Day At The Vanguard", "duration": 854000, "link": "spotify:track:4beNzi97hap6nnlDCQ8h6q"},
 {"name": "Sippin' At Bells", "artists": ["Joe Lovano"], "album": "52nd Street Themes", "duration": 311000, "link": "spotify:track:6ApEs5UtLg4LUjwVhacAZX"},
 {"name": "Salt Peanuts", "artists": ["Joshua Redman"], "album": "Joshua Redman", "duration": 194000, "link": "spotify:track:0QZeEqwAA4RvJwiaYhCavi"},

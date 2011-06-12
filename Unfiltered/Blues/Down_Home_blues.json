@@ -1,4 +1,7 @@
-{"playlist_name": "Down Home blues", "songs": [
+{"playlist_name": "Down Home blues",
+"http_link": "http://open.spotify.com/user/laura.h.knight/playlist/1ZX2ppkwcQibWAjhtdVMV2",
+"spotify_link": "spotify:user:laura.h.knight:playlist:1ZX2ppkwcQibWAjhtdVMV2",
+"songs": [
 {"name": "Night Time Is The Right Time", "artists": ["Rufus and Carla Thomas"], "album": "Stax-Volt: The Complete Singles 1959-1968", "duration": 160000, "link": "spotify:track:5tt4gWT4Y3Vwwjqa7VNeIJ"},
 {"name": "Smokestack Lightnin' - Single Version", "artists": ["Howlin' Wolf"], "album": "The Best of Chess Records Original Artist Recordings Of Songs In The Film "Cadillac Records"", "duration": 187000, "link": "spotify:track:60tMEXEQuA6FtAANzGW8Bp"},
 {"name": "Dr. Feelgood [Love Is Serious Business]", "artists": ["Aretha Franklin"], "album": "Definitive Soul: Aretha Franklin", "duration": 199000, "link": "spotify:track:5jCPMKwNuoxJEIuRSLKuju"},

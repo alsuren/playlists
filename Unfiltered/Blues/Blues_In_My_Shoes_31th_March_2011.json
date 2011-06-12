@@ -1,4 +1,7 @@
-{"playlist_name": "Blues In My Shoes 31th March 2011", "songs": [
+{"playlist_name": "Blues In My Shoes 31th March 2011",
+"http_link": "http://open.spotify.com/user/tenants/playlist/6iUUUie97YnyV13U7m7NNA",
+"spotify_link": "spotify:user:tenants:playlist:6iUUUie97YnyV13U7m7NNA",
+"songs": [
 {"name": "You've Got To Love Her With A Feeling", "artists": ["Freddie King"], "album": "Hide Away", "duration": 194000, "link": "spotify:track:3M9iFVKPt4H21OK99wAIjY"},
 {"name": "Yonder Come The Blues", "artists": ["Odetta"], "album": "Odetta And The Blues", "duration": 169000, "link": "spotify:track:3khJevLYCwjLbvyD7lYvT6"},
 {"name": "When Things Go Wrong (It Hurts Me Too)", "artists": ["Lowell Fulson"], "album": "The Final Kent Years", "duration": 208000, "link": "spotify:track:4ThmFE7G6DBlIFiJxydAX5"},

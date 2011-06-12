@@ -1,4 +1,7 @@
-{"playlist_name": "Balboa", "songs": [
+{"playlist_name": "Balboa",
+"http_link": "http://open.spotify.com/user/laura.h.knight/playlist/6tgdoB0BTZCfQwcQe9pS6V",
+"spotify_link": "spotify:user:laura.h.knight:playlist:6tgdoB0BTZCfQwcQe9pS6V",
+"songs": [
 {"name": "Jamaica Jam", "artists": ["Teddy Powell"], "album": "Big Swing Bands", "duration": 164000, "link": "spotify:track:3KrJK3DlpUwAo4gQAwWJN8"},
 {"name": "Yacht Club Swing", "artists": ["Fats Waller & His Rhythm"], "album": "A Career Perspective 1922-1943", "duration": 232000, "link": "spotify:track:48mMGmxvoEYK8EU3sJmwJa"},
 {"name": "Undecided", "artists": ["Django Reinhardt"], "album": "Gypsy Guitar Classics", "duration": 153000, "link": "spotify:track:4pzF3J1ckfsi2TGgwhHIgX"},

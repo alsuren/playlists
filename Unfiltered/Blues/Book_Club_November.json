@@ -1,4 +1,7 @@
-{"playlist_name": "Book Club November", "songs": [
+{"playlist_name": "Book Club November",
+"http_link": "http://open.spotify.com/user/laura.h.knight/playlist/2WsYzowOtYk0XikmzW8sUF",
+"spotify_link": "spotify:user:laura.h.knight:playlist:2WsYzowOtYk0XikmzW8sUF",
+"songs": [
 {"name": "Detroit Moan", "artists": ["Victoria Spivey"], "album": "Got the Blues", "duration": 177000, "link": "spotify:track:1QUbRXiJhCzKWsovwP6EHf"},
 {"name": "Flood Water Blues - No. 1", "artists": ["Casey Bill Weldon"], "album": "Casey Bill Weldon Vol. 1 1935-1936", "duration": 193000, "link": "spotify:track:0nAo6YxrpFgM3gidCdWPNa"},
 {"name": "My Mama Don't Allow Me", "artists": ["Arthur 'Big Boy' Crudup"], "album": "If I Get Lucky", "duration": 187000, "link": "spotify:track:0MA6JS6gM3hu3f4ntY8TvY"},

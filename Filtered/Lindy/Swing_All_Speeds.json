@@ -1,4 +1,7 @@
-{"playlist_name": "Swing All Speeds", "songs": [
+{"playlist_name": "Swing All Speeds",
+"http_link": "http://open.spotify.com/user/alandra/playlist/1VIdfvGCJZfjnVJ8H98a8x",
+"spotify_link": "spotify:user:alandra:playlist:1VIdfvGCJZfjnVJ8H98a8x",
+"songs": [
 {"name": "Frankie and Johnny", "artists": ["Benny Goodman"], "album": "It Don't Mean A Thing If It Ain't Got That Swing", "duration": 196000, "link": "spotify:local:Benny+Goodman:It+Don%27t+Mean+A+Thing+If+It+Ain%27t+Got+That+Swing:Frankie+and+Johnny"},
 {"name": "Smack Dab In The Middle", "artists": ["Count Basie"], "album": "Low Life", "duration": 199000, "link": "spotify:local:Count+Basie:Low+Life:Smack+Dab+In+The+Middle:199"},
 {"name": "Everybody wants to be a cat", "artists": ["Ball & His Jazzmen, Kenny"], "album": "In Disneyland", "duration": 229000, "link": "spotify:local:Ball+%26+His+Jazzmen%2c+Kenny:In+Disneyland:Everybody+wants+to+be+a+cat:229"},

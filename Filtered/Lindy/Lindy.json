@@ -1,4 +1,7 @@
-{"playlist_name": "Lindy", "songs": [
+{"playlist_name": "Lindy",
+"http_link": "http://open.spotify.com/user/alandra/playlist/2ADyCYpt5YJGu341TTp3TA",
+"spotify_link": "spotify:user:alandra:playlist:2ADyCYpt5YJGu341TTp3TA",
+"songs": [
 {"name": "Teardrops From My Eyes", "artists": ["Ruth Brown"], "album": "Miss Rhythm: Greatest Hits And More", "duration": 176000, "link": "spotify:track:6lze3jMH9DUJ6At2BW9PlV"},
 {"name": "I Must Have It", "artists": ["Vince Giordano And The Nighthawks"], "album": "Ghost World Soundtrack", "duration": 180000, "link": "spotify:track:35A03hbzx6sPqKePxsvr7U"},
 {"name": "Richest Guy In The Graveyard", "artists": ["Dinah Washington"], "album": "The Best Of Bob Dylan's Theme Time Radio Hour", "duration": 174000, "link": "spotify:track:2cjsb6vjUBGV9h26M46QlG"},
