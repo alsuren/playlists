@@ -1,6 +1,6 @@
-{'playlist_name': '!x - buggy', 'songs': [
-{'name': 'Joshua Fit the Battle of Jericho', 'artists': ['Sidney Bechet'], 'album': 'Runnin' Wild', 'duration': 201000, 'link': 'spotify:local:Sidney+Bechet:Runnin%27+Wild:Joshua+Fit+the+Battle+of+Jericho:201'},
-{'name': 'Stop It's Wonderful', 'artists': ['Tommy Dorsey'], 'album': 'Herrang Compilation - Classics', 'duration': 170000, 'link': 'spotify:local:Tommy+Dorsey:Herrang+Compilation+-+Classics:Stop+It%27s+Wonderful:170'},
-{'name': 'Savoy', 'artists': ['Lucky Millinder'], 'album': 'Big Swing Bands', 'duration': 185000, 'link': 'spotify:track:6crMqf4ie6rW6ftoj1NSJt'},
-{'name': 'Moten Swing', 'artists': ['Barney Kessel'], 'album': 'To Swing Or Not To Swing', 'duration': 237000, 'link': 'spotify:track:3P2XCiYDodqdYyQsuTbmed'},
+{"playlist_name": "!x - buggy", "songs": [
+{"name": "Joshua Fit the Battle of Jericho", "artists": ["Sidney Bechet"], "album": "Runnin' Wild", "duration": 201000, "link": "spotify:local:Sidney+Bechet:Runnin%27+Wild:Joshua+Fit+the+Battle+of+Jericho:201"},
+{"name": "Stop It's Wonderful", "artists": ["Tommy Dorsey"], "album": "Herrang Compilation - Classics", "duration": 170000, "link": "spotify:local:Tommy+Dorsey:Herrang+Compilation+-+Classics:Stop+It%27s+Wonderful:170"},
+{"name": "Savoy", "artists": ["Lucky Millinder"], "album": "Big Swing Bands", "duration": 185000, "link": "spotify:track:6crMqf4ie6rW6ftoj1NSJt"},
+{"name": "Moten Swing", "artists": ["Barney Kessel"], "album": "To Swing Or Not To Swing", "duration": 237000, "link": "spotify:track:3P2XCiYDodqdYyQsuTbmed"},
 ]}

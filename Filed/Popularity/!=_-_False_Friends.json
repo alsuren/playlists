@@ -1,5 +1,5 @@
-{'playlist_name': '!= - False Friends', 'songs': [
-{'name': 'Blues My Naughty Sweetie Gave To Me', 'artists': ['Bob Barnard', 'Len Barnard', 'Ralph Sutton'], 'album': 'Easy Street', 'duration': 284000, 'link': 'spotify:track:3S1GfA6xWoKxLcFU5NABN9'},
-{'name': 'For Dancers Only (06-15-37)', 'artists': ['Jimmie Lunceford'], 'album': 'Complete Jazz Series 1937 - 1939', 'duration': 163000, 'link': 'spotify:track:1CR3aUnWpsdAm500MD1uhq'},
-{'name': 'Love Me or Leave', 'artists': ['Nina Simone'], 'album': 'Classic Years', 'duration': 207000, 'link': 'spotify:track:3x5giWbo7KdZKQ27DCbFhZ'},
+{"playlist_name": "!= - False Friends", "songs": [
+{"name": "Blues My Naughty Sweetie Gave To Me", "artists": ["Bob Barnard", "Len Barnard", "Ralph Sutton"], "album": "Easy Street", "duration": 284000, "link": "spotify:track:3S1GfA6xWoKxLcFU5NABN9"},
+{"name": "For Dancers Only (06-15-37)", "artists": ["Jimmie Lunceford"], "album": "Complete Jazz Series 1937 - 1939", "duration": 163000, "link": "spotify:track:1CR3aUnWpsdAm500MD1uhq"},
+{"name": "Love Me or Leave", "artists": ["Nina Simone"], "album": "Classic Years", "duration": 207000, "link": "spotify:track:3x5giWbo7KdZKQ27DCbFhZ"},
 ]}

@@ -1,10 +1,10 @@
-{'playlist_name': '!FS - Tempo change', 'songs': [
-{'name': 'It Ain't Necessarily So', 'artists': ['Peggy Lee'], 'album': 'Black Coffee', 'duration': 203000, 'link': 'spotify:track:4dLwcg1pUmK5zPsLs6Wn3i'},
-{'name': 'Diga Diga Doo', 'artists': ['Toots Thielemans'], 'album': '1955-1978', 'duration': 275000, 'link': 'spotify:local:Toots+Thielemans:1955-1978:Diga+Diga+Doo:275'},
-{'name': 'Don't Sit Under The Apple Tree - With Anyone Else But Me', 'artists': ['The Andrews Sisters'], 'album': 'The Andrews Sisters - 16 Golden Greats', 'duration': 180000, 'link': 'spotify:track:1EQ2DVVVpva8lEGMvh3BXI'},
-{'name': 'The Darktown Strutters' Ball', 'artists': ['Alberta Hunter'], 'album': 'Amtrak Blues', 'duration': 320000, 'link': 'spotify:track:3309qcJgKe6iNQjFIu9luw'},
-{'name': 'Black Eyes', 'artists': ['Washboard Rhythm Kings'], 'album': 'The Washboard Rhythm Kings Collection Vol. 5 - 1930-1931', 'duration': 176000, 'link': 'spotify:track:0RnK2NjB9ohY43gULcdazJ'},
-{'name': 'Black Eyes', 'artists': ['Washboard Rhythm Kings'], 'album': 'The Washboard Rhythm Kings Collection Vol. 5 - 1930-1931', 'duration': 176000, 'link': 'spotify:track:0RnK2NjB9ohY43gULcdazJ'},
-{'name': 'Chattanooga Choo Coo', 'artists': ['Bill Elliott;Wendi Williams'], 'album': 'Introducing Dorothy Dandridge', 'duration': 147000, 'link': 'spotify:track:4ldJpUjPAxtmS02SjW0bpG'},
-{'name': 'Diga Diga Doo', 'artists': ['Toots Thielemans'], 'album': 'Columbia Jazz', 'duration': 272000, 'link': 'spotify:track:17ym8ktySqJKBZMScozLd9'},
+{"playlist_name": "!FS - Tempo change", "songs": [
+{"name": "It Ain't Necessarily So", "artists": ["Peggy Lee"], "album": "Black Coffee", "duration": 203000, "link": "spotify:track:4dLwcg1pUmK5zPsLs6Wn3i"},
+{"name": "Diga Diga Doo", "artists": ["Toots Thielemans"], "album": "1955-1978", "duration": 275000, "link": "spotify:local:Toots+Thielemans:1955-1978:Diga+Diga+Doo:275"},
+{"name": "Don't Sit Under The Apple Tree - With Anyone Else But Me", "artists": ["The Andrews Sisters"], "album": "The Andrews Sisters - 16 Golden Greats", "duration": 180000, "link": "spotify:track:1EQ2DVVVpva8lEGMvh3BXI"},
+{"name": "The Darktown Strutters' Ball", "artists": ["Alberta Hunter"], "album": "Amtrak Blues", "duration": 320000, "link": "spotify:track:3309qcJgKe6iNQjFIu9luw"},
+{"name": "Black Eyes", "artists": ["Washboard Rhythm Kings"], "album": "The Washboard Rhythm Kings Collection Vol. 5 - 1930-1931", "duration": 176000, "link": "spotify:track:0RnK2NjB9ohY43gULcdazJ"},
+{"name": "Black Eyes", "artists": ["Washboard Rhythm Kings"], "album": "The Washboard Rhythm Kings Collection Vol. 5 - 1930-1931", "duration": 176000, "link": "spotify:track:0RnK2NjB9ohY43gULcdazJ"},
+{"name": "Chattanooga Choo Coo", "artists": ["Bill Elliott;Wendi Williams"], "album": "Introducing Dorothy Dandridge", "duration": 147000, "link": "spotify:track:4ldJpUjPAxtmS02SjW0bpG"},
+{"name": "Diga Diga Doo", "artists": ["Toots Thielemans"], "album": "Columbia Jazz", "duration": 272000, "link": "spotify:track:17ym8ktySqJKBZMScozLd9"},
 ]}

@@ -1,4 +1,4 @@
-{'playlist_name': '== - Fallbacks', 'songs': [
-{'name': 'Apollo Jump', 'artists': ['Lucky Millinder'], 'album': 'Jumpin' Jive!', 'duration': 206000, 'link': 'spotify:track:24l1e01BanY6440NZ8DsUU'},
-{'name': 'Music Makers', 'artists': ['Harry James'], 'album': 'The Hits Collection 1941', 'duration': 187000, 'link': 'spotify:track:1rajs8D1sGB0nux5KMd1b6'},
+{"playlist_name": "== - Fallbacks", "songs": [
+{"name": "Apollo Jump", "artists": ["Lucky Millinder"], "album": "Jumpin' Jive!", "duration": 206000, "link": "spotify:track:24l1e01BanY6440NZ8DsUU"},
+{"name": "Music Makers", "artists": ["Harry James"], "album": "The Hits Collection 1941", "duration": 187000, "link": "spotify:track:1rajs8D1sGB0nux5KMd1b6"},
 ]}

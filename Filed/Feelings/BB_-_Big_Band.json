@@ -1,10 +1,10 @@
-{'playlist_name': 'BB - Big Band', 'songs': [
-{'name': 'Corner Pocket', 'artists': ['Count Basie'], 'album': 'Frankie Manning's Really Swingin' Big Band Favorites', 'duration': 285000, 'link': 'spotify:local:Count+Basie:Frankie+Manning%27s+Really+Swingin%27+Big+Band+Favorites:Corner+Pocket:28'},
-{'name': 'Flying Home', 'artists': ['Glenn Miller'], 'album': 'The Misssing Chapters Volume One: American Patrol Disc 2', 'duration': 201000, 'link': 'spotify:local:Glenn+Miller:The+Misssing+Chapters+Volume+One%3a+American+Patrol+Disc+2:Flying+Home:2'},
-{'name': 'Air Express', 'artists': ['Ken Mackintosh'], 'album': 'Big Band Favourites - Volume 1', 'duration': 167000, 'link': 'spotify:local:Ken+Mackintosh:Big+Band+Favourites+-+Volume+1:Air+Express:167'},
-{'name': 'Zing! Went The Strings Of My Heart', 'artists': ['Judy Garland'], 'album': 'The Magic Of Judy Garland', 'duration': 220000, 'link': 'spotify:track:2vIuGZHuGRqcydnsVFC7Vp'},
-{'name': 'Sweet Georgia Brown', 'artists': ['Count Basie'], 'album': 'Basie Swings Standards', 'duration': 219000, 'link': 'spotify:track:4NKptf4bNdzYIrKBsbbaej'},
-{'name': 'Parade Of The Milk Bottle Caps', 'artists': ['Big 18'], 'album': 'More Live Echoes Of The Swinging Bands', 'duration': 236000, 'link': 'spotify:local:Big+18:More+Live+Echoes+Of+The+Swinging+Bands:Parade+Of+The+Milk+Bottle+Caps:236'},
-{'name': 'Well Git It', 'artists': ['Tommy Dorsey'], 'album': 'Astonishing 40ies', 'duration': 183000, 'link': 'spotify:track:2rAfzlGiQiBXvo7GWCsRpa'},
-{'name': 'Onion', 'artists': ['Lily Wilde and her Jumpin' Jubilee Orchestra'], 'album': 'Insect Ball', 'duration': 273000, 'link': 'spotify:track:5fNErbad2vixRl5C09L4Ky'},
+{"playlist_name": "BB - Big Band", "songs": [
+{"name": "Corner Pocket", "artists": ["Count Basie"], "album": "Frankie Manning's Really Swingin' Big Band Favorites", "duration": 285000, "link": "spotify:local:Count+Basie:Frankie+Manning%27s+Really+Swingin%27+Big+Band+Favorites:Corner+Pocket:28"},
+{"name": "Flying Home", "artists": ["Glenn Miller"], "album": "The Misssing Chapters Volume One: American Patrol Disc 2", "duration": 201000, "link": "spotify:local:Glenn+Miller:The+Misssing+Chapters+Volume+One%3a+American+Patrol+Disc+2:Flying+Home:2"},
+{"name": "Air Express", "artists": ["Ken Mackintosh"], "album": "Big Band Favourites - Volume 1", "duration": 167000, "link": "spotify:local:Ken+Mackintosh:Big+Band+Favourites+-+Volume+1:Air+Express:167"},
+{"name": "Zing! Went The Strings Of My Heart", "artists": ["Judy Garland"], "album": "The Magic Of Judy Garland", "duration": 220000, "link": "spotify:track:2vIuGZHuGRqcydnsVFC7Vp"},
+{"name": "Sweet Georgia Brown", "artists": ["Count Basie"], "album": "Basie Swings Standards", "duration": 219000, "link": "spotify:track:4NKptf4bNdzYIrKBsbbaej"},
+{"name": "Parade Of The Milk Bottle Caps", "artists": ["Big 18"], "album": "More Live Echoes Of The Swinging Bands", "duration": 236000, "link": "spotify:local:Big+18:More+Live+Echoes+Of+The+Swinging+Bands:Parade+Of+The+Milk+Bottle+Caps:236"},
+{"name": "Well Git It", "artists": ["Tommy Dorsey"], "album": "Astonishing 40ies", "duration": 183000, "link": "spotify:track:2rAfzlGiQiBXvo7GWCsRpa"},
+{"name": "Onion", "artists": ["Lily Wilde and her Jumpin' Jubilee Orchestra"], "album": "Insect Ball", "duration": 273000, "link": "spotify:track:5fNErbad2vixRl5C09L4Ky"},
 ]}

@@ -1,10 +1,10 @@
-{'playlist_name': 'Pippa's Blues Playlist', 'songs': [
-{'name': 'Mo' Better Blues', 'artists': ['Gordon Webster'], 'album': 'Blues Till Dawn', 'duration': 292000, 'link': 'spotify:track:1s7sjLfjmLloqIMwdMMVjk'},
-{'name': 'Nobody's Fault But Mine', 'artists': ['Joan Osborne', 'The Holmes Brothers'], 'album': 'Shout, Sister, Shout!: A Tribute To Sister Rosetta Tharpe', 'duration': 244000, 'link': 'spotify:track:04YLTd0FIrvOBRQOp1rHqF'},
-{'name': 'Night Time Is The Right Time', 'artists': ['Rufus and Carla Thomas'], 'album': 'Stax-Volt: The Complete Singles 1959-1968', 'duration': 160000, 'link': 'spotify:track:5tt4gWT4Y3Vwwjqa7VNeIJ'},
-{'name': 'Feeling Good', 'artists': ['Michael Bublé'], 'album': 'It's Time', 'duration': 237000, 'link': 'spotify:track:3I09LQbHS3NSU46Ly3tPpR'},
-{'name': 'New Orleans Bump', 'artists': ['Wynton Marsalis'], 'album': 'Unforgivable Blackness - The Rise and Fall of Jack Johnson', 'duration': 275000, 'link': 'spotify:track:7u5mnSk64IIuvqAFC6uzPI'},
-{'name': 'Turn Me On', 'artists': ['Norah Jones'], 'album': 'Come Away With Me', 'duration': 155000, 'link': 'spotify:track:6FjAGZp7c0Z2uaL3eHkXsx'},
-{'name': 'Son Of A Preacher Man', 'artists': ['Dusty Springfield'], 'album': 'The Silver Collection', 'duration': 148000, 'link': 'spotify:track:0scrtPmtlIVwwk9s4LXJ8n'},
-{'name': 'Uptown Sop', 'artists': ['The Gene Harris Trio'], 'album': 'Instant Party', 'duration': 525000, 'link': 'spotify:track:6U0mChGEs7te8RPNZFI34u'},
+{"playlist_name": "Pippa's Blues Playlist", "songs": [
+{"name": "Mo' Better Blues", "artists": ["Gordon Webster"], "album": "Blues Till Dawn", "duration": 292000, "link": "spotify:track:1s7sjLfjmLloqIMwdMMVjk"},
+{"name": "Nobody's Fault But Mine", "artists": ["Joan Osborne", "The Holmes Brothers"], "album": "Shout, Sister, Shout!: A Tribute To Sister Rosetta Tharpe", "duration": 244000, "link": "spotify:track:04YLTd0FIrvOBRQOp1rHqF"},
+{"name": "Night Time Is The Right Time", "artists": ["Rufus and Carla Thomas"], "album": "Stax-Volt: The Complete Singles 1959-1968", "duration": 160000, "link": "spotify:track:5tt4gWT4Y3Vwwjqa7VNeIJ"},
+{"name": "Feeling Good", "artists": ["Michael Bublé"], "album": "It's Time", "duration": 237000, "link": "spotify:track:3I09LQbHS3NSU46Ly3tPpR"},
+{"name": "New Orleans Bump", "artists": ["Wynton Marsalis"], "album": "Unforgivable Blackness - The Rise and Fall of Jack Johnson", "duration": 275000, "link": "spotify:track:7u5mnSk64IIuvqAFC6uzPI"},
+{"name": "Turn Me On", "artists": ["Norah Jones"], "album": "Come Away With Me", "duration": 155000, "link": "spotify:track:6FjAGZp7c0Z2uaL3eHkXsx"},
+{"name": "Son Of A Preacher Man", "artists": ["Dusty Springfield"], "album": "The Silver Collection", "duration": 148000, "link": "spotify:track:0scrtPmtlIVwwk9s4LXJ8n"},
+{"name": "Uptown Sop", "artists": ["The Gene Harris Trio"], "album": "Instant Party", "duration": 525000, "link": "spotify:track:6U0mChGEs7te8RPNZFI34u"},
 ]}

@@ -1,6 +1,6 @@
-{'playlist_name': '!Sc - Screechy', 'songs': [
-{'name': 'I wanna be like you', 'artists': ['Ball & His Jazzmen, Kenny'], 'album': 'In Disneyland', 'duration': 133000, 'link': 'spotify:local:Ball+%26+His+Jazzmen%2c+Kenny:In+Disneyland:I+wanna+be+like+you:133'},
-{'name': 'Washboard Wiggles', 'artists': ['Calamity Jazz'], 'album': 'Gettin' My Bonus In Love', 'duration': 178000, 'link': 'spotify:track:58tghHAlUZaBOON89SZhQ7'},
-{'name': 'Diga Diga Do', 'artists': ['Zoot Sims', 'Joe Venuti'], 'album': 'Joe & Zoot & More', 'duration': 207000, 'link': 'spotify:track:1OOFnKx4gkglQIofBpw16v'},
-{'name': 'Little Brown Jug', 'artists': ['The Clark Sisters'], 'album': 'A String Of Pearls', 'duration': 167000, 'link': 'spotify:track:2hMjtV2sFmsMRoCyy34mne'},
+{"playlist_name": "!Sc - Screechy", "songs": [
+{"name": "I wanna be like you", "artists": ["Ball & His Jazzmen, Kenny"], "album": "In Disneyland", "duration": 133000, "link": "spotify:local:Ball+%26+His+Jazzmen%2c+Kenny:In+Disneyland:I+wanna+be+like+you:133"},
+{"name": "Washboard Wiggles", "artists": ["Calamity Jazz"], "album": "Gettin' My Bonus In Love", "duration": 178000, "link": "spotify:track:58tghHAlUZaBOON89SZhQ7"},
+{"name": "Diga Diga Do", "artists": ["Zoot Sims", "Joe Venuti"], "album": "Joe & Zoot & More", "duration": 207000, "link": "spotify:track:1OOFnKx4gkglQIofBpw16v"},
+{"name": "Little Brown Jug", "artists": ["The Clark Sisters"], "album": "A String Of Pearls", "duration": 167000, "link": "spotify:track:2hMjtV2sFmsMRoCyy34mne"},
 ]}

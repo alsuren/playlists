@@ -1,5 +1,5 @@
-{'playlist_name': 'Things I def want to buy', 'songs': [
-{'name': 'What A Lovely Way', 'artists': ['Doris'], 'album': 'Did You Give The World Some Love Today Baby', 'duration': 240000, 'link': 'spotify:track:1VWeVEgc2rZrg6iWWLxw9Q'},
-{'name': 'Evening', 'artists': ['Girls from Mars'], 'album': 'Planet Swing', 'duration': 274000, 'link': 'spotify:track:3IeXYei8kVFs4OsxpgywDp'},
-{'name': 'Black Velvet', 'artists': ['Alannah Myles'], 'album': 'Billboard: #1 Hits Of The 90's', 'duration': 290000, 'link': 'spotify:track:2yw8qcJ9HTrOiN2HUQFDLa'},
+{"playlist_name": "Things I def want to buy", "songs": [
+{"name": "What A Lovely Way", "artists": ["Doris"], "album": "Did You Give The World Some Love Today Baby", "duration": 240000, "link": "spotify:track:1VWeVEgc2rZrg6iWWLxw9Q"},
+{"name": "Evening", "artists": ["Girls from Mars"], "album": "Planet Swing", "duration": 274000, "link": "spotify:track:3IeXYei8kVFs4OsxpgywDp"},
+{"name": "Black Velvet", "artists": ["Alannah Myles"], "album": "Billboard: #1 Hits Of The 90's", "duration": 290000, "link": "spotify:track:2yw8qcJ9HTrOiN2HUQFDLa"},
 ]}
