@@ -4,5 +4,9 @@
 "songs": [
 {"name": "What A Lovely Way", "artists": ["Doris"], "album": "Did You Give The World Some Love Today Baby", "duration": 240000, "link": "spotify:track:1VWeVEgc2rZrg6iWWLxw9Q"},
 {"name": "Evening", "artists": ["Girls from Mars"], "album": "Planet Swing", "duration": 274000, "link": "spotify:track:3IeXYei8kVFs4OsxpgywDp"},
+{"name": "Valentino", "artists": ["Diane Birch"], "album": "Bible Belt", "duration": 169000, "link": "spotify:track:6Ujzug9itscHgtECZU9yTi"},
+{"name": "Would I Lie To You?", "artists": ["Charles & Eddie"], "album": "Would I Lie To You", "duration": 205000, "link": "spotify:track:1A3iXoekVzV95cq89XiiuX"},
 {"name": "Black Velvet", "artists": ["Alannah Myles"], "album": "Billboard: #1 Hits Of The 90's", "duration": 290000, "link": "spotify:track:2yw8qcJ9HTrOiN2HUQFDLa"},
+{"name": "Feeling Good", "artists": ["Nina Simone"], "album": "Feeling Good: The Very Best of Nina Simone", "duration": 174000, "link": "spotify:local:Nina+Simone:Feeling+Good%3a+The+Very+Best+of+Nina+Simone:Feeling+Good:174"},
+{"name": "Every Beat Of My Heart", "artists": ["Gladys Knight and The Pips"], "album": "Soul Brothers and Sisters-Hit Grooves and Funk Hits", "duration": 123000, "link": "spotify:track:5zB3iDrC9RpVetdcxv6ash"},
 ]}
