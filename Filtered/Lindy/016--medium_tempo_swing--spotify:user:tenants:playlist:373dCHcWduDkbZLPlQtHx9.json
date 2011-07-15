@@ -15,7 +15,6 @@
 {"name": "8, 9 And 10", "artists": ["Slim Gaillard & Slam Stewart"], "album": "Complete Columbia Master Takes (Disc 1)", "duration": 163000, "link": "spotify:local:Slim+Gaillard+%26+Slam+Stewart:Complete+Columbia+Master+Takes+%28Disc+1%29:8%2c+9+And"},
 {"name": "Look-A There", "artists": ["Slim Gaillard & Slam Stewart"], "album": "Complete Columbia Master Takes (Disc 1)", "duration": 137000, "link": "spotify:local:Slim+Gaillard+%26+Slam+Stewart:Complete+Columbia+Master+Takes+%28Disc+1%29:Look-A+The"},
 {"name": "Savoy", "artists": ["Lucky Millinder"], "album": "Apollo Jump", "duration": 206000, "link": "spotify:local:Lucky+Millinder:Apollo+Jump:Savoy:206"},
-{"name": "Sent For You Yesterday", "artists": ["Count Basie"], "album": "The Best Of Early Basie", "duration": 176000, "link": "spotify:track:294gc8e7o2eypUEUTAfwaz"},
 {"name": "Splanky", "artists": ["Count Basie"], "album": "Count Basie: Live at the Sands", "duration": 232000, "link": "spotify:local:Count+Basie:Count+Basie%3a+Live+at+the+Sands:Splanky:232"},
 {"name": "One Scotch, One Bourbon, One Beer", "artists": ["Amos Milburn"], "album": "Rock N' Roll Drinkers & Sinners", "duration": 174000, "link": "spotify:track:5kpi4tOYCuftLGADRbNdbd"},
 {"name": "Yacht Club Swing", "artists": ["Fats Waller & His Rhythm"], "album": "A Career Perspective 1922-1943", "duration": 232000, "link": "spotify:track:48mMGmxvoEYK8EU3sJmwJa"},
@@ -29,7 +28,7 @@
 {"name": "Blues My Naughty Sweetie Gave To Me", "artists": ["Earl Hines"], "album": "In New Orleans 1975", "duration": 346000, "link": "spotify:track:2oEaeL89e8hvTQtizI2vc7"},
 {"name": "Cole Slaw (Sorghum Switch)", "artists": ["Louis Jordan"], "album": "Jukebox Hits Vol. 2: 1947-1951", "duration": 166000, "link": "spotify:track:7K8TNyX29wRn6HZokSzghn"},
 {"name": "On Revival Day", "artists": ["La Vern Baker"], "album": "La Vern Baker Sings Bessie Smith", "duration": 196000, "link": "spotify:track:24lRhbeJaCkDjMs7rqM5KF"},
-{"name": "Sent For You Yesterday", "artists": ["Count Basie"], "album": "The Best Of Early Basie", "duration": 176000, "link": "spotify:track:294gc8e7o2eypUEUTAfwaz"},
+{"name": "Sent For You Yesterday", "artists": ["Count Basie & His Orchestra"], "album": "The Best Of Early Basie", "duration": 176000, "link": "spotify:track:294gc8e7o2eypUEUTAfwaz"},
 {"name": "Shake That Thing", "artists": ["Preservation Hall Jazz Band"], "album": "Shake That Thing", "duration": 390000, "link": "spotify:track:2kqHS8o9pYyihb0wqYBiJR"},
 {"name": "Christopher Columbus", "artists": ["Benny Goodman"], "album": "Smoke House Rhythm", "duration": 215000, "link": "spotify:track:62QLuy5kA28z1wLhkkGmiA"},
 {"name": "Watch The Birdie", "artists": ["Tom Cunningham Orchestra"], "album": "One O'clock Boogie, Two O'clock Jump", "duration": 205000, "link": "spotify:track:1LIAZxcy6u292JnzB2w9xA"},
@@ -39,4 +38,5 @@
 {"name": "Mama He Treats Your Daughter Mean - Single/LP Version", "artists": ["Ruth Brown"], "album": "Ruth Brown", "duration": 176000, "link": "spotify:track:2yShRZBSQ7Pa7GPrdQBjhy"},
 {"name": "Be My Guest", "artists": ["Fats Domino"], "album": "Essential", "duration": 124000, "link": "spotify:track:48Qlncu96s8Bm7G1hpsxVO"},
 {"name": "Love Me Or Leave Me", "artists": ["Sammy Davis Jnr."], "album": "Rat Pack Fifty Favourites", "duration": 180000, "link": "spotify:track:4CkztCCChEnIkjmCeb5xcM"},
+{"name": "I'se A Muggin'", "artists": ["Le Quintette Du Hot Club De France"], "album": "Swing Time - The World’s Greatest Jazz Collection 1933-1957: Vol. 46", "duration": 187000, "link": "spotify:track:6bQvm2rXXPQ3Qhu6UxubU9"},
 ]}

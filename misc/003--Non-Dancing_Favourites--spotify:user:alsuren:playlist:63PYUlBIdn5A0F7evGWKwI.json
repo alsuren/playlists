@@ -80,4 +80,7 @@
 {"name": "Panic", "artists": ["The Smiths"], "album": "The Sound Of The Smiths", "duration": 141000, "link": "spotify:track:33qAg4nPHXeep12Ew9yOrn"},
 {"name": "The Boy With The Thorn In His Side", "artists": ["The Smiths"], "album": "The Sound Of The Smiths", "duration": 199000, "link": "spotify:track:69C4tpQxgnfVAO997WL7F7"},
 {"name": "Do You Remember", "artists": ["Ane Brun"], "album": "Do You Remember", "duration": 192000, "link": "spotify:track:2iSVttzrn895D58uhN3uhM"},
+{"name": "AA XXX", "artists": ["Peaches"], "album": "The Teaches Of Peaches", "duration": 272000, "link": "spotify:track:3QSb74GWuyLZstoFVf9Tsc"},
+{"name": "Absolutely Cuckoo", "artists": ["The Magnetic Fields"], "album": "69 Love Songs", "duration": 95000, "link": "spotify:track:3usS3Jx8ZIR3kFSpW6FCxX"},
+{"name": "Clint Eastwood", "artists": ["Gorillas"], "album": "", "duration": 287000, "link": "spotify:local:Gorillas::Clint+Eastwood:287"},
 ]}

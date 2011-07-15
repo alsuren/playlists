@@ -15,7 +15,6 @@
 {"name": "Petit Fleur", "artists": ["Sidney Bechet"], "album": "Songs For Brunette Lovers", "duration": 199000, "link": "spotify:track:1vOuWhCxsGkwxQrefBeoPp"},
 {"name": "Fame", "artists": ["Citizen Cope"], "album": "The Clarence Greenwood Recordings", "duration": 270000, "link": "spotify:track:0SANNUj9XtM6HMooZtyxuO"},
 {"name": "Please Mr. Jailer", "artists": ["Wynona Carr"], "album": "Jump Jack Jump!", "duration": 182000, "link": "spotify:track:4Ejw3MnD4IKkL0iqvZvHHU"},
-{"name": "Blues My Naughty Sweetie Gives To Me", "artists": ["Sidney Bechet"], "album": "The Fabulous Sidney Bechet", "duration": 343000, "link": "spotify:track:26zJinKqbORQyrDyMFLQhS"},
 {"name": "Moanin' Blues", "artists": ["John Lee Hooker"], "album": "Moon Is Rising", "duration": 198000, "link": "spotify:track:0Cas2goMXpDOV0vPW6wHXS"},
 {"name": "Jungle Lullaby", "artists": ["C.W. Stoneking"], "album": "Pickathon Roots Music Festival: Pickathon 2009", "duration": 295000, "link": "spotify:track:1GsLD6W59Bc7oZ2HhAi1de"},
 {"name": "Handyman Blues", "artists": ["C.W. Stoneking"], "album": "King Hokum", "duration": 205000, "link": "spotify:track:1rjEvSMaB8v3bWj5WeRUef"},
@@ -24,4 +23,7 @@
 {"name": "Blue Drag", "artists": ["Allen Toussaint"], "album": "The Bright Mississippi", "duration": 261000, "link": "spotify:track:6M7wfb504kCbEPuKXfwcau"},
 {"name": "Blue Drag", "artists": ["Django Reinhardt"], "album": "100 Essential Classics", "duration": 179000, "link": "spotify:track:2tGEicMuRzGw1DK7BH6JvS"},
 {"name": "Bad Things (Theme from 'True Blood')", "artists": ["Jace Everett"], "album": "Bad Things (The official theme from 'True Blood')", "duration": 164000, "link": "spotify:track:6CJSSqNgPN32Vr1YJXocFb"},
+{"name": "Broke & Ain't Got A Dime", "artists": ["Precious Bryant"], "album": "Fool Me Good", "duration": 106000, "link": "spotify:track:2o5lEVXzV3KqpNbd1RSP3m"},
+{"name": "Don't Mess Up A Good Thing", "artists": ["Precious Bryant"], "album": "Fool Me Good", "duration": 172000, "link": "spotify:track:0xsVeI2zarnwKazlk4RwL7"},
+{"name": "Joy On The Other Side", "artists": ["Ruthie Foster"], "album": "The Truth According To Ruthie Foster", "duration": 225000, "link": "spotify:track:7rgkVCj4YW39vgFSS3fAqT"},
 ]}

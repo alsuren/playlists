@@ -4,4 +4,5 @@
 "songs": [
 {"name": "Down South Camp Meeting (05-06-37)", "artists": ["Charlie Barnet"], "album": "Complete Jazz Series 1936 - 1937", "duration": 161000, "link": "spotify:track:5h3mzkRdyEhDX7Q7R2BOnN"},
 {"name": "Summit Ridge Drive - Original", "artists": ["Artie Shaw"], "album": "The Jazz Century CD1", "duration": 196000, "link": "spotify:track:3cLBka7DyUjBdw8qv9frIP"},
+{"name": "Cotton Tail", "artists": ["Duke Ellington"], "album": "The Essential Duke Ellington 1938-1958", "duration": 195000, "link": "spotify:local:Duke+Ellington:The+Essential+Duke+Ellington+1938-1958:Cotton+Tail:195"},
 ]}

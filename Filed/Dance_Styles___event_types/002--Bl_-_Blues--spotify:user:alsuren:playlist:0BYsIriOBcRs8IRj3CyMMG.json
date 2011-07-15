@@ -25,4 +25,8 @@
 {"name": "Bear Mash Blues", "artists": ["Erskine Hawkins"], "album": "Big Swing Bands", "duration": 177000, "link": "spotify:track:6nvx0oW00rMYHZM93szFwK"},
 {"name": "East St. Louis Toodle-Oo", "artists": ["Duke Ellington And His Washingtonians"], "album": "Ken Burns Jazz-Duke Ellington", "duration": 184000, "link": "spotify:track:4WWoC6oISCYNDzbgBKp0CT"},
 {"name": "Summertime", "artists": ["Sidney Bechet"], "album": "The Best Of Sidney Bechet", "duration": 252000, "link": "spotify:track:4PN5gbJNYWx9yQ6hJepPbG"},
+{"name": "At Last - Single Version", "artists": ["Etta James"], "album": "Love Songs", "duration": 183000, "link": "spotify:track:5qjwV2U6mjCt61CnmfOrgp"},
+{"name": "Shopping For Clothes", "artists": ["Coasters"], "album": "Atlantic Rhythm And Blues 1947-1974, Vol.4: 1957-1960", "duration": 179000, "link": "spotify:local:Coasters:Atlantic+Rhythm+And+Blues+1947-1974%2c+Vol.4%3a+1957-1960:Shopping+For+Cloth"},
+{"name": "Blade of Grass", "artists": ["Asylum Street Spankers"], "album": "Spanker Madness", "duration": 215000, "link": "spotify:local:Asylum+Street+Spankers:Spanker+Madness:Blade+of+Grass:215"},
+{"name": "Feeling Good", "artists": ["Nina Simone"], "album": "Blue For You", "duration": 173000, "link": "spotify:local:Nina+Simone:Blue+For+You:Feeling+Good:173"},
 ]}

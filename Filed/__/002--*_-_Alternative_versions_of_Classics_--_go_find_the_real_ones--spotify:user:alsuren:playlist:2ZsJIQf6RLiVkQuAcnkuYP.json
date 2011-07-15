@@ -87,7 +87,7 @@
 {"name": "Shake That Thing", "artists": ["Preservation Hall Jazz Band"], "album": "Shake That Thing", "duration": 390000, "link": "spotify:track:2kqHS8o9pYyihb0wqYBiJR"},
 {"name": "Skyliner", "artists": ["Big 18"], "album": "More Live Echoes Of The Swinging Bands", "duration": 284000, "link": "spotify:local:Big+18:More+Live+Echoes+Of+The+Swinging+Bands:Skyliner:284"},
 {"name": "Stompin' At The Savoy", "artists": ["Benny Goodman"], "album": "The Birth Of Swing (1935-1936) (Disc 2)", "duration": 197000, "link": "spotify:local:Benny+Goodman:The+Birth+Of+Swing+%281935-1936%29+%28Disc+2%29:Stompin%27+At+The+Savoy"},
-{"name": "Topsy", "artists": ["Count Basie"], "album": "The Best Of Early Basie", "duration": 186000, "link": "spotify:track:0ibNaWymIWoPQr8N7KOn0J"},
+{"name": "Topsy", "artists": ["Count Basie & His Orchestra"], "album": "The Best Of Early Basie", "duration": 186000, "link": "spotify:track:0ibNaWymIWoPQr8N7KOn0J"},
 {"name": "Banana Split For My Baby", "artists": ["Keely Smith", "Louis Prima", "Sam Butera & The Witnesses"], "album": "Capitol Collectors Series", "duration": 151000, "link": "spotify:track:2Z3WXphJU6Do7aynOXlON0"},
 {"name": "Bei Mir Bist Du Schon", "artists": ["Andrews Sisters"], "album": "Bei Mir Bist du Schon [Past Perfect]", "duration": 187000, "link": "spotify:local:Andrews+Sisters:Bei+Mir+Bist+du+Schon+%5bPast+Perfect%5d:Bei+Mir+Bist+Du+Schon:187"},
 {"name": "Why Don't You Do Right", "artists": ["Benny Goodman"], "album": "Sounds of the Big Bands", "duration": 144000, "link": "spotify:local:Benny+Goodman:Sounds+of+the+Big+Bands:Why+Don%27t+You+Do+Right:144"},
@@ -147,4 +147,9 @@
 {"name": "I'se A Muggin'", "artists": ["Le Quintette Du Hot Club De France"], "album": "Swing Time - The World’s Greatest Jazz Collection 1933-1957: Vol. 46", "duration": 187000, "link": "spotify:track:6bQvm2rXXPQ3Qhu6UxubU9"},
 {"name": "Shorty's Got To Go", "artists": ["Lucky Millinder"], "album": "Jukebox Hits 1942-1951", "duration": 193000, "link": "spotify:track:5oq99avfd6j3xfO8SQhfRr"},
 {"name": "Gotta Pebble In My Shoe", "artists": ["Chick Webb"], "album": "The Ultimate Collection", "duration": 176000, "link": "spotify:track:5NhlWAJB5rdbQv90mH8ock"},
+{"name": "All The Cats Join In", "artists": ["George Gee And The Jump Jivin' Wailers"], "album": "If Dreams Come True", "duration": 259000, "link": "spotify:track:5uuJeYDhBJDW0fso9vXhlm"},
+{"name": "Be careful (120)", "artists": ["Buddy Johnson"], "album": "Swing is here to stay", "duration": 188000, "link": "spotify:local:Buddy+Johnson:Swing+is+here+to+stay:Be+careful+%28120%29:188"},
+{"name": "Bugle Call Rag", "artists": ["Kid Ory"], "album": "Kid Ory! Favorites!", "duration": 196000, "link": "spotify:local:Kid+Ory:Kid+Ory%21+Favorites%21:Bugle+Call+Rag:196"},
+{"name": "By and By", "artists": ["Asylum Street Spankers"], "album": "God's Favorite Band", "duration": 257000, "link": "spotify:track:281kMZ7fGZ0KU6DE6f5bkG"},
+{"name": "Bugle Call Rag", "artists": ["Kid Ory"], "album": "Kid Ory! Favorites!", "duration": 196000, "link": "spotify:local:Kid+Ory:Kid+Ory%21+Favorites%21:Bugle+Call+Rag:196"},
 ]}

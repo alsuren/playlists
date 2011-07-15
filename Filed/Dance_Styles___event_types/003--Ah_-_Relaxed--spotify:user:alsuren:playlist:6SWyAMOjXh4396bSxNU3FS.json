@@ -71,5 +71,8 @@
 {"name": "Shorty's Got To Go", "artists": ["Lucky Millinder"], "album": "Jukebox Hits 1942-1951", "duration": 193000, "link": "spotify:track:5oq99avfd6j3xfO8SQhfRr"},
 {"name": "Exactly Like You", "artists": ["Benny Goodman Quartet"], "album": "Small Combos", "duration": 199000, "link": "spotify:track:5DsjNikmjRcbGOnz1sp7kb"},
 {"name": "My Sweet Substitute", "artists": ["Preservation Hall Jazz Band"], "album": "New Orleans Preservation, Vol. 1", "duration": 193000, "link": "spotify:track:46szsCjxR4jCrBO8MGP6pk"},
-{"name": "Shorty George", "artists": ["Count Basie"], "album": "The Best Of Early Basie", "duration": 164000, "link": "spotify:track:1h3tCaWIDrtpsOpLUlyzmS"},
+{"name": "Shorty George", "artists": ["Count Basie & His Orchestra"], "album": "The Best Of Early Basie", "duration": 164000, "link": "spotify:track:1h3tCaWIDrtpsOpLUlyzmS"},
+{"name": "Be careful (120)", "artists": ["Buddy Johnson"], "album": "Swing is here to stay", "duration": 188000, "link": "spotify:local:Buddy+Johnson:Swing+is+here+to+stay:Be+careful+%28120%29:188"},
+{"name": "Blade of Grass", "artists": ["Asylum Street Spankers"], "album": "Spanker Madness", "duration": 215000, "link": "spotify:local:Asylum+Street+Spankers:Spanker+Madness:Blade+of+Grass:215"},
+{"name": "Two Blocks Down Turn Left", "artists": ["Cab Calloway"], "album": "The King Of Hi-De-Ho 1934-1937", "duration": 193000, "link": "spotify:local:Cab+Calloway:The+King+Of+Hi-De-Ho+1934-1937:Two+Blocks+Down+Turn+Left:193"},
 ]}

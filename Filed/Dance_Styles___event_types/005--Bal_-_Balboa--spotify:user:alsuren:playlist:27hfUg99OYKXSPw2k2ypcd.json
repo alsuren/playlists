@@ -24,4 +24,6 @@
 {"name": "Polly Wolly Doodle (Red Norvo)", "artists": ["Red Norvo"], "album": "Jumpin' Swing & Jive", "duration": 168000, "link": "spotify:track:56Ivfds1FsKYmBdJ4sXxJM"},
 {"name": "Shivers", "artists": ["Benny Goodman Sextet", "Nick Fatool"], "album": "Legendary Jazz Drummers", "duration": 172000, "link": "spotify:track:1cggp8OlQ4kM96rtZnMWRj"},
 {"name": "Just Because You Can", "artists": ["Catherine Russell"], "album": "Inside This Heart Of Mine", "duration": 250000, "link": "spotify:track:5RCw2ee3KefZXdY3eZIAuD"},
+{"name": "Minor Swing", "artists": ["Django Reinhardt"], "album": "The Best of Django Reinhardt [Capitol/Blue Note]", "duration": 196000, "link": "spotify:local:Django+Reinhardt:The+Best+of+Django+Reinhardt+%5bCapitol%2fBlue+Note%5d:Minor+Swing:1"},
+{"name": "Jolie Coquine", "artists": ["Caravan Palace"], "album": "Electro Swing", "duration": 223000, "link": "spotify:local:Caravan+Palace:Electro+Swing:Jolie+Coquine:223"},
 ]}

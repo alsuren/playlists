@@ -4,4 +4,5 @@
 "songs": [
 {"name": "Flying Home", "artists": ["Ella Fitzgerald"], "album": "The Jazz Selection - Volume One", "duration": 146000, "link": "spotify:local:Ella+Fitzgerald:The+Jazz+Selection+-+Volume+One:Flying+Home:146"},
 {"name": "Blues My Naughty Sweetie Gave To Me", "artists": ["Bob Barnard", "Len Barnard", "Ralph Sutton"], "album": "Easy Street", "duration": 284000, "link": "spotify:track:3S1GfA6xWoKxLcFU5NABN9"},
+{"name": "Gnarls Barkley", "artists": ["Gnarls Barkley"], "album": "", "duration": 181000, "link": "spotify:local:Gnarls+Barkley::Gnarls+Barkley:181"},
 ]}

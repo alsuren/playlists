@@ -85,4 +85,6 @@
 {"name": "Dinah", "artists": ["Cab Calloway"], "album": "Best Of The Big Bands", "duration": 188000, "link": "spotify:track:0REK9eVaftGNndeGFHfy3k"},
 {"name": "The Dipsy Doodle", "artists": ["Tommy Dorsey", "Edythe Wright"], "album": "Swing Era", "duration": 190000, "link": "spotify:track:2whLoFXaVE6JZVMzQyHagN"},
 {"name": "Begin The Beguine", "artists": ["Artie Shaw"], "album": "Greatest Hits Artie Shaw", "duration": 201000, "link": "spotify:track:0wSp1dlKKPfrNwxPcSQb15"},
+{"name": "Shoo-Fly Pie & Apple Pan Dowdy", "artists": ["June Christy, Stan Kenton And His Orchestra"], "album": "A Woman's Place Is In The Groove", "duration": 159000, "link": "spotify:track:2oR2ckZPvBMawjmBuX28hK"},
+{"name": "Jive At Five", "artists": ["Count Basie"], "album": "Introducing Count Basie", "duration": 161000, "link": "spotify:track:4rXO3QjCoH6hxRXc9i12BT"},
 ]}
