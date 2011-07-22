@@ -26,4 +26,7 @@
 {"name": "Just Because You Can", "artists": ["Catherine Russell"], "album": "Inside This Heart Of Mine", "duration": 250000, "link": "spotify:track:5RCw2ee3KefZXdY3eZIAuD"},
 {"name": "Minor Swing", "artists": ["Django Reinhardt"], "album": "The Best of Django Reinhardt [Capitol/Blue Note]", "duration": 196000, "link": "spotify:local:Django+Reinhardt:The+Best+of+Django+Reinhardt+%5bCapitol%2fBlue+Note%5d:Minor+Swing:1"},
 {"name": "Jolie Coquine", "artists": ["Caravan Palace"], "album": "Electro Swing", "duration": 223000, "link": "spotify:local:Caravan+Palace:Electro+Swing:Jolie+Coquine:223"},
+{"name": "Sweet Sue - DJ Wuthe am Grammophon", "artists": ["Le Quintette Du Hot Club De France", "Django Reinhardt"], "album": "Balboa Swing, Vol. 1", "duration": 175000, "link": "spotify:track:0uhxHn61hR9UZR8gkaF20o"},
+{"name": "Oh, Lady Be Good", "artists": ["Benny Goodman"], "album": "The Small Groups", "duration": 183000, "link": "spotify:track:50EgePkVeSVT9I8XcEmI2P"},
+{"name": "Joshua Fit De Battle Of Jericho", "artists": ["Sidney Bechet"], "album": "Runnin' Wild", "duration": 202000, "link": "spotify:track:6mhzK4YvxzG2MQseaazRGt"},
 ]}

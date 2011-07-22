@@ -33,7 +33,7 @@
 {"name": "Black Night - Single Version", "artists": ["Bobby Bland"], "album": "The Best of Bobby 'Blue' Bland", "duration": 172000, "link": "spotify:track:4rsKhoMc39uqidchBeZjVw"},
 {"name": "I Smell Trouble", "artists": ["Ike & Tina Turner"], "album": "Essential Masters", "duration": 229000, "link": "spotify:track:5aFlOhW8zElmJaYfAJXZhK"},
 {"name": "At Last - Single Version", "artists": ["Etta James"], "album": "At Last!", "duration": 182000, "link": "spotify:track:0CmIALzGn4vHIHJG4n3Q4z"},
-{"name": "Something's Got A Hold On Me - 1961 Single Version", "artists": ["Etta James"], "album": "The Very Best Of Etta James: The Chess Singles", "duration": 169000, "link": "spotify:track:6PdQ4UOqm38B2vH4KjbfK3"},
+{"name": "Something's Got A Hold On Me - Single Version", "artists": ["Etta James"], "album": "The Very Best Of Etta James: The Chess Singles", "duration": 169000, "link": "spotify:track:6PdQ4UOqm38B2vH4KjbfK3"},
 {"name": "I Prefer You - Single Version", "artists": ["Etta James"], "album": "The Very Best Of Etta James: The Chess Singles", "duration": 185000, "link": "spotify:track:5nI4ODyvYt6DLuo2HgFsdo"},
 {"name": "Crawlin' King Snake", "artists": ["Etta James"], "album": "Blues To The Bone", "duration": 331000, "link": "spotify:track:347UmlXFEKPqXCPITJJOPb"},
 {"name": "Ball And Chain", "artists": ["Big Mama Thornton"], "album": "Newport In New York", "duration": 469000, "link": "spotify:track:45ufl6eBRORWFInhoEAsVF"},
@@ -221,4 +221,5 @@
 {"name": "Black Coffee", "artists": ["Oscar Peterson", "Russ Garcia & His Orchestra"], "album": "In a Romantic Mood - Oscar Peterson With Strings", "duration": 137000, "link": "spotify:track:32nskKejEdWEccdkihzGfb"},
 {"name": "Black Coffee", "artists": ["Freddy Cole"], "album": "Waiter, Ask the Man to Play the Blues", "duration": 161000, "link": "spotify:track:2Q0RXuUUHijLXxf3bPvBfs"},
 {"name": "Easy Lovin'", "artists": ["Wade Flemons"], "album": "R&B Spotlight '60", "duration": 142000, "link": "spotify:track:5iyD8dELIffKN9AC5HvqZi"},
+{"name": "St. James Infirmary", "artists": ["Vagabond Opera"], "album": "Get On The Train", "duration": 350000, "link": "spotify:track:0ye8M1LZoCeBflq8B9VzhM"},
 ]}

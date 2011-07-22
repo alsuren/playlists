@@ -49,7 +49,7 @@
 {"name": "Miss Etna", "artists": ["Joe Lovano"], "album": "The History of Blue Note, 70th Anniversary", "duration": 393000, "link": "spotify:track:3jakzJHpbyCHctxj0iDnU7"},
 {"name": "Autumn Leaves", "artists": ["Cannonball Adderley"], "album": "Ballads And Blues", "duration": 659000, "link": "spotify:track:2AoSArkYqh7G9BVPETOkEV"},
 {"name": "Strode Rode", "artists": ["Sonny Rollins"], "album": "Saxophone Colossus", "duration": 313000, "link": "spotify:track:6uNKQXU6kORLoRwO4BIMeh"},
-{"name": "Blue 7", "artists": ["Sonny Rollins"], "album": "Saxophone Colossus", "duration": 677000, "link": "spotify:track:6CW3Rir0LHM0wSaBAgtK1U"},
+{"name": "Blue 7", "artists": ["Sonny Rollins"], "album": "Saxophone Colossus", "duration": 680000, "link": "spotify:track:6CW3Rir0LHM0wSaBAgtK1U"},
 {"name": "Afrodisia", "artists": ["Kenny Dorham"], "album": "Blue Note Trip: Lookin' Back/Movin' On", "duration": 305000, "link": "spotify:track:6Nbj7ac86nySzb47qL5NLg"},
 {"name": "Moment's Notice (Enhanced CD Version)", "artists": ["John Coltrane"], "album": "The Ultimate Blue Train", "duration": 551000, "link": "spotify:track:4kmiJrCOhkUXTTCtYS7LJW"},
 {"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2EBkB4pk4urIsMdjh9V3vg"},
@@ -101,4 +101,6 @@
 {"name": "Night And Day", "artists": ["Stan Getz", "Bill Evans"], "album": "Stan Getz & Bill Evans", "duration": 395000, "link": "spotify:track:2qHEMyLP8gnb0Ur53p6OCN"},
 {"name": "My Sentiments Exactly", "artists": ["Jim Rotondi", "Ralph Bowen", "Jared Gold", "Quincy Davis"], "album": "All Wrapped Up", "duration": 343000, "link": "spotify:track:4XxD7t7oYBGrVw6395qgq9"},
 {"name": "Question and Answer", "artists": ["Pat Metheny"], "album": "Question and Answer", "duration": 426000, "link": "spotify:track:62UajelFnksefinNjbL9PY"},
+{"name": "You Betta' Off", "artists": ["Bob Sheppard", "Billy Childs", "John Beasley"], "album": "Tell Tale Signs", "duration": 379000, "link": "spotify:track:35A5FC5kIDAtjDZzP9Hqzp"},
+{"name": "Changes", "artists": ["Maurizio Rolli Big Band"], "album": "Rolli's Tones", "duration": 406000, "link": "spotify:track:1r5nc6Funueu9MAnrnujjy"},
 ]}

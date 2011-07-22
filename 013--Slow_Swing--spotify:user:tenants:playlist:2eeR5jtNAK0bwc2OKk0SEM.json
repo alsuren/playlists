@@ -7,7 +7,7 @@
 {"name": "I Can't Quit You Baby", "artists": ["Otis Rush"], "album": "I Can't Quit You Baby (The Blues Collection Vol.19)", "duration": 186000, "link": "spotify:local:Otis+Rush:I+Can%27t+Quit+You+Baby+%28The+Blues+Collection+Vol.19%29:I+Can%27t+Quit+Yo"},
 {"name": "Lovin' Mama Blues", "artists": ["Big Joe Turner"], "album": "Roll 'em (The Blues Collection Vol.50)", "duration": 196000, "link": "spotify:local:Big+Joe+Turner:Roll+%27em+%28The+Blues+Collection+Vol.50%29:Lovin%27+Mama+Blues:196"},
 {"name": "Just One of Those Blues (from 'Humph Swings Out')", "artists": ["Humphrey Lyttelton, Bruce Turner, John Picard, Johnny Parker, Jim Bray, Eddie Taylor"], "album": "Triple Exposure", "duration": 366000, "link": "spotify:local:Humphrey+Lyttelton%2c+Bruce+Turner%2c+John+Picard%2c+Johnny+Parker%2c+Jim+Bray%2c+Edd"},
-{"name": "The Honeydripper", "artists": ["Big Joe Turner", "Count Basie"], "album": "The Bosses", "duration": 403000, "link": "spotify:track:45ogQY0ONJJ5mNIFoNHeAq"},
+{"name": "The Honeydripper", "artists": ["Count Basie", "Joe Turner"], "album": "The Bosses", "duration": 403000, "link": "spotify:track:45ogQY0ONJJ5mNIFoNHeAq"},
 {"name": "Hard Times (No One Knows Better Than I)", "artists": ["Aretha Franklin"], "album": "Sunday Morning Classics", "duration": 188000, "link": "spotify:track:45M1vJKev5HOxVNavPPfvp"},
 {"name": "Black And Tan Fantasy - Live", "artists": ["Lincoln Center Jazz Orchestra"], "album": "Live In Swing City- Swingin' With Duke", "duration": 275000, "link": "spotify:track:4BE2LQ6GSGURMRuDP0fKqk"},
 {"name": "All That Meat And No Potatoes", "artists": ["Louis Armstrong", "Velma Middleton"], "album": "Jazz Anthology", "duration": 322000, "link": "spotify:track:19gXkV3uR9kSZltfzEc8tJ"},
@@ -24,4 +24,5 @@
 {"name": "At Sundown", "artists": ["Earl Hines"], "album": "Earl Hines Classic Trio", "duration": 168000, "link": "spotify:track:4E8nhkOPBrysIPJr1fnose"},
 {"name": "Blue Skies", "artists": ["Maxine Sullivan And Her Orchestra"], "album": "Blue & Sentimental", "duration": 180000, "link": "spotify:track:4Y2pe01CY7G6OUqH6qxiGs"},
 {"name": "Just A Sittin' And A Rockin'", "artists": ["DUKE ELLINGTON", "Ray Nance"], "album": "Dancin' With The Duke", "duration": 256000, "link": "spotify:track:3t3yx4cwx0W1hBNTOjKFkd"},
+{"name": "Uptown Sop", "artists": ["The Gene Harris Trio"], "album": "Instant Party", "duration": 525000, "link": "spotify:track:6U0mChGEs7te8RPNZFI34u"},
 ]}

@@ -46,7 +46,7 @@
 {"name": "California Dreamin'", "artists": ["Clare Teal", "Nils Solberg", "Alan Barnes", "Rod Brown", "John Day", "Martin Litton"], "album": "Orsino's Songs", "duration": 251000, "link": "spotify:track:0JgvC2lXOwwwL1M1L3mJha"},
 {"name": "Come On In My Kitchen", "artists": ["Porterdavis"], "album": "Live At Eddie's Attic", "duration": 353000, "link": "spotify:track:5z40dffgh0NdbDLOqqNQoJ"},
 {"name": "Theme From The Pink Panther", "artists": ["Denis Solee"], "album": "Blues In The Night", "duration": 233000, "link": "spotify:track:6yzM6Myx9NiT8dYJ6tA1fl"},
-{"name": "Hymn To Freedom", "artists": ["Oscar Peterson"], "album": "Night Train", "duration": 338000, "link": "spotify:track:2T1ACKqq6GEozD390n16Ve"},
-{"name": "The Honeydripper", "artists": ["Big Joe Turner", "Count Basie"], "album": "The Bosses", "duration": 403000, "link": "spotify:track:45ogQY0ONJJ5mNIFoNHeAq"},
+{"name": "Hymn To Freedom", "artists": ["The Oscar Peterson Trio"], "album": "Night Train", "duration": 338000, "link": "spotify:track:2T1ACKqq6GEozD390n16Ve"},
+{"name": "The Honeydripper", "artists": ["Count Basie", "Joe Turner"], "album": "The Bosses", "duration": 403000, "link": "spotify:track:45ogQY0ONJJ5mNIFoNHeAq"},
 {"name": "Dark Clouds", "artists": ["Chris Thomas King"], "album": "The Roots", "duration": 200000, "link": "spotify:track:33ZxjADvp9mrZ7SMcBRJwu"},
 ]}
