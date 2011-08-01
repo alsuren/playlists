@@ -23,7 +23,7 @@
 {"name": "Good To Love", "artists": ["Robben Ford"], "album": "Blue Moon", "duration": 222000, "link": "spotify:track:17mJ2iJfAkd2WPueoryQMX"},
 {"name": "Walking Spanish", "artists": ["Tom Waits"], "album": "Rain Dogs", "duration": 186000, "link": "spotify:track:01dSr7NPwTWBRoScLtWVS5"},
 {"name": "Love Me Like A Man", "artists": ["Jessy Martens", "Jan Fischer"], "album": "That's Why I'm Crying", "duration": 306000, "link": "spotify:track:2wBhunJWsb2uexqyCVzYxI"},
-{"name": "Hard Time Killing Floor", "artists": ["Chris Thomas King"], "album": "The Roots", "duration": 192000, "link": "spotify:track:6eAJ3vGdiSO1KjTnu7Kugw"},
+{"name": "Hard Time Killing Floor", "artists": ["The Roots"], "album": "The Roots", "duration": 192000, "link": "spotify:track:6eAJ3vGdiSO1KjTnu7Kugw"},
 {"name": "Cheatin' Women Blues", "artists": ["Chris Thomas King"], "album": "It's A Cold Ass World", "duration": 278000, "link": "spotify:track:1vXGQSpaDg8kUdNOFmEWKf"},
 {"name": "Syrup & Honey", "artists": ["Duffy"], "album": "Rockferry", "duration": 198000, "link": "spotify:track:5QVsy5Ir5bcmoHuqoYTZOn"},
 {"name": "Norah Jones   Shoot the Moon.mp3", "artists": [""], "album": "", "duration": 248000, "link": "spotify:local:::Norah+Jones+++Shoot+the+Moon.mp3:248"},
@@ -39,4 +39,7 @@
 {"name": "Sinkin' Soon", "artists": ["Norah Jones"], "album": "Sinkin' Soon", "duration": 278000, "link": "spotify:track:4iHoRDiIOIxcBy6gGftFZD"},
 {"name": "Right and Wrong", "artists": ["Asylum Street Spankers"], "album": "God's Favorite Band", "duration": 299000, "link": "spotify:track:0AoGh425KsvbwCT90ObLDt"},
 {"name": "Ariel", "artists": ["Stateless"], "album": "Matilda", "duration": 213000, "link": "spotify:track:3J0XdX2ekFTHcBhVBZXI9P"},
+{"name": "Come On Over (Turn Me On)", "artists": ["Mark Lanegan", "Isobel Campbell"], "album": "Sunday At Devil Dirt", "duration": 279000, "link": "spotify:track:2veoyIugJr4yB3bLM5tieb"},
+{"name": "Nobody's Fault But Mine", "artists": ["Beth Rowley"], "album": "Violets - EP", "duration": 230000, "link": "spotify:local:Beth+Rowley:Violets+-+EP:Nobody%27s+Fault+But+Mine:230"},
+{"name": "Lil' Red Rooster", "artists": ["Vince Converse"], "album": "Here Come The Blues", "duration": 178000, "link": "spotify:track:5VDYut2Io9DIYeBGv0BB2t"},
 ]}
