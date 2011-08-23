@@ -4,7 +4,7 @@
 "songs": [
 {"name": "My Baby Comes 'Round At 8", "artists": ["Indigo Swing"], "album": "Indigo Swing", "duration": 176000, "link": "spotify:track:7wXQNaB1TRmRyFYzzYpkjI"},
 {"name": "Jive At Five", "artists": ["Count Basie"], "album": "Introducing Count Basie", "duration": 161000, "link": "spotify:track:4rXO3QjCoH6hxRXc9i12BT"},
-{"name": "Shorty George", "artists": ["Count Basie"], "album": "Kansas City Jazz:The 30s and 40s", "duration": 167000, "link": "spotify:track:5XnJJpbcpAr6PE2vPCfh2E"},
+{"name": "Shorty George", "artists": ["Count Basie & His Orchestra"], "album": "Kansas City Jazz:The 30s and 40s", "duration": 167000, "link": "spotify:track:5XnJJpbcpAr6PE2vPCfh2E"},
 {"name": "Who Walks In When I Walk Out", "artists": ["Firehouse Five Plus Two"], "album": "Firehouse Five Plus Two Story", "duration": 185000, "link": "spotify:track:20G7b5jtYBDT16yoFPtxoT"},
 {"name": "Sweet Georgia Brown", "artists": ["Firehouse Five Plus Two"], "album": "Firehouse Five Plus Two Story", "duration": 183000, "link": "spotify:track:5OTEAhihHzrC0mvMN5qOS1"},
 {"name": "All Right, Okay, You Win", "artists": ["Count Basie"], "album": "Count Basie At Birdland 1956", "duration": 170000, "link": "spotify:track:3viWiP6kTGeil7XQqENy1i"},
@@ -95,4 +95,6 @@
 {"name": "Washboard Swing", "artists": ["Washboard Sam"], "album": "She Belongs To The Devil", "duration": 183000, "link": "spotify:track:3u0TYSIi12HtBwIpf8WbTr"},
 {"name": "Be Cool A.k.a. Keep Cool", "artists": ["Johnny Moore´s Three Blazers", "Mari Jones"], "album": "Be Cool: The Modern & Dolphin Sessions 1952-1954", "duration": 170000, "link": "spotify:track:4U2J7nOpLkEoKy82Rvj5l2"},
 {"name": "Good Queen Bess", "artists": ["DUKE ELLINGTON"], "album": "The Great Duke Ellington Vol 1", "duration": 184000, "link": "spotify:track:2p9BZ3gXbU9cR5ZfZA1xrk"},
+{"name": "Christopher Columbus", "artists": ["Van Alexander"], "album": "Swing! Staged For Sound/The Home Of Happy Feet", "duration": 182000, "link": "spotify:track:2Y7mCnurPK7xn53HIhzhOt"},
+{"name": "Joshua (mid 03/40)", "artists": ["Stuff Smith"], "album": "Complete Jazz Series 1939 - 1944", "duration": 201000, "link": "spotify:track:0OmTutwfzxPGPxNxb4czmC"},
 ]}

@@ -19,7 +19,7 @@
 {"name": "Sweet Lover", "artists": ["Aretha Franklin"], "album": "Soul Masters: Sweet Lover", "duration": 207000, "link": "spotify:track:50L7W7y45YMDPmS2trOzEE"},
 {"name": "Cold Shot", "artists": ["Stevie Ray Vaughan And Double Trouble"], "album": "The Essential Stevie Ray Vaughan And Double Trouble 3.0", "duration": 241000, "link": "spotify:track:28m2mECRMknGjASAE9Mn9P"},
 {"name": "The Hucklebuck", "artists": ["Paul Williams"], "album": "Backline Volume 49", "duration": 188000, "link": "spotify:track:7ENKPtT0SRf0fgsg35zSHN"},
-{"name": "Mockingbird", "artists": ["Inez Foxx & Charlie"], "album": "Pure 60s", "duration": 159000, "link": "spotify:track:0qOFQQDqFUFDfP6Kaf71GI"},
+{"name": "Mockingbird", "artists": ["Inez and Charlie Foxx"], "album": "Pure 60s", "duration": 159000, "link": "spotify:track:0qOFQQDqFUFDfP6Kaf71GI"},
 {"name": "Night Time Is The Right Time", "artists": ["Rufus and Carla Thomas"], "album": "Stax-Volt: The Complete Singles 1959-1968", "duration": 160000, "link": "spotify:track:5tt4gWT4Y3Vwwjqa7VNeIJ"},
 {"name": "St. James' Infirmary Blues", "artists": ["Tom Jones"], "album": "Tom Jones & Jools Holland", "duration": 247000, "link": "spotify:track:5KCuVg4DPEzXi4AxH84sJ2"},
 {"name": "I Don't Know", "artists": ["Ruth Brown"], "album": "The Essentials: Ruth Brown", "duration": 174000, "link": "spotify:track:047Ip9c6dijAJfuwloV3NF"},
@@ -42,7 +42,7 @@
 {"name": "California Dreamin'", "artists": ["Clare Teal", "Nils Solberg", "Alan Barnes", "Rod Brown", "John Day", "Martin Litton"], "album": "Orsino's Songs", "duration": 251000, "link": "spotify:track:0JgvC2lXOwwwL1M1L3mJha"},
 {"name": "Come On In My Kitchen", "artists": ["Porterdavis"], "album": "Live At Eddie's Attic", "duration": 353000, "link": "spotify:track:5z40dffgh0NdbDLOqqNQoJ"},
 {"name": "Theme From The Pink Panther", "artists": ["Denis Solee"], "album": "Blues In The Night", "duration": 233000, "link": "spotify:track:6yzM6Myx9NiT8dYJ6tA1fl"},
-{"name": "Hymn To Freedom", "artists": ["The Oscar Peterson Trio"], "album": "Night Train", "duration": 338000, "link": "spotify:track:2T1ACKqq6GEozD390n16Ve"},
+{"name": "Hymn To Freedom", "artists": ["The Oscar Peterson Trio"], "album": "Night Train", "duration": 333000, "link": "spotify:track:2T1ACKqq6GEozD390n16Ve"},
 {"name": "The Honeydripper", "artists": ["Count Basie", "Joe Turner"], "album": "The Bosses", "duration": 403000, "link": "spotify:track:45ogQY0ONJJ5mNIFoNHeAq"},
 {"name": "Dark Clouds", "artists": ["The Roots"], "album": "The Roots", "duration": 200000, "link": "spotify:track:33ZxjADvp9mrZ7SMcBRJwu"},
 ]}

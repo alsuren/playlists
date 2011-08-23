@@ -54,7 +54,7 @@
 {"name": "Joshua Fit The Battle Of Jericho", "artists": ["Josh White"], "album": "The Elektra Years", "duration": 166000, "link": "spotify:track:7qdSiZDP0D9dCr01wcRIBS"},
 {"name": "Woodchopper's Ball", "artists": ["Woody Herman and his orchestra"], "album": "Big Band Instrumentals: 16 Most Requested Songs", "duration": 191000, "link": "spotify:local:Woody+Herman+and+his+orchestra:Big+Band+Instrumentals%3a+16+Most+Requested+Songs:Wood"},
 {"name": "Clap Hands, Here Comes Charlie", "artists": ["Count Basie"], "album": "Introducing Count Basie", "duration": 149000, "link": "spotify:track:1uQei2bRdWsJuz2QtcfmaG"},
-{"name": "Sweet Georgia Brown", "artists": ["Count Basie"], "album": "Basie Swings Standards", "duration": 219000, "link": "spotify:track:4NKptf4bNdzYIrKBsbbaej"},
+{"name": "Sweet Georgia Brown", "artists": ["Count Basie & His Orchestra"], "album": "Basie Swings Standards", "duration": 219000, "link": "spotify:track:4NKptf4bNdzYIrKBsbbaej"},
 {"name": "Boogie Woogie Bugle Boy (From Company C)", "artists": ["The Andrews Sisters"], "album": "Glenn Miller & Friends", "duration": 138000, "link": "spotify:track:1dguimKupSLOC8sA6WlnuC"},
 {"name": "Splanky - Live", "artists": ["Count Basie Big Band"], "album": "The Golden Years", "duration": 278000, "link": "spotify:track:485xlIrfxBq0oneGzS5TGB"},
 {"name": "Bei Mir Bist Du Schön", "artists": ["The Puppini Sisters"], "album": "Betcha Bottom Dollar", "duration": 138000, "link": "spotify:track:0QWEoB5oEO6HNOcXBZW6bF"},
@@ -152,4 +152,7 @@
 {"name": "Bugle Call Rag", "artists": ["Kid Ory"], "album": "Kid Ory! Favorites!", "duration": 196000, "link": "spotify:local:Kid+Ory:Kid+Ory%21+Favorites%21:Bugle+Call+Rag:196"},
 {"name": "By and By", "artists": ["Asylum Street Spankers"], "album": "God's Favorite Band", "duration": 257000, "link": "spotify:track:281kMZ7fGZ0KU6DE6f5bkG"},
 {"name": "Bugle Call Rag", "artists": ["Kid Ory"], "album": "Kid Ory! Favorites!", "duration": 196000, "link": "spotify:local:Kid+Ory:Kid+Ory%21+Favorites%21:Bugle+Call+Rag:196"},
+{"name": "Solid As A Rock", "artists": ["Ella Fitzgerald"], "album": "CABU Jazz Masters - Une Anthologie 1948-1955", "duration": 184000, "link": "spotify:track:13tA0XoiuRicFTxZYQGGG4"},
+{"name": "Yacht Club Swing", "artists": ["Fats Waller"], "album": "Ain't Misbehavin'", "duration": 186000, "link": "spotify:track:0rGqXzyiPK8V8Wc8gfilTZ"},
+{"name": "Sixteen Tons", "artists": ["The Platters"], "album": "The Platters Greatest Hits", "duration": 156000, "link": "spotify:track:5p56gkvxiJAjroCltoY30h"},
 ]}

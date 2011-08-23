@@ -5,7 +5,7 @@
 {"name": "It's A Man's Man's Man's World", "artists": ["James Brown"], "album": "Sex Machine", "duration": 168000, "link": "spotify:local:James+Brown:Sex+Machine:It%27s+A+Man%27s+Man%27s+Man%27s+World:168"},
 {"name": "Sinkin' Soon", "artists": ["Norah Jones"], "album": "Not Too Late", "duration": 278000, "link": "spotify:track:3zjM3l6tM50gSNNBJ7zdAa"},
 {"name": "Egyptian Fantasy", "artists": ["Sidney Bechet"], "album": "BD Jazz - Sidney Bechet in New York - CD2", "duration": 186000, "link": "spotify:local:Sidney+Bechet:BD+Jazz+-+Sidney+Bechet+in+New+York+-+CD2:Egyptian+Fantasy:186"},
-{"name": "Spoonful - Single Version", "artists": ["Howlin' Wolf"], "album": "His Best", "duration": 163000, "link": "spotify:track:2wtRvI5AU6nz4KszseC2Qs"},
+{"name": "Spoonful", "artists": ["Howlin' Wolf"], "album": "His Best", "duration": 163000, "link": "spotify:track:2wtRvI5AU6nz4KszseC2Qs"},
 {"name": "St. James Infirmary", "artists": ["Lou Rawls"], "album": "Live", "duration": 274000, "link": "spotify:track:57X3uXujf41DbutXVqsZQS"},
 {"name": "Help me", "artists": ["Sonny Boy Williamson"], "album": "Beginner's Guide to the Blues", "duration": 189000, "link": "spotify:local:Sonny+Boy+Williamson:Beginner%27s+Guide+to+the+Blues:Help+me:189"},
 {"name": "Sympathique", "artists": ["Pink Martini"], "album": "Angela Andrews - Teaching Compilation 1", "duration": 168000, "link": "spotify:local:Pink+Martini:Angela+Andrews+-+Teaching+Compilation+1:Sympathique:168"},
@@ -45,7 +45,7 @@
 {"name": "Are You Hep To The Jive? (Yas, Yas) - 78rpm Version", "artists": ["Cab Calloway"], "album": "Are You Hep To The Jive?", "duration": 168000, "link": "spotify:track:02Z6azLc20eBqSZvOm3sAY"},
 {"name": "Big Apple Contest", "artists": ["Solomon Douglas"], "album": "Swingmatism", "duration": 178000, "link": "spotify:track:1YBL1PPkd5P1LBSaO99OxN"},
 {"name": "Tutti Frutti", "artists": ["Slim Gaillard & Slam Stewart"], "album": "Complete Columbia Master Takes (Disc 1)", "duration": 159000, "link": "spotify:local:Slim+Gaillard+%26+Slam+Stewart:Complete+Columbia+Master+Takes+%28Disc+1%29:Tutti+Frut"},
-{"name": "Cole Slaw (Sorghum Switch)", "artists": ["Louis Jordan"], "album": "Jukebox Hits Vol. 2: 1947-1951", "duration": 166000, "link": "spotify:track:7K8TNyX29wRn6HZokSzghn"},
+{"name": "Cole Slaw (Sorghum Switch)", "artists": ["Louis Jordan & His Tympani Five"], "album": "Jukebox Hits Vol. 2: 1947-1951", "duration": 166000, "link": "spotify:track:7K8TNyX29wRn6HZokSzghn"},
 {"name": "Bad, Bad Whiskey", "artists": ["Amos Milburn"], "album": "The Greatest Rhythm & Booze Collection", "duration": 175000, "link": "spotify:track:2ZhNhvR5MbNJ72yzAaVtQ1"},
 {"name": "One Scotch, One Bourbon, One Beer", "artists": ["Amos Milburn"], "album": "Rock N' Roll Drinkers & Sinners", "duration": 174000, "link": "spotify:track:5kpi4tOYCuftLGADRbNdbd"},
 {"name": "Jeep Jockey Jump", "artists": ["Glenn Miller"], "album": "Glen Miller - Moonlight Serenade", "duration": 135000, "link": "spotify:track:1YAYuG7cVIFi7LGUwjQ2kP"},
@@ -157,4 +157,5 @@
 {"name": "Swingin' The Blues", "artists": ["Count Basie & His Orchestra"], "album": "The Best Of Early Basie", "duration": 166000, "link": "spotify:track:3q2E45xmAFKdT4TWXiFkhN"},
 {"name": "A Swinging Safari (154)", "artists": ["Bert Kaempfert"], "album": "Music To Watch Girls By (Disc 2)", "duration": 187000, "link": "spotify:local:Bert+Kaempfert:Music+To+Watch+Girls+By+%28Disc+2%29:A+Swinging+Safari+%28154%29:187"},
 {"name": "At Last - Single Version", "artists": ["Etta James"], "album": "Love Songs", "duration": 183000, "link": "spotify:track:5qjwV2U6mjCt61CnmfOrgp"},
+{"name": "Twenty-Four Robbers", "artists": ["Fats Waller"], "album": "JG07: Fats Waller / I Got Ryth", "duration": 167000, "link": "spotify:local:Fats+Waller:JG07%3a+Fats+Waller+%2f+I+Got+Ryth:Twenty-Four+Robbers:167"},
 ]}

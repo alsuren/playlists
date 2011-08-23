@@ -2,7 +2,7 @@
 "http_link": "http://open.spotify.com/user/tenants/playlist/6iUUUie97YnyV13U7m7NNA",
 "spotify_link": "spotify:user:tenants:playlist:6iUUUie97YnyV13U7m7NNA",
 "songs": [
-{"name": "You've Got To Love Her With A Feeling", "artists": ["Freddie King"], "album": "Hide Away", "duration": 194000, "link": "spotify:track:3M9iFVKPt4H21OK99wAIjY"},
+{"name": "You've Got to Love Her With a Feeling", "artists": ["Freddie King"], "album": "Hide Away", "duration": 194000, "link": "spotify:track:3M9iFVKPt4H21OK99wAIjY"},
 {"name": "Yonder Come The Blues", "artists": ["Odetta"], "album": "Odetta And The Blues", "duration": 169000, "link": "spotify:track:3khJevLYCwjLbvyD7lYvT6"},
 {"name": "When Things Go Wrong (It Hurts Me Too)", "artists": ["Lowell Fulson"], "album": "The Final Kent Years", "duration": 208000, "link": "spotify:track:4ThmFE7G6DBlIFiJxydAX5"},
 {"name": "You Gotta Move", "artists": ["Sam Cooke"], "album": "Night Beat", "duration": 158000, "link": "spotify:track:77ulklR6wxK0Sxc2igNUmG"},
@@ -21,7 +21,7 @@
 {"name": "I Just Want To Make Love To You", "artists": ["Etta James"], "album": "The Genuine Article: The Best Of Etta James", "duration": 188000, "link": "spotify:track:33K1u1kovHtnBt9sZoz2Eb"},
 {"name": "Dragnet For Jesus - Take 1", "artists": ["Sister Wynona Carr"], "album": "Dragnet For Jesus", "duration": 170000, "link": "spotify:track:3p9qe2f9Hl8Pza5AAcBTYk"},
 {"name": "Soothe Me", "artists": ["Sam & Dave"], "album": "The Best Of Sam & Dave", "duration": 152000, "link": "spotify:track:3pL0x4IUqemNfzJPn5Hvbi"},
-{"name": "Mockingbird", "artists": ["Inez Foxx & Charlie"], "album": "Pure 60s", "duration": 159000, "link": "spotify:track:0qOFQQDqFUFDfP6Kaf71GI"},
+{"name": "Mockingbird", "artists": ["Inez and Charlie Foxx"], "album": "Pure 60s", "duration": 159000, "link": "spotify:track:0qOFQQDqFUFDfP6Kaf71GI"},
 {"name": "Beautiful - Radio Edit", "artists": ["The Sweet Vandals"], "album": "Beautiful", "duration": 218000, "link": "spotify:track:6ynVWGg1zMGOviyKrqpQeP"},
 {"name": "Buck", "artists": ["Nina Simone"], "album": "Sings The Blues", "duration": 111000, "link": "spotify:track:5bxsfGDnq8dr4643BcLN41"},
 {"name": "Am I Wrong", "artists": ["Keb' Mo'"], "album": "Keb' Mo'", "duration": 139000, "link": "spotify:track:3PlpG3hmLouT01BfYJaBJa"},
