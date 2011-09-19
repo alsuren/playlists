@@ -131,9 +131,9 @@
 {"name": "On The Sunny Side Of The Street", "artists": ["Peggy Lee"], "album": "The Wonderful Peggy Lee", "duration": 191000, "link": "spotify:track:3aJpvllnSgMkZmcY0G8nJr"},
 {"name": "Opus One", "artists": ["Ted Heath Big Band Swing"], "album": "Big Band Swing", "duration": 169000, "link": "spotify:track:7op5VrctQNb3Fx9jEn77Cs"},
 {"name": "Posin'", "artists": ["Jimmie Lunceford"], "album": "Greatest Hits", "duration": 181000, "link": "spotify:track:0QyZUVe3UsFwZmOy9cKYB1"},
+{"name": "Tuxedo Junction", "artists": ["Syd Lawrence & His Orchestra"], "album": "Unforgettable", "duration": 247000, "link": "spotify:track:0slqjjtnGONA4wLuHAycKE"},
 {"name": "Stompin' at the Savoy - 1996 Remastered - Take 1", "artists": ["Benny Goodman Quartet"], "album": "Trésors Benny Goodman", "duration": 198000, "link": "spotify:track:7wQ9avR8GOzHjKsR4Vtfpw"},
 {"name": "Twenty Four Robbers", "artists": ["Jimmie Lunceford"], "album": "For Dancers Only", "duration": 192000, "link": "spotify:track:0ExpydIbw8PVeKikhJqSKN"},
-{"name": "Tuxedo Junction", "artists": ["Syd Lawrence & His Orchestra"], "album": "Unforgettable", "duration": 247000, "link": "spotify:track:0slqjjtnGONA4wLuHAycKE"},
 {"name": "Who Walks In When I Walk Out? (Duet With Ella Fitzgerald)  (Digitally Remastered)", "artists": ["Louis Armstrong"], "album": "Autograph", "duration": 141000, "link": "spotify:track:30RbRtxYhn34WvhZnwdCLI"},
 {"name": "Diga Diga Doo - Remastered - 2000", "artists": ["Artie Shaw & His Orchestra"], "album": "Very Best Of Artie Shaw", "duration": 163000, "link": "spotify:track:3g7q75vYhu6OwpcUSyWyRe"},
 {"name": "Tuxedo Junction", "artists": ["The Ted Heath Big Band"], "album": "Big Band Million Sellers", "duration": 221000, "link": "spotify:track:1O10k4qT2loFKCrsfMUYAu"},
@@ -154,5 +154,6 @@
 {"name": "Bugle Call Rag", "artists": ["Kid Ory"], "album": "Kid Ory! Favorites!", "duration": 196000, "link": "spotify:local:Kid+Ory:Kid+Ory%21+Favorites%21:Bugle+Call+Rag:196"},
 {"name": "Solid As A Rock", "artists": ["Ella Fitzgerald"], "album": "CABU Jazz Masters - Une Anthologie 1948-1955", "duration": 184000, "link": "spotify:track:13tA0XoiuRicFTxZYQGGG4"},
 {"name": "Yacht Club Swing", "artists": ["Fats Waller"], "album": "Ain't Misbehavin'", "duration": 186000, "link": "spotify:track:0rGqXzyiPK8V8Wc8gfilTZ"},
+{"name": "Sixteen Tons", "artists": ["The Platters"], "album": "The Platters Greatest Hits", "duration": 156000, "link": "spotify:track:5p56gkvxiJAjroCltoY30h"},
 {"name": "Sixteen Tons", "artists": ["The Platters"], "album": "The Platters Greatest Hits", "duration": 156000, "link": "spotify:track:5p56gkvxiJAjroCltoY30h"},
 ]}

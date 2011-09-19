@@ -24,7 +24,7 @@
 {"name": "Wish I Didn't Miss You", "artists": ["Angie Stone"], "album": "Stone Hits: The Very Best Of Angie Stone", "duration": 269000, "link": "spotify:track:1euSJSk3dqCRmfdVwczmsR"},
 {"name": "100 Yard Dash", "artists": ["Raphael Saadiq"], "album": "The Way I See It", "duration": 138000, "link": "spotify:track:2OPANrnimcwWcVQuDk8ibD"},
 {"name": "Ga Peach - Remix", "artists": ["Anthony David"], "album": "The Red Clay Chronicles", "duration": 276000, "link": "spotify:track:0NKuotPEmpRu6aD55eR2Sg"},
-{"name": "I Wanna Be The Only One", "artists": ["Eternal", "Bebe Winans"], "album": "This Is... 1997", "duration": 215000, "link": "spotify:track:1T5M2K1GLRppyHO4xY5c81"},
+{"name": "I Wanna Be The Only One (feat. Bebe Winans)", "artists": ["Eternal", "Bebe Winans"], "album": "This Is... 1997", "duration": 215000, "link": "spotify:track:1T5M2K1GLRppyHO4xY5c81"},
 {"name": "Porcelain", "artists": ["Moby"], "album": "Play", "duration": 241000, "link": "spotify:track:2oqcM9cd19JrVS9jAvciUm"},
 {"name": "I Second That Emotion", "artists": ["Smokey Robinson & The Miracles"], "album": "Motown: The Complete No. 1's", "duration": 166000, "link": "spotify:track:0BkPNM0Vpa1hpJsr1UK7kc"},
 {"name": "What Becomes Of The Brokenhearted", "artists": ["Jimmy Ruffin"], "album": "Motown: The Complete No. 1's", "duration": 180000, "link": "spotify:track:1vPoyi299x3syjGQrwSWrQ"},
@@ -40,4 +40,6 @@
 {"name": "Ain't Nobody", "artists": ["Clare Maguire"], "album": "Ain't Nobody", "duration": 298000, "link": "spotify:track:0l8eUz3H6naleUKUrCgKLW"},
 {"name": "And If My Heart Should Somehow Stop", "artists": ["James Vincent McMorrow"], "album": "Early In the Morning", "duration": 273000, "link": "spotify:track:5gXQZoE0fZquEdmoV36rqo"},
 {"name": "Black Widow", "artists": ["Maceo Parker"], "album": "Dial MACEO", "duration": 299000, "link": "spotify:track:4iivCSrCRogiWT3WqG9oH7"},
+{"name": "Sideways", "artists": ["Citizen Cope"], "album": "The Clarence Greenwood Recordings", "duration": 319000, "link": "spotify:track:6DhjIxv25erZSw30vdSoaG"},
+{"name": "Passion Play", "artists": ["William Fitzsimmons"], "album": "Until When We Are Ghosts", "duration": 355000, "link": "spotify:track:6hUScKZXCeLfAhFKnLUdhI"},
 ]}

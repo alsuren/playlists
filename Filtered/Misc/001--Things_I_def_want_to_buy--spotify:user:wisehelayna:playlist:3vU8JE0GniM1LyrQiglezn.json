@@ -2,17 +2,11 @@
 "http_link": "http://open.spotify.com/user/wisehelayna/playlist/3vU8JE0GniM1LyrQiglezn",
 "spotify_link": "spotify:user:wisehelayna:playlist:3vU8JE0GniM1LyrQiglezn",
 "songs": [
-{"name": "Evening", "artists": ["Girls from Mars"], "album": "Planet Swing", "duration": 274000, "link": "spotify:track:3IeXYei8kVFs4OsxpgywDp"},
-{"name": "Valentino", "artists": ["Diane Birch"], "album": "Bible Belt", "duration": 169000, "link": "spotify:track:6Ujzug9itscHgtECZU9yTi"},
-{"name": "Would I Lie To You?", "artists": ["Charles & Eddie"], "album": "Would I Lie To You", "duration": 205000, "link": "spotify:track:1A3iXoekVzV95cq89XiiuX"},
-{"name": "Black Velvet", "artists": ["Alannah Myles"], "album": "Billboard: #1 Hits Of The 90's", "duration": 290000, "link": "spotify:track:2yw8qcJ9HTrOiN2HUQFDLa"},
 {"name": "Feeling Good", "artists": ["Nina Simone"], "album": "Feeling Good: The Very Best of Nina Simone", "duration": 174000, "link": "spotify:local:Nina+Simone:Feeling+Good%3a+The+Very+Best+of+Nina+Simone:Feeling+Good:174"},
 {"name": "Every Beat Of My Heart", "artists": ["Gladys Knight and The Pips"], "album": "Soul Brothers and Sisters-Hit Grooves and Funk Hits", "duration": 123000, "link": "spotify:track:5zB3iDrC9RpVetdcxv6ash"},
 {"name": "Fools", "artists": ["Diane Birch"], "album": "Bible Belt", "duration": 235000, "link": "spotify:track:7fdEAoXhzbtMMqKLVAnGey"},
 {"name": "It's A Mean Old Man's World", "artists": ["Dinah Washington"], "album": "Dinah Washington The Collection", "duration": 193000, "link": "spotify:track:0N1ATO31ERYJmmym9bXatb"},
 {"name": "Night Time Is The Right Time", "artists": ["Rufus Thomas"], "album": "The Platinum Collection", "duration": 158000, "link": "spotify:track:16jDsIotZmWLh178gvIoaA"},
-{"name": "Smack You Back", "artists": ["Porterdavis"], "album": "Live At Eddie's Attic", "duration": 255000, "link": "spotify:track:4cjNAsOUgBVJ7jBtSP7CIP"},
-{"name": "I Know I've Been Changed", "artists": ["Rock My Soul"], "album": "Let Your Light Shine: Rock My Soul Live", "duration": 312000, "link": "spotify:track:1HCVi7REyQ0jHt9uEGof8h"},
 {"name": "The Man I Love", "artists": ["Dinah Washington"], "album": "Dinah Washington The Collection", "duration": 197000, "link": "spotify:track:2pUqZFaiv6AL7UZZP2MDzs"},
 {"name": "Today I Sing The Blues", "artists": ["Aretha Franklin"], "album": "The Essential Aretha Franklin", "duration": 164000, "link": "spotify:track:0RwMrY650E3398BEiBFSko"},
 {"name": "Dreamboat To Boston", "artists": ["Walter Weeman's Brass & Singers"], "album": "Charleston - The Dance Of The Roaring Twenties", "duration": 163000, "link": "spotify:track:1jgPnaNTDqWSKoEs6ViIaK"},
@@ -22,4 +16,5 @@
 {"name": "Solid Potato Salad (06-21-45)", "artists": ["Nat "King" Cole"], "album": "Complete Jazz Series 1945", "duration": 127000, "link": "spotify:track:0h9DeraN7S4Ezbw5qpIPXC"},
 {"name": "Nothing But A Miracle", "artists": ["Diane Birch"], "album": "Nothing But A Miracle", "duration": 264000, "link": "spotify:track:3DY4tpBwUCVNATHQAdICjo"},
 {"name": "Would I Lie To You?", "artists": ["Charles & Eddie"], "album": "Would I Lie To You", "duration": 205000, "link": "spotify:track:1A3iXoekVzV95cq89XiiuX"},
+{"name": "Peel Me A Grape", "artists": ["Diana Krall"], "album": "The Very Best Of Diana Krall", "duration": 350000, "link": "spotify:track:5PIwE78rcwTy8QN1jachpz"},
 ]}
