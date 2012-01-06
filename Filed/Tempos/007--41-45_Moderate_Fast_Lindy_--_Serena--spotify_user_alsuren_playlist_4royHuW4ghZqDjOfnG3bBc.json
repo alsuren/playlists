@@ -157,4 +157,6 @@
 {"name": "Blue Skies", "artists": ["Benny Goodman"], "album": "Best Of Jazz", "duration": 201000, "link": "spotify:track:7sb3y8Z3SNpR5E41wV59Oe"},
 {"name": "My Kind Of Love", "artists": ["Mose Allison"], "album": "Creek Bank", "duration": 231000, "link": "spotify:track:2SbRtp0aRGSu3xOPXMnAdr"},
 {"name": "My Kind Of Love", "artists": ["Mose Allison"], "album": "Creek Bank", "duration": 231000, "link": "spotify:track:2SbRtp0aRGSu3xOPXMnAdr"},
+{"name": "One O'Clock Jump", "artists": ["Count Basie"], "album": "Frankie Manning's Really Swingin' Big Band Favorites", "duration": 183000, "link": "spotify:local:Count+Basie:Frankie+Manning%27s+Really+Swingin%27+Big+Band+Favorites:One+O%27Clock+Ju"},
+{"name": "Boogie", "artists": ["Gene Krupa"], "album": "At His Very Best - Disc 1 - Track 1 repeated", "duration": 205000, "link": "spotify:local:Gene+Krupa:At+His+Very+Best+-+Disc+1+-+Track+1+repeated:Boogie:205"},
 ]}
