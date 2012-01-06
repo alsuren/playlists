@@ -10,7 +10,7 @@
 {"name": "You're gonna need me", "artists": ["Antoine Rocks"], "album": "Damn Right! I've Got the Blues!", "duration": 228000, "link": "spotify:track:6PPbnJh3AeapkIKrYSb8PR"},
 {"name": "My Journey To The Sky", "artists": ["Sister Rosetta Tharpe"], "album": "Sister Rosetta Tharpe Vol. 3 (1946-1947)", "duration": 194000, "link": "spotify:track:3MwWbGqUaNGcvc0Jofg7An"},
 {"name": "No Other Way", "artists": ["Paolo Nutini"], "album": "Sunny Side Up", "duration": 266000, "link": "spotify:track:1KuNsc2Q2URrA9Xb1XnfLJ"},
-{"name": "Need Your Love So Bad", "artists": ["Fleetwood Mac"], "album": "Hit Collection - Edition", "duration": 228000, "link": "spotify:track:5ISW41UERuFzuPx83bIZbJ"},
+{"name": "Need Your Love So Bad", "artists": ["Fleetwood Mac"], "album": "Collections", "duration": 228000, "link": "spotify:track:5ISW41UERuFzuPx83bIZbJ"},
 {"name": "Call It Stormy Monday", "artists": ["T-Bone Walker"], "album": "T-Bone Blues", "duration": 183000, "link": "spotify:track:1i7nQGgwloILcp6ZftH2Qa"},
 {"name": "I'll Play The Blues For You", "artists": ["Albert King"], "album": "Blues On Blues", "duration": 397000, "link": "spotify:track:2mr1dxtZBu4pT7ca5AifFA"},
 {"name": "Chains And Things - Single Version", "artists": ["B.B. King"], "album": "The Anthology", "duration": 292000, "link": "spotify:track:4avHnhbDgpLvUhwmaVq5yt"},
@@ -69,5 +69,5 @@
 {"name": "Getaway Car", "artists": ["The Jenkins"], "album": "Getaway Car", "duration": 188000, "link": "spotify:track:0aiGDFMyYgjo6pHjejdQcq"},
 {"name": "Give Me One Reason", "artists": ["Earl Thomas"], "album": "Unplugged At Caffe Calabria", "duration": 349000, "link": "spotify:track:3psdUK3ZLT8VLl6ZdCyfUc"},
 {"name": "It's Only A Paper Moon", "artists": ["Nat King Cole"], "album": "The Nat King Cole Story", "duration": 178000, "link": "spotify:track:7pVEMg7yPouZrE6h6iZAgy"},
-{"name": "Little Bit of Feel Good", "artists": ["Jamie Lidell"], "album": "Jim", "duration": 242000, "link": "spotify:track:0cIoSMR8kFaJHF8eGgHBHs"},
+{"name": "Little Bit Of Feel Good", "artists": ["Jamie Lidell"], "album": "Jim", "duration": 243000, "link": "spotify:track:0cIoSMR8kFaJHF8eGgHBHs"},
 ]}

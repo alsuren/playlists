@@ -22,5 +22,7 @@
 {"name": "South", "artists": ["Kid Ory"], "album": "Dixieland Jazz Vol. 9", "duration": 165000, "link": "spotify:track:3DTfOMUqUCjfoxSROW2HSQ"},
 {"name": "Tack Annie", "artists": ["King Oliver's Dixie Syncopators"], "album": "Classic Jazz - The World’s Greatest Jazz Collection 1917-1932: Vol. 33", "duration": 190000, "link": "spotify:track:4LAG80F0RrmjvP42Og3MZx"},
 {"name": "Dr. Jazz", "artists": ["Jelly Roll Morton's Red Hot Peppers"], "album": "Jazz Mad Vol. 2: Hot Dance, Jazz And Instrumental Blues 1926-1930", "duration": 207000, "link": "spotify:track:5ysRizW9G28eF6wEmDX8Yk"},
-{"name": "Toot Toot Tootsie", "artists": ["Kate Manning", "Jesse Gelber"], "album": "Gelber & Manning Goes Public", "duration": 122000, "link": "spotify:track:7CY4YLxPuOCRHC6KFkagUd"},
+{"name": "Skirts", "artists": ["Slatz Randall"], "album": "Road Trip 1920's Style", "duration": 156000, "link": "spotify:track:4Z2hcU27VR7TIzJwSif2Nt"},
+{"name": "Stock Yard Strut", "artists": ["Freddie Keppard"], "album": "1920 Jazz Classics", "duration": 154000, "link": "spotify:track:76hPR1snmB7Z9jkTpmpxv7"},
+{"name": "Salty Dog", "artists": ["Freddie Keppard"], "album": "1920 Jazz Classics", "duration": 165000, "link": "spotify:track:5kQl6RlNtO64Txe8zl096p"},
 ]}

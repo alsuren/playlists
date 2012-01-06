@@ -2,7 +2,6 @@
 "http_link": "http://open.spotify.com/user/wisehelayna/playlist/3vU8JE0GniM1LyrQiglezn",
 "spotify_link": "spotify:user:wisehelayna:playlist:3vU8JE0GniM1LyrQiglezn",
 "songs": [
-{"name": "Feeling Good", "artists": ["Nina Simone"], "album": "Feeling Good: The Very Best of Nina Simone", "duration": 174000, "link": "spotify:local:Nina+Simone:Feeling+Good%3a+The+Very+Best+of+Nina+Simone:Feeling+Good:174"},
 {"name": "Fools", "artists": ["Diane Birch"], "album": "Bible Belt", "duration": 235000, "link": "spotify:track:7fdEAoXhzbtMMqKLVAnGey"},
 {"name": "The Man I Love", "artists": ["Dinah Washington"], "album": "Dinah Washington The Collection", "duration": 197000, "link": "spotify:track:2pUqZFaiv6AL7UZZP2MDzs"},
 {"name": "Today I Sing The Blues", "artists": ["Aretha Franklin"], "album": "The Essential Aretha Franklin", "duration": 164000, "link": "spotify:track:0RwMrY650E3398BEiBFSko"},
@@ -14,7 +13,6 @@
 {"name": "Deeply Dippy", "artists": ["Right Said Fred"], "album": "Up", "duration": 201000, "link": "spotify:track:5eEN39Y1JePQHkLEzOJePx"},
 {"name": "Jeeves And Wooster", "artists": ["Jeeves & Wooster"], "album": "The World Of Jeeves And Wooster", "duration": 75000, "link": "spotify:track:5ZfgbRJ5av8j1Wy9vnd3oB"},
 {"name": "Skinny Genes", "artists": ["Eliza Doolittle"], "album": "Eliza Doolittle", "duration": 185000, "link": "spotify:track:6hSkclvACZbNBxjey5wEJl"},
-{"name": "Sixteen Tons", "artists": ["Tennessee Ernie Ford"], "album": "Mellodies Mamboes 75 British No 1 Hits (1950-1957)", "duration": 155000, "link": "spotify:track:6Bqq92HMn3Cf9wkr9XXTew"},
 {"name": "Bring Me Sunshine", "artists": ["Morecambe & Wise"], "album": "EMI Comedy Classics", "duration": 112000, "link": "spotify:track:3C4Pem6lWfskQd51N8XQRF"},
 {"name": "Crazy People", "artists": ["Girls from Mars"], "album": "Planet Swing", "duration": 164000, "link": "spotify:track:7Mpy5JKZMzCmg1Djp719R7"},
 {"name": "Spring Cleaning", "artists": ["Girls from Mars"], "album": "Planet Swing", "duration": 187000, "link": "spotify:track:0Bs5PYzhkooOoley5wqWk3"},
@@ -39,4 +37,7 @@
 {"name": "Blitzkrieg Baby", "artists": ["Una Mae Carlisle"], "album": "Herrang Compilation - Lady's First", "duration": 201000, "link": "spotify:local:Una+Mae+Carlisle:Herrang+Compilation+-+Lady%27s+First:Blitzkrieg+Baby:201"},
 {"name": "Swingin'", "artists": ["Blu Cantrell"], "album": "So Blu", "duration": 239000, "link": "spotify:track:5mh4xKYnuRQubmoroNjWvB"},
 {"name": "The Show", "artists": ["Lenka"], "album": "Lenka", "duration": 236000, "link": "spotify:track:0ngr6YFEU5y2RaYNYLqO9R"},
+{"name": "Santa Claus Express", "artists": ["Henry Hall & The BBC Orchestra"], "album": "Santa Claus' Christmas Jukebox", "duration": 192000, "link": "spotify:track:20jN9shy7FVm3Y2MbJlKY2"},
+{"name": "Lullaby Of Birdland", "artists": ["Ella Fitzgerald"], "album": "Lullabies Of Birdland", "duration": 171000, "link": "spotify:track:2dnwB5KiAfShdpqpAhseTL"},
+{"name": "The Animal Song", "artists": ["King Perry"], "album": "Essential Masters", "duration": 136000, "link": "spotify:track:6Y0aYp83ooRGGfKOmrrGHW"},
 ]}

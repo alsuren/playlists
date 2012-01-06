@@ -28,7 +28,6 @@
 {"name": "Stompin' At The Savoy", "artists": ["Benny Goodman"], "album": "The Birth Of Swing (1935-1936) (Disc 2)", "duration": 197000, "link": "spotify:local:Benny+Goodman:The+Birth+Of+Swing+%281935-1936%29+%28Disc+2%29:Stompin%27+At+The+Savoy"},
 {"name": "Skin 'Em Back (Original) rip", "artists": ["Skeets Tolbert and His Gentlemen Of Swing"], "album": "Skeets Tolbert And His Gentlemen Of Swing Selected Hits Vol. 2", "duration": 165000, "link": "spotify:local:Skeets+Tolbert+and+His+Gentlemen+Of+Swing:Skeets+Tolbert+And+His+Gentlemen+Of+Swing+S"},
 {"name": "Splanky", "artists": ["Count Basie"], "album": "Count Basie: Live at the Sands", "duration": 232000, "link": "spotify:local:Count+Basie:Count+Basie%3a+Live+at+the+Sands:Splanky:232"},
-{"name": "Shake That Thing", "artists": ["Preservation Hall Jazz Band"], "album": "Shake That Thing", "duration": 390000, "link": "spotify:local:Preservation+Hall+Jazz+Band:Shake+That+Thing:Shake+That+Thing:390"},
 {"name": "Twenty-four robbers", "artists": [""], "album": "VIX", "duration": 161000, "link": "spotify:local::VIX:Twenty-four+robbers:161"},
 {"name": "Whadya want", "artists": [""], "album": "VIX", "duration": 198000, "link": "spotify:local::VIX:Whadya+want:198"},
 {"name": "Hallelujah I just love her so", "artists": [""], "album": "VIX", "duration": 157000, "link": "spotify:local::VIX:Hallelujah+I+just+love+her+so:157"},
@@ -47,4 +46,7 @@
 {"name": "I'm Crazy 'Bout My Baby", "artists": ["Thomas 'Fats' Waller with Ted Lewis & His Band"], "album": "A Career Perspective 1922-1943", "duration": 192000, "link": "spotify:track:22zbJJ4ZjxLecX0Idxx6xh"},
 {"name": "Shadrack", "artists": ["Louis Armstrong"], "album": "Louis And The Good Book", "duration": 167000, "link": "spotify:track:4w9gQtoAo8ge1MJ3R3a4M1"},
 {"name": "Sister Kate's Night Out", "artists": ["Sidney Bechet"], "album": "The Best Of Sidney Bechet", "duration": 186000, "link": "spotify:track:4YKjsfa2a7edhY0cO6Ul97"},
+{"name": "Shufflin' And Rollin'", "artists": ["Buddy Johnson & His Orchestra"], "album": "Walk 'Em: The Decca Sessions", "duration": 192000, "link": "spotify:local:Buddy+Johnson+%26+His+Orchestra:Walk+%27Em%3a+The+Decca+Sessions:Shufflin%27+And+Roll"},
+{"name": "Ain’t Nobody Here but us Chickens", "artists": ["Louis Jordan"], "album": "Choo Choo Ch' Boogie", "duration": 184000, "link": "spotify:track:0N2v62K6FOlzoqe23Hosx8"},
+{"name": "I'se A Muggin'", "artists": ["Le Quintette Du Hot Club De France"], "album": "Swing Time - The World’s Greatest Jazz Collection 1933-1957: Vol. 46", "duration": 187000, "link": "spotify:track:6bQvm2rXXPQ3Qhu6UxubU9"},
 ]}
