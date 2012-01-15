@@ -4,10 +4,10 @@
 "songs": [
 {"name": "Exactly Like You", "artists": ["Carmen McRae"], "album": "Flamingo", "duration": 133000, "link": "spotify:track:46j0gXpbNqOIccn54jZRNN"},
 {"name": "Moppin And Boppin", "artists": ["Fats Waller"], "album": "Fats Waller Vol. 10", "duration": 267000, "link": "spotify:track:1BrhA1bX9ki6QzblsngVN6"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2ymrppxJYBhKBiTuqDkh4M"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4OO9gaUO5hews9Bzxi1uAx"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2DyScomfih1ZejnFIAAEnz"},
+{"name": "Sugarfoot Stomp", "artists": ["Fletcher Henderson And His Orchestra"], "album": "Classic Jazz - The World’s Greatest Jazz Collection 1917-1932: Vol. 14", "duration": 171000, "link": "spotify:track:2ymrppxJYBhKBiTuqDkh4M"},
+{"name": "Alright Okay You Win", "artists": ["Count Basie", "Joe Williams"], "album": "Basie's Jazz Sounds", "duration": 186000, "link": "spotify:track:4OO9gaUO5hews9Bzxi1uAx"},
+{"name": "Golden Earrings - Instrumental", "artists": ["The Ray Bryant Trio"], "album": "Ray Bryant Trio", "duration": 291000, "link": "spotify:track:2DyScomfih1ZejnFIAAEnz"},
 {"name": "Signifyin' Monkey", "artists": ["Oscar Brown Jr."], "album": "Sin & Soul... And Then Some", "duration": 239000, "link": "spotify:track:0sMMI3cKt9nlQ9OpwUELrh"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2tt73oSqSp6tJanNSu8Uml"},
+{"name": "One O'Clock Jump", "artists": ["The Delta Rhythm Boys"], "album": "The Best Of 1940-50", "duration": 161000, "link": "spotify:track:2tt73oSqSp6tJanNSu8Uml"},
 {"name": "Shiny Stockings", "artists": ["Count Basie"], "album": "Count Basie's Finest Hour", "duration": 317000, "link": "spotify:track:2RwocxjQUNIl7s3gNkaIln"},
 ]}
