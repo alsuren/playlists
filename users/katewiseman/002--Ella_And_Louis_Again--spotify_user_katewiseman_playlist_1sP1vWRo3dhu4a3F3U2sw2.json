@@ -2,10 +2,10 @@
 "http_link": "http://open.spotify.com/user/katewiseman/playlist/1sP1vWRo3dhu4a3F3U2sw2",
 "spotify_link": "spotify:user:katewiseman:playlist:1sP1vWRo3dhu4a3F3U2sw2",
 "songs": [
-{"name": "Don't Be That Way", "artists": ["Louis Armstrong", "Ella Fitzgerald", "Ray Brown", "Louie Bellson", "Herb Ellis", "Oscar Peterson"], "album": "Ella And Louis Again", "duration": 300000, "link": "spotify:track:3twH5Q708MZLDd0FBuXKfC"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:3twH5Q708MZLDd0FBuXKfC"},
 {"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4h6x5hRjimlkbXIXhSau23"},
 {"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:0GIdB8H0eldHPESV8giZtd"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2IKHDCDpmK4GmtWYqBoAf1"},
+{"name": "Comes Love", "artists": ["Ella Fitzgerald", "Ray Brown", "Louie Bellson", "Herb Ellis", "Oscar Peterson"], "album": "Ella And Louis Again", "duration": 146000, "link": "spotify:track:2IKHDCDpmK4GmtWYqBoAf1"},
 {"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:34yXwkIyJAAFnPMYAa5EK3"},
 {"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:54s37uYWgg0eLfWHssDZEy"},
 {"name": "Stompin' At The Savoy", "artists": ["Louis Armstrong", "Ella Fitzgerald"], "album": "Ella And Louis Again", "duration": 312000, "link": "spotify:track:4G5sbk3wQ7VBSWjRIq3G4h"},

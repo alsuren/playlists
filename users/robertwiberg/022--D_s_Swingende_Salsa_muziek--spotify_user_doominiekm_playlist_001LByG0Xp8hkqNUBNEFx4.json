@@ -2,11 +2,11 @@
 "http_link": "http://open.spotify.com/user/doominiekm/playlist/001LByG0Xp8hkqNUBNEFx4",
 "spotify_link": "spotify:user:doominiekm:playlist:001LByG0Xp8hkqNUBNEFx4",
 "songs": [
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4JXDzBGK2uU9REfFiZ4kIP"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:0UNzsTocg7Zr6fWc901Psu"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:6mzAt2kQZhCsP0BH1vevlE"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4IZmSn1yWd4X45niLYI9Pe"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:0GZxfu7Syh7W0qHTIw0z78"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:7wncdbg05LF8Bc6hIQuzIy"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:6F9E6bF2RqCMYvPlk3zeR8"},
+{"name": "Clocks", "artists": ["Rhythms Del Mundo", "Coldplay"], "album": "Rhythms Del Mundo Cuba", "duration": 300000, "link": "spotify:track:4JXDzBGK2uU9REfFiZ4kIP"},
+{"name": "Hotel California - Spanish Mix", "artists": ["Gipsy Kings"], "album": "The Best Of", "duration": 348000, "link": "spotify:track:0UNzsTocg7Zr6fWc901Psu"},
+{"name": "Smells Like Teen Spirit (feat. Bebe) (Español Mix)", "artists": ["Rhythms Del Mundo", "Bebe"], "album": "Revival", "duration": 170000, "link": "spotify:track:6mzAt2kQZhCsP0BH1vevlE"},
+{"name": "Feel Good Inc (feat. Gorillaz)", "artists": ["Rhythms Del Mundo", "Gorillaz"], "album": "Revival", "duration": 202000, "link": "spotify:track:4IZmSn1yWd4X45niLYI9Pe"},
+{"name": "Bohemian Rhapsody", "artists": ["Rhythms Del Mundo feat. Augusto Enriquez", "Augusto Enriquez"], "album": "Classics", "duration": 253000, "link": "spotify:track:0GZxfu7Syh7W0qHTIw0z78"},
+{"name": "Stairway To Heaven", "artists": ["Rhythms Del Mundo feat. Rodrigo Y Gabriela", "Rodrigo y Gabriela"], "album": "Classics", "duration": 301000, "link": "spotify:track:7wncdbg05LF8Bc6hIQuzIy"},
+{"name": "I Still Haven't Found What I'm Looking For", "artists": ["Rhythms Del Mundo", "Coco Freeman", "U2"], "album": "Rhythms Del Mundo Cuba", "duration": 293000, "link": "spotify:track:6F9E6bF2RqCMYvPlk3zeR8"},
 ]}

@@ -3,7 +3,7 @@
 "spotify_link": "spotify:user:alandra:playlist:1kboWTZolzVc942xm2NSCN",
 "songs": [
 {"name": "The Elements", "artists": ["Tom Lehrer"], "album": "The Very Best of Tom Lehrer", "duration": 126000, "link": "spotify:local:Tom+Lehrer:The+Very+Best+of+Tom+Lehrer:The+Elements:126"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:5XwYu5TA8qe4H6MGqhfB9o"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:0vr93MpeAjrobvldSJ0dd6"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2F6WZTJE4FYBFlubpDfB9c"},
+{"name": "I Got Six", "artists": ["Bob Dorough", "Grady Tate"], "album": "Testify", "duration": 185000, "link": "spotify:track:5XwYu5TA8qe4H6MGqhfB9o"},
+{"name": "Teddy Bear's Picnic", "artists": ["Kenny Ball & His Jazzmen"], "album": "The Very Best Of Kenny Ball", "duration": 219000, "link": "spotify:track:0vr93MpeAjrobvldSJ0dd6"},
+{"name": "Zanzie", "artists": ["Mickey Baker"], "album": "Blues & Jazz Guitar Of Mickey Baker", "duration": 166000, "link": "spotify:track:2F6WZTJE4FYBFlubpDfB9c"},
 ]}

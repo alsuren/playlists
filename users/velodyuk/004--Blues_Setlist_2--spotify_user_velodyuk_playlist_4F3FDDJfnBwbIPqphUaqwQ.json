@@ -1,0 +1,11 @@
+{"playlist_name": "Blues Setlist 2",
+"http_link": "http://open.spotify.com/user/velodyuk/playlist/4F3FDDJfnBwbIPqphUaqwQ",
+"spotify_link": "spotify:user:velodyuk:playlist:4F3FDDJfnBwbIPqphUaqwQ",
+"songs": [
+{"name": "Back To Black", "artists": ["Amy Winehouse"], "album": "Back To Black", "duration": 240000, "link": "spotify:track:2AZEG5zueMzjjo1Jbmr7Sf"},
+{"name": "Georgia on My Mind", "artists": ["Ray Charles"], "album": "Ray [Original Soundtrack]", "duration": 219000, "link": "spotify:local:Ray+Charles:Ray+%5bOriginal+Soundtrack%5d:Georgia+on+My+Mind:219"},
+{"name": "Aretha", "artists": ["Rumer"], "album": "Seasons Of My Soul", "duration": 195000, "link": "spotify:track:5Fy7mskXlOs2Z3nN328wWw"},
+{"name": "Got to find my baby", "artists": ["John Hammond, Jr."], "album": "Frogs for Snakes", "duration": 223000, "link": "spotify:local:John+Hammond%2c+Jr.:Frogs+for+Snakes:Got+to+find+my+baby:223"},
+{"name": "Sweet Home Chicago", "artists": ["Lonnie Brooks"], "album": "Sweet Home Chicago (Paris 1975)", "duration": 295000, "link": "spotify:track:6IIngEBJRQQumwt1MA3Y6y"},
+{"name": "Love Me Like A River Does", "artists": ["Melody Gardot"], "album": "Worrisome Heart", "duration": 246000, "link": "spotify:track:6hVq5hRHRl5nihk5x1uapv"},
+]}
