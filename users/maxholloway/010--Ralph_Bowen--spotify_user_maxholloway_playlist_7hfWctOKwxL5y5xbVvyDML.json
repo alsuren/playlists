@@ -4,6 +4,6 @@
 "songs": [
 {"name": "Less Is More", "artists": ["Ralph Bowen", "Antonio Sanchez", "John Patitucci", "Adam Rogers"], "album": "Due Reverence", "duration": 397000, "link": "spotify:track:06JyLh7MwjR0bUfBLsqPkw"},
 {"name": "This One's For Bob", "artists": ["Ralph Bowen", "Antonio Sanchez", "John Patitucci", "Adam Rogers"], "album": "Due Reverence", "duration": 425000, "link": "spotify:track:2OEJUsSE54zlZe5zBEEutm"},
-{"name": "A Little Silver In My Pocket", "artists": ["Anthony Jackson", "Ralph Bowen", "Jon Herington", "Ben Perowsky", "Jim Beard"], "album": "Movin' On", "duration": 383000, "link": "spotify:track:5Bq3H9ToUdvN4SrvHjFB2Q"},
-{"name": "Resolution", "artists": ["Hutchinson Andrew Trio"], "album": "Music Box", "duration": 497000, "link": "spotify:track:2VgDNLkb1RIgqkKn7J2msW"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:5Bq3H9ToUdvN4SrvHjFB2Q"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2VgDNLkb1RIgqkKn7J2msW"},
 ]}

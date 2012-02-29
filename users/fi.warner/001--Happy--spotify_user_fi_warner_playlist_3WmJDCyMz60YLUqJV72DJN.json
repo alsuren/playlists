@@ -4,4 +4,7 @@
 "songs": [
 {"name": "Red Alert", "artists": ["Basement Jaxx"], "album": "The Singles", "duration": 217000, "link": "spotify:track:2S5CHSeaE3s6zCePzAHJuH"},
 {"name": "Where's Your Head At", "artists": ["Basement Jaxx"], "album": "Rooty", "duration": 283000, "link": "spotify:track:25ys1lEf3z6lvkDEE5mG0R"},
+{"name": "I Wish I Knew How It Would Feel To Be Free", "artists": ["Nina Simone"], "album": "Nina Simone", "duration": 187000, "link": "spotify:track:58fxygPUPdfBIUm9BDv0f7"},
+{"name": "Ooh La La", "artists": ["Goldfrapp"], "album": "Supernature (US Version)", "duration": 204000, "link": "spotify:track:0m1X2Z06gbvJpBrxvznJhH"},
+{"name": "I Got You (I Feel Good) - 1966 Album (Stereo)", "artists": ["James Brown"], "album": "Party", "duration": 167000, "link": "spotify:track:11M7j7LE5AQ9aMCeY9uFZs"},
 ]}

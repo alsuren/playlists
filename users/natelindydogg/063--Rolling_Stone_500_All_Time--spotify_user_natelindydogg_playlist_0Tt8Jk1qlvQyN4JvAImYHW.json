@@ -2,7 +2,7 @@
 "http_link": "http://open.spotify.com/user/natelindydogg/playlist/0Tt8Jk1qlvQyN4JvAImYHW",
 "spotify_link": "spotify:user:natelindydogg:playlist:0Tt8Jk1qlvQyN4JvAImYHW",
 "songs": [
-{"name": "Whole Lotta Love", "artists": ["Pat Travers"], "album": "Led Box - The Ultimate Led Zeppelin Tribute", "duration": 288000, "link": "spotify:track:5TBxu9AdetKUQi8QSx0tiL"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:5TBxu9AdetKUQi8QSx0tiL"},
 {"name": "Mystery Train", "artists": ["Elvis Presley"], "album": "Elvis Presley", "duration": 151000, "link": "spotify:track:0K2wyTHoDRFiXy8y2N4Xo6"},
 {"name": "I Got You (I Feel Good)", "artists": ["James Brown"], "album": "Cruisin' To The Hits Of The '50s & '60s", "duration": 182000, "link": "spotify:track:4bM8EypbcVO1qTLklaHBhR"},
 {"name": "Mr. Tambourine Man", "artists": ["The Byrds"], "album": "Mr. Tambourine Man", "duration": 149000, "link": "spotify:track:4nDzw6ENtuMlTn9WrNmp2p"},
@@ -11,7 +11,7 @@
 {"name": "Crazy", "artists": ["Patsy Cline", "The Jordanaires"], "album": "Essential Collection", "duration": 166000, "link": "spotify:track:6M45sn9PUSJRpY8SvYFJmG"},
 {"name": "Thunder Road", "artists": ["Bruce Springsteen"], "album": "Born To Run", "duration": 287000, "link": "spotify:track:3341f3j9NaGLiBlBeVa5SA"},
 {"name": "My Girl - Album Version (Stereo)", "artists": ["The Temptations"], "album": "Favorites", "duration": 163000, "link": "spotify:track:0651FOAfvX33QIjpYL4F95"},
-{"name": "California Dreamin'", "artists": ["The Mamas & The Papas"], "album": "If You Can Believe Your Eyes And Ears", "duration": 158000, "link": "spotify:track:1i4BXDTw9uwl4QsdvYBk3s"},
+{"name": "California Dreamin' - Single Version", "artists": ["The Mamas & The Papas"], "album": "If You Can Believe Your Eyes And Ears", "duration": 162000, "link": "spotify:track:1i4BXDTw9uwl4QsdvYBk3s"},
 {"name": "In The Still Of The Nite", "artists": ["The Five Satins"], "album": "75 Slices Of Hot, Cool, Mellow & Rockin' Harmony", "duration": 180000, "link": "spotify:track:3ZcmnvDwg7QEnEl0iKZsDZ"},
 {"name": "Suspicious Minds", "artists": ["Elvis Presley"], "album": "NBC TV Special/Aloha From Hawaii Via Satellite", "duration": 271000, "link": "spotify:track:5Gmv9xfa43SxPuCD01jT9m"},
 {"name": "Blitzkrieg Bop", "artists": ["Ramones"], "album": "It's Alive", "duration": 125000, "link": "spotify:track:1DLLDt3YxO0Q97gDH1jTrA"},

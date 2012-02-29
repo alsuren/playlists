@@ -61,4 +61,8 @@
 {"name": "Doctor Doctor Blues", "artists": ["Memphis Minnie"], "album": "Got the Blues", "duration": 206000, "link": "spotify:track:443N4HOSYDFQNjuC1U0VJD"},
 {"name": "I Idolize You", "artists": ["Tina Turner", "Ike"], "album": "Soul Struttin", "duration": 242000, "link": "spotify:track:1nedEyVE94bLtLqKIEp5Qp"},
 {"name": "Night Time Is The Right Time", "artists": ["Rufus and Carla Thomas"], "album": "Stax-Volt: The Complete Singles 1959-1968", "duration": 160000, "link": "spotify:track:5tt4gWT4Y3Vwwjqa7VNeIJ"},
+{"name": "Country Road", "artists": ["John Mayall"], "album": "Jazz Blues Fusion", "duration": 437000, "link": "spotify:track:52NyHlnCKoLAXvUIufaTvw"},
+{"name": "Black Woman", "artists": ["Various Artists"], "album": "Blues Masters Vol. 10- Blues Roots", "duration": 298000, "link": "spotify:local:Various+Artists:Blues+Masters+Vol.+10-+Blues+Roots:Black+Woman:298"},
+{"name": "If You Ever Seen a One-Eyed Woman Cry", "artists": ["Earl Hooker"], "album": "Blues Masters Volume 15- Slide", "duration": 222000, "link": "spotify:local:Earl+Hooker:Blues+Masters+Volume+15-+Slide:If+You+Ever+Seen+a+One-Eyed+Woman+Cry:222"},
+{"name": "I'm A Woman", "artists": ["Koko Taylor"], "album": "Postmodern Blues", "duration": 137000, "link": "spotify:local:Koko+Taylor:Postmodern+Blues:I%27m+A+Woman:137"},
 ]}

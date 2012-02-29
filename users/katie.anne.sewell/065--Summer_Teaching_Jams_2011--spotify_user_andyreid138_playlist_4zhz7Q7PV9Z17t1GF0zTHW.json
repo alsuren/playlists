@@ -2,7 +2,7 @@
 "http_link": "http://open.spotify.com/user/andyreid138/playlist/4zhz7Q7PV9Z17t1GF0zTHW",
 "spotify_link": "spotify:user:andyreid138:playlist:4zhz7Q7PV9Z17t1GF0zTHW",
 "songs": [
-{"name": "The Dipsy Doodle", "artists": ["Ella Fitzgerald"], "album": "1996 – 2011 : 15 Ans Déjà... (Album Anniversaire Des 15 Ans Du Décès D'Ella Fitzgerald)", "duration": 189000, "link": "spotify:track:5XoOpue4O42GDPrYwdBupq"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:5XoOpue4O42GDPrYwdBupq"},
 {"name": "You Can Have My Husband", "artists": ["Tuba Skinny"], "album": "Bourbon Street Band", "duration": 228000, "link": "spotify:local:Tuba+Skinny:Bourbon+Street+Band:You+Can+Have+My+Husband:228"},
 {"name": "I'm Alone Because I Love You", "artists": ["The Palmetto Bug Stompers"], "album": "Live @ D.B.A.", "duration": 209000, "link": "spotify:local:The+Palmetto+Bug+Stompers:Live+%40+D.B.A.:I%27m+Alone+Because+I+Love+You:209"},
 {"name": "Farewell Blues", "artists": ["Loose Marbles"], "album": "The Recession Session", "duration": 286000, "link": "spotify:local:Loose+Marbles:The+Recession+Session:Farewell+Blues:286"},
@@ -15,6 +15,6 @@
 {"name": "Blue Skies", "artists": ["Rhythm Junkies"], "album": "Studio", "duration": 270000, "link": "spotify:local:Rhythm+Junkies:Studio:Blue+Skies:270"},
 {"name": "COQUETTE", "artists": ["BOOTS AND HIS BUDDIES"], "album": "99361 BLUEBIRD-6307", "duration": 208000, "link": "spotify:local:BOOTS+AND+HIS+BUDDIES:99361+BLUEBIRD-6307:COQUETTE:208"},
 {"name": "Joshua Fit The Battle Of Jericho 2.55", "artists": ["Kid Ory & His Creole Jazz Band"], "album": "Ultimate Greats 1922-55", "duration": 178000, "link": "spotify:track:6U3bv8jw2AtQbelASVlqxx"},
-{"name": "Four Or Five Times - Original", "artists": ["Jimmie Noone"], "album": "Jimmie Noone Selected Favorites, Vol. 1", "duration": 196000, "link": "spotify:track:2ClwyYMLoPsmWJEzUHPuAZ"},
-{"name": "Shoutin Blues", "artists": ["Count Basie"], "album": "Shoutin' Blues", "duration": 153000, "link": "spotify:track:2blQYbmIz5WrUls3HEkjtz"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2ClwyYMLoPsmWJEzUHPuAZ"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2blQYbmIz5WrUls3HEkjtz"},
 ]}

@@ -2,6 +2,7 @@
 "http_link": "http://open.spotify.com/user/katie.anne.sewell/playlist/4OV62Omvgz0b8TzKhsYdi2",
 "spotify_link": "spotify:user:katie.anne.sewell:playlist:4OV62Omvgz0b8TzKhsYdi2",
 "songs": [
+{"name": "Yessir! That's My Baby", "artists": ["Bing Crosby", "The Firehouse Five Plus Two"], "album": "Bing Crosby and Friends", "duration": 122000, "link": "spotify:track:3eUG0oM7xHHy3StyQXshV3"},
 {"name": "Have I Told You Lately That I Love You", "artists": ["Bing Crosby", "Bob Hope"], "album": "Bing Crosby and Friends", "duration": 321000, "link": "spotify:track:6hb1XbYBqM34x5tgIFyKip"},
 {"name": "Blueberry Hill", "artists": ["Bing Crosby", "Louis Armstrong"], "album": "Bing Crosby and Friends", "duration": 186000, "link": "spotify:track:29PuvYEQIDIWBtDu1im5p0"},
 {"name": "Lazybones", "artists": ["Bing Crosby", "Louis Armstrong"], "album": "Bing Crosby and Friends", "duration": 141000, "link": "spotify:track:0YJCIAvRphAly72Gyojlfz"},
@@ -9,7 +10,6 @@
 {"name": "Maybe You'll Be There", "artists": ["Bing Crosby", "Peggy Lee"], "album": "Bing Crosby and Friends", "duration": 137000, "link": "spotify:track:3k0HYvwwmqcITvnEe6bScl"},
 {"name": "Enjoy Yourself", "artists": ["Bing Crosby", "Bob Crosby"], "album": "Bing Crosby and Friends", "duration": 187000, "link": "spotify:track:7d1xGvM50yjkQeaGgyubBa"},
 {"name": "The Wedding Samba", "artists": ["Bing Crosby", "The Andrews Sisters"], "album": "Bing Crosby and Friends", "duration": 140000, "link": "spotify:track:13a9WSBhq4PCXB3SWbtFgb"},
-{"name": "Yessir! That's My Baby", "artists": ["Bing Crosby", "The Firehouse Five Plus Two"], "album": "Bing Crosby and Friends", "duration": 122000, "link": "spotify:track:3eUG0oM7xHHy3StyQXshV3"},
 {"name": "To Prove That I'm in Love", "artists": ["Bing Crosby", "Patti Page"], "album": "Bing Crosby and Friends", "duration": 131000, "link": "spotify:track:1v0ZRBmSo9yfZbVSck534G"},
 {"name": "Dearie", "artists": ["Bing Crosby", "Ethel Merman"], "album": "Bing Crosby and Friends", "duration": 250000, "link": "spotify:track:6CTgbWQvnelABCEoyhNFWF"},
 {"name": "Play a Simple Melody", "artists": ["Bing Crosby", "Groucho Marx"], "album": "Bing Crosby and Friends", "duration": 103000, "link": "spotify:track:3RQSLBuzB6SY6mJbwpSEoT"},
