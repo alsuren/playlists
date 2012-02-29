@@ -107,7 +107,7 @@
 {"name": "I'm Beginning to See the Light", "artists": ["Chet Baker"], "album": "Chet Baker My Ideal", "duration": 184000, "link": "spotify:track:65cf2QU4aWmIOp5Gx9PVLL"},
 {"name": "At A Georgia Camp Meeting Cakewalk", "artists": ["Wally Rose", "Clancy Hayes"], "album": "Cakewalk To Lindy Hop", "duration": 187000, "link": "spotify:track:5hTOXV0i1bhJbzhc1JcqDg"},
 {"name": "Happy Feet", "artists": ["Coleman Hawkins", "Horace Henderson & His Orchestra"], "album": "Happy Feet", "duration": 171000, "link": "spotify:track:394Z6ycQGHPLHLTbBQuIPA"},
-{"name": "Sing, Sing, Sing", "artists": ["Benny Goodman"], "album": "The Essential Benny Goodman", "duration": 520000, "link": "spotify:track:5L8ta4ECl5zeA6bGqY7G38"},
+{"name": "Sing, Sing, Sing", "artists": ["Benny Goodman and his Orchestra"], "album": "The Essential Benny Goodman", "duration": 520000, "link": "spotify:track:5L8ta4ECl5zeA6bGqY7G38"},
 {"name": "Jeep Jockey Jump", "artists": ["Glenn Miller"], "album": "Moonlight Serenade", "duration": 134000, "link": "spotify:track:2A9EyyeWy1tsweoq60xi0t"},
 {"name": "Squatty Roo", "artists": ["Johnny Hodges"], "album": "All My Succes - Johnny Hodges", "duration": 146000, "link": "spotify:track:3v58fWA8OvkNUYWNiWrclD"},
 {"name": "The Jeep Is Jumpin'", "artists": ["Johnny Hodges"], "album": "All My Succes - Johnny Hodges", "duration": 149000, "link": "spotify:track:2hIG6zZz7U93XPJwRB6hvN"},
@@ -123,4 +123,9 @@
 {"name": "Cottontail", "artists": ["DUKE ELLINGTON", "Louis Armstrong"], "album": "Original Sessions", "duration": 223000, "link": "spotify:track:55jnHn3VEtTMPCCy5PcqtA"},
 {"name": "Djangology", "artists": ["Django Reinhardt"], "album": "Best Djangologie", "duration": 157000, "link": "spotify:track:70egV6loB1W0ZfHA92bPic"},
 {"name": "All The Cats Join In", "artists": ["Benny Goodman"], "album": "The Best Of Benny Goodman", "duration": 263000, "link": "spotify:track:2BBD04jL8wOWW1e0jS52go"},
+{"name": "A Walkin' Thing", "artists": ["Benny Carter", "André Previn", "Ben Webster", "Leroy Vinnegar", "Frank Rosolino", "Jimmie Rowles", "Barney Kessel", "Shelly Manne"], "album": "Jazz Giant (Original Jazz Sound)", "duration": 358000, "link": "spotify:track:24Z2dvTR7k2dtdqTdit4Zb"},
+{"name": "Koko", "artists": ["DUKE ELLINGTON"], "album": "A Sentimental Mood", "duration": 166000, "link": "spotify:track:31SABuQoDM6sQLCNbtCiF3"},
+{"name": "I'm Gonna Sit Right Down and Write Myself a Letter", "artists": ["Fats Waller"], "album": "Best of Fats Waller", "duration": 216000, "link": "spotify:track:00d2IkgIQgwOX3zUIS5ZNY"},
+{"name": "Ain't Misbehavin'", "artists": ["Fats Waller"], "album": "Best of Fats Waller", "duration": 241000, "link": "spotify:track:6ZsvBj6lJbI0iJReTc7ZmA"},
+{"name": "Cruel Francis", "artists": ["Beth Jeans Houghton"], "album": "Hot Toast Vol 1", "duration": 133000, "link": "spotify:track:2xLEQazRyN6DIFYcn29uzR"},
 ]}

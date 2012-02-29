@@ -73,7 +73,7 @@
 {"name": "Fuck You", "artists": ["Cee Lo Green"], "album": "Fuck You", "duration": 224000, "link": "spotify:track:0Gs5cYR52PDgZ8r8PQYxil"},
 {"name": "Every Day Is Exactly The Same", "artists": ["Nine Inch Nails"], "album": "With Teeth", "duration": 295000, "link": "spotify:track:63LhdsPzzSLq82VhFDdmDz"},
 {"name": "Misery", "artists": ["Maroon 5"], "album": "Misery", "duration": 216000, "link": "spotify:track:1cKvOe1HfGA56y1YW2T0Zi"},
-{"name": "Use Somebody", "artists": ["Kings Of Leon"], "album": "Use Somebody", "duration": 232000, "link": "spotify:track:3QkNkun3dzkeGo1jpkC76S"},
+{"name": "Use Somebody", "artists": ["Kings Of Leon"], "album": "Use Somebody", "duration": 231000, "link": "spotify:track:3QkNkun3dzkeGo1jpkC76S"},
 {"name": "Out in the Fields", "artists": ["Gary Moore"], "album": "Gary Moore - The Platinum Collection", "duration": 258000, "link": "spotify:track:5AQhw6cV5w1NipoBJbOb3f"},
 {"name": "Generation Wild", "artists": ["Crashdiet"], "album": "Generation Wild", "duration": 234000, "link": "spotify:track:6NC7Xg8F2reCPStYe8xSPr"},
 {"name": "I Only Wanna Be With You", "artists": ["Volbeat"], "album": "The Strength/The Sound/The Songs", "duration": 164000, "link": "spotify:track:4fmHQdt9I9mi4hAVmt0Iyz"},
@@ -107,4 +107,5 @@
 {"name": "Kick Ass (We Are Young) - OST Version", "artists": ["MIKA vs. RedOne"], "album": "Kick Ass", "duration": 192000, "link": "spotify:track:56liJW30lK54pP6NhZ83OJ"},
 {"name": "Lost In Space", "artists": ["Avantasia"], "album": "Lost In Space [Chapter 1 & 2]", "duration": 233000, "link": "spotify:track:1GhCTXvTM3WBgfWCKtdexG"},
 {"name": "I'll be waiting", "artists": ["Talisman"], "album": "Talisman", "duration": 179000, "link": "spotify:local:Talisman:Talisman:I%27ll+be+waiting:179"},
+{"name": "Send Me A Sign", "artists": ["Gamma Ray"], "album": "Skeletons and Majesties - The Mini Album", "duration": 266000, "link": "spotify:track:0EbOOKAmRvd2w7K1Wvs3Q5"},
 ]}

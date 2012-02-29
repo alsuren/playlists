@@ -2,10 +2,10 @@
 "http_link": "http://open.spotify.com/user/lmo23/playlist/5izWtvkuoXhbuyYTTBVBE3",
 "spotify_link": "spotify:user:lmo23:playlist:5izWtvkuoXhbuyYTTBVBE3",
 "songs": [
-{"name": "Goody Goody", "artists": ["Frankie Lymon and the teenagers"], "album": "The Best Of Frankie Lymon & The Teenagers", "duration": 133000, "link": "spotify:track:5sWmdFOOR3EiO4Kf8n0rm8"},
-{"name": "Danke Schoen", "artists": ["Wayne Newton"], "album": "Capitol Collectors Series", "duration": 157000, "link": "spotify:track:4uOR2ky9sBjs4T9ENC4UNr"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:5sWmdFOOR3EiO4Kf8n0rm8"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4uOR2ky9sBjs4T9ENC4UNr"},
 {"name": "Sweet Georgia Brown", "artists": ["Pete Best & John Lennon"], "album": "Savage Young Beatles Album 1", "duration": 125000, "link": "spotify:track:5Xo36u6kENk1XRdIbZh5nz"},
-{"name": "Harlem Nocturne", "artists": ["Earl Bostic"], "album": "25 Years Of Rhythm And Blues Hits", "duration": 137000, "link": "spotify:track:5m9HKtlLMDhxiBfWaOjSm5"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:5m9HKtlLMDhxiBfWaOjSm5"},
 {"name": "When I Grow Too Old To Dream", "artists": ["The Cats And The Fiddle"], "album": "We Cats Will Sing For You 1939-1940 Volume 1", "duration": 167000, "link": "spotify:track:26hkPE1Sxc1HJnfaRphoPD"},
 {"name": "Charleston", "artists": ["Sam Levine"], "album": "Dixieland Jazz", "duration": 151000, "link": "spotify:track:7v207hdBWC3x7ulva83dWt"},
 {"name": "Riders On The Storm", "artists": ["The Doors"], "album": "Forever Changing: The Golden Age Of Elektra Records 1963-1973", "duration": 435000, "link": "spotify:track:72jTtJBEKQMmtH06QQGxyX"},
@@ -16,6 +16,6 @@
 {"name": "New Orleans Bump", "artists": ["Wynton Marsalis"], "album": "Unforgivable Blackness - The Rise and Fall of Jack Johnson", "duration": 275000, "link": "spotify:track:7u5mnSk64IIuvqAFC6uzPI"},
 {"name": "Sinkin' Soon", "artists": ["Norah Jones"], "album": "Sinkin' Soon", "duration": 278000, "link": "spotify:track:4iHoRDiIOIxcBy6gGftFZD"},
 {"name": "My Immortal", "artists": ["Evanescence"], "album": "Fallen", "duration": 263000, "link": "spotify:track:5vRFOfKDgZon896mrGVzaD"},
-{"name": "Video", "artists": ["Scufflin' World"], "album": "The Music Of India.Arie Afterhours: The Nightclub Tribute", "duration": 326000, "link": "spotify:track:6QF5t49Kz7dnp2OlzCgD09"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:6QF5t49Kz7dnp2OlzCgD09"},
 {"name": "Love Is Free", "artists": ["Sheryl Crow"], "album": "Detours", "duration": 203000, "link": "spotify:track:5ohfNHZxDV6GV26U5MzRl3"},
 ]}

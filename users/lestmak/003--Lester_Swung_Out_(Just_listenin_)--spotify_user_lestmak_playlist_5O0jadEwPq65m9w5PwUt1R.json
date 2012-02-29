@@ -4,6 +4,6 @@
 "songs": [
 {"name": "Stompin' At The Savoy", "artists": ["Louis Armstrong", "Ella Fitzgerald"], "album": "Ella And Louis Again", "duration": 312000, "link": "spotify:track:4G5sbk3wQ7VBSWjRIq3G4h"},
 {"name": "Everybody's Talkin' Bout Miss Thing!", "artists": ["Lavay Smith"], "album": "Everybody's Talkin' Bout Miss Thing!", "duration": 191000, "link": "spotify:track:7wBss3MP3jfqAwPMT3L75S"},
-{"name": "What Is This Thing Called Love", "artists": ["Gwyneth Paltrow and Mark Rubin Band"], "album": "Infamous", "duration": 244000, "link": "spotify:track:1VwlEW5taM7boZOHDGzSeo"},
-{"name": "Oliver Twist", "artists": ["Ted Heath Big Band Swing"], "album": "Big Band Swing", "duration": 189000, "link": "spotify:track:40tzXnJVK5YgqY4730jvJW"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:1VwlEW5taM7boZOHDGzSeo"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:40tzXnJVK5YgqY4730jvJW"},
 ]}

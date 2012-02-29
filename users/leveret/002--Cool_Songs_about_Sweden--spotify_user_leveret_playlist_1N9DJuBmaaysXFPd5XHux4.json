@@ -4,6 +4,6 @@
 "songs": [
 {"name": "Bright Blue Tie", "artists": ["The Fiery Furnaces"], "album": "Gallowsbird's Bark", "duration": 126000, "link": "spotify:track:5L6i0PCY85kMXfhyEdHCOc"},
 {"name": "Let's Go Swimming", "artists": ["Allo, Darlin'"], "album": "Allo Darlin'", "duration": 272000, "link": "spotify:track:1SeP2zCt7A5tpdFmZaooDh"},
-{"name": "Sweden", "artists": ["The Divine Comedy"], "album": "Fin de Siecle", "duration": 205000, "link": "spotify:track:3NCbNaRyHi3wySKwpWjcJO"},
-{"name": "The Cold Swedish Winter", "artists": ["Jens Lekman"], "album": "When I Said I Wanted To Be Your Dog", "duration": 230000, "link": "spotify:track:4ZfuTNj88FCqnP4P2H7UQf"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:3NCbNaRyHi3wySKwpWjcJO"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4ZfuTNj88FCqnP4P2H7UQf"},
 ]}
