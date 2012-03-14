@@ -78,53 +78,64 @@ def get_artist_list(song):
     return artists
 
 
-songs_by_artist_name = {} # {artist: {name: [songdetails]}}
-songs_by_name_artist = {} # {name: {artist: [songdetails]}}
-for song in structured_listing:
-    song_name = normalize_name_tag(song["name"])
-    artists = get_artist_list(song)
+def get_name_artist_map(structured_listing):
+    songs_by_artist_name = {} # {artist: {name: [songdetails]}}
+    for song in structured_listing:
+        song_name = normalize_name_tag(song["name"])
+        artists = get_artist_list(song)
 
-    for artist in set(artists):
-        songs_by_name = songs_by_artist_name.setdefault(artist, {})
-        songs = songs_by_name.setdefault(song_name, [])
-        songs.append(song)
+        for artist in set(artists):
+            songs_by_name = songs_by_artist_name.setdefault(artist, {})
+            songs = songs_by_name.setdefault(song_name, [])
+            songs.append(song)
+    return songs_by_artist_name
 
-#Transpose
-for artist, songs_by_name in songs_by_artist_name.iteritems():
-    for song_name, songs in songs_by_name.iteritems():
-        by_artist = songs_by_name_artist.setdefault(song_name, {})
-        songs = by_artist.setdefault(artist, songs)
+def transpose(songs_by_artist_name):
+    songs_by_name_artist = {} # {name: {artist: [songdetails]}}
+    for artist, songs_by_name in songs_by_artist_name.iteritems():
+        for song_name, songs in songs_by_name.iteritems():
+            by_artist = songs_by_name_artist.setdefault(song_name, {})
+            songs = by_artist.setdefault(artist, songs)
+    return songs_by_name_artist
 
 
-playlist = simplejson.load(open("Filed/Bal/011--bal_killer--"
-        "spotify_user_alsuren_playlist_6LaCJqhVMoM5dL8nxku9EP.json"))
 
-for spotify_song in playlist["songs"]:
-    if not spotify_song:
-        continue
-    song_name = normalize_name_tag(spotify_song["name"])
-    if song_name not in songs_by_name_artist:
-        print spotify_song
-        continue
-        
-    songs_by_artist = songs_by_name_artist[song_name]
-    for artist in spotify_song["artists"]:
-        artist = normalize(artist)
-        if artist in songs_by_artist:
-            songs = songs_by_artist[artist]
-            jol_links = spotify_song.setdefault("jol_links", [])
-            for song in songs:
-                jol_links.append(song["link"])
-    if "jol_links" not in spotify_song:
-        fallbacks = {}
-	for artist, songs in songs_by_artist.items():
-	    links = []
-	    for song in songs:
-	        links.append(song["link"])
-	    fallbacks[artist] = links
-	if fallbacks:
-            spotify_song["jol_fallbacks"] = fallbacks
-	else:
-	    print spotify_song
-	    continue
+def add_jol_links(playlist):
+    for spotify_song in playlist["songs"]:
+        if not spotify_song:
+            continue
+        song_name = normalize_name_tag(spotify_song["name"])
+        if song_name not in songs_by_name_artist:
+            print spotify_song
+            continue
+            
+        songs_by_artist = songs_by_name_artist[song_name]
+        for artist in spotify_song["artists"]:
+            artist = normalize(artist)
+            if artist in songs_by_artist:
+                songs = songs_by_artist[artist]
+                jol_links = spotify_song.setdefault("jol_links", [])
+                for song in songs:
+                    jol_links.append(song["link"])
+        if "jol_links" not in spotify_song:
+            fallbacks = {}
+	    for artist, songs in songs_by_artist.items():
+	        links = []
+	        for song in songs:
+	            links.append(song["link"])
+	        fallbacks[artist] = links
+	    if fallbacks:
+                spotify_song["jol_fallbacks"] = fallbacks
+	    else:
+	        print spotify_song
+	        continue
+
+if __name__ == "__main__":
+
+    songs_by_artist_name = get_name_artist_map(structured_listing)
+    songs_by_name_artist = transpose(songs_by_artist_name)
+
+    playlist = simplejson.load(open("Filed/Bal/011--bal_killer--"
+            "spotify_user_alsuren_playlist_6LaCJqhVMoM5dL8nxku9EP.json"))
+    add_jol_links(playlist)
 
