@@ -4,7 +4,7 @@
 "songs": [
 {"name": "Muskrat Ramble", "artists": ["Louis Armstrong"], "album": "The A-Z Of Jazz", "duration": 131000, "link": "spotify:track:7Adva8F02MmlLgmgJQMNCT"},
 {"name": "Boogie Woogie Stomp", "artists": ["Albert Ammons"], "album": "The A-Z Of Jazz", "duration": 176000, "link": "spotify:track:7AXMuymO7TZAzPHY2U79qS"},
-{"name": "You're Gonna Lose Your Gal", "artists": ["Henry "Red" Allen", "Coleman Hawkins and Their Orchestra"], "album": "The A-Z Of Jazz", "duration": 172000, "link": "spotify:track:5D1067UWNMOaLheXc3JY05"},
+{"name": "You're Gonna Lose Your Gal", "artists": ["Henry \"Red\" Allen", "Coleman Hawkins and Their Orchestra"], "album": "The A-Z Of Jazz", "duration": 172000, "link": "spotify:track:5D1067UWNMOaLheXc3JY05"},
 {"name": "You're Laughing At Me", "artists": ["Mildred Bailey"], "album": "The A-Z Of Jazz", "duration": 167000, "link": "spotify:track:1ENuiQSSeCjAZzbXBKYJN8"},
 {"name": "Leapin' At The Lincoln", "artists": ["Charlie Barnet And His Orchestra"], "album": "The A-Z Of Jazz", "duration": 165000, "link": "spotify:track:136X45ulwDAC0U27kN7vmg"},
 {"name": "One O'clock Jump", "artists": ["Count Basie"], "album": "The A-Z Of Jazz", "duration": 250000, "link": "spotify:track:52zCiLcq4mM9HjZwF1TgMt"},
@@ -41,7 +41,7 @@
 {"name": "Cheek To Cheek", "artists": ["The Jazz Couriers", "Tubby Hayes"], "album": "The A-Z Of Jazz", "duration": 226000, "link": "spotify:track:12dnEkmRAq8XunMS8twRMn"},
 {"name": "Down South Camp Meetin'", "artists": ["Fletcher Henderson And His Orchestra"], "album": "The A-Z Of Jazz", "duration": 176000, "link": "spotify:track:6cFCPwcYNKWMirPK02uGsk"},
 {"name": "Four Brothers", "artists": ["Woody Herman and The Fourth Herd"], "album": "The A-Z Of Jazz", "duration": 194000, "link": "spotify:track:0xQYT8nKIl3AvfEg7cnK87"},
-{"name": "Indian Summer", "artists": ["Earl "Fatha" Hines"], "album": "The A-Z Of Jazz", "duration": 276000, "link": "spotify:track:5GvF1gShhhZOxPZSm6HXG6"},
+{"name": "Indian Summer", "artists": ["Earl \"Fatha\" Hines"], "album": "The A-Z Of Jazz", "duration": 276000, "link": "spotify:track:5GvF1gShhhZOxPZSm6HXG6"},
 {"name": "I Got It Bad", "artists": ["Johnny Hodges"], "album": "The A-Z Of Jazz", "duration": 212000, "link": "spotify:track:16dR551D38yntrRiNNRyvK"},
 {"name": "Strange Fruit", "artists": ["Billie Holiday"], "album": "The A-Z Of Jazz", "duration": 187000, "link": "spotify:track:36bqj1USrbeb4nx4buhixS"},
 {"name": "Be-baba-leba", "artists": ["The Bill Doggett Octet", "Helen Humes"], "album": "The A-Z Of Jazz", "duration": 163000, "link": "spotify:track:7dZ8aS5gXeVKCpCGbVGRF0"},

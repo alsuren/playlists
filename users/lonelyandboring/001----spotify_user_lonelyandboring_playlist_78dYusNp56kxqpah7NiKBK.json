@@ -2,7 +2,7 @@
 "http_link": "http://open.spotify.com/user/lonelyandboring/playlist/78dYusNp56kxqpah7NiKBK",
 "spotify_link": "spotify:user:lonelyandboring:playlist:78dYusNp56kxqpah7NiKBK",
 "songs": [
-{"name": "Mendelssohn: Symphony No.5 in D minor, Op.107 - "Reformation" - 3. Andante", "artists": ["Herbert von Karajan", "Berliner Philharmoniker"], "album": "Mendelssohn: 5 Symphonies", "duration": 265000, "link": "spotify:track:4ULy7ISzWViqlUsD2lfpSy"},
+{"name": "Mendelssohn: Symphony No.5 in D minor, Op.107 - \"Reformation\" - 3. Andante", "artists": ["Herbert von Karajan", "Berliner Philharmoniker"], "album": "Mendelssohn: 5 Symphonies", "duration": 265000, "link": "spotify:track:4ULy7ISzWViqlUsD2lfpSy"},
 {"name": "Sinnerman", "artists": ["Nina Simone"], "album": "The Very Best Of", "duration": 620000, "link": "spotify:track:6puDH4jNRgeRpMhzgMbO53"},
 {"name": "Feeling Good", "artists": ["Nina Simone"], "album": "The Very Best Of", "duration": 173000, "link": "spotify:track:0nbOXVxcq4wSPamBPxAKGu"},
 {"name": "My Baby Just Cares For Me", "artists": ["Nina Simone"], "album": "The Essential Nina Simone", "duration": 217000, "link": "spotify:track:2n845ZaLOgpNJ3RinFwE1W"},
@@ -49,7 +49,7 @@
 {"name": "Look-A There", "artists": ["Slim And Slam"], "album": "1938-1939", "duration": 136000, "link": "spotify:local:Slim+And+Slam:1938-1939:Look-A+There:136"},
 {"name": "Jump Session", "artists": ["Slim And Slam"], "album": "1938-1939", "duration": 155000, "link": "spotify:local:Slim+And+Slam:1938-1939:Jump+Session:155"},
 {"name": "Jumpin' At The Woodside", "artists": ["Count Basie"], "album": "Ham 'n' Eggs", "duration": 189000, "link": "spotify:track:0EA28vPGQ7i9H6kkBZqHqh"},
-{"name": "Sing, Sing, Sing (Introducing "Christopher Columbus")", "artists": ["Benny Goodman"], "album": "The Harry James Years Vol. 1", "duration": 245000, "link": "spotify:track:3DQiLIg2sfSuyWpiwoheuT"},
+{"name": "Sing, Sing, Sing (Introducing \"Christopher Columbus\")", "artists": ["Benny Goodman"], "album": "The Harry James Years Vol. 1", "duration": 245000, "link": "spotify:track:3DQiLIg2sfSuyWpiwoheuT"},
 {"name": "Bei Mir Bist Du Schoen (Means That You're Grand)", "artists": ["Slim Gaillard", "Bam Brown"], "album": "Slim and Slam", "duration": 129000, "link": "spotify:track:5WdnJxRfZUbOcI2O9L3QdW"},
 {"name": "Jump Session", "artists": ["Slim Gaillard", "Kenneth Hollon", "Slam Stewart", "Sam Allen"], "album": "Slim and Slam", "duration": 156000, "link": "spotify:track:67SpBa3BmDsD3FlCLCBPhz"},
 {"name": "Dark Eyes", "artists": ["Slim Gaillard", "Bam Brown"], "album": "Slim and Slam", "duration": 103000, "link": "spotify:track:3g64yUYtfq7McO2hROzdGc"},

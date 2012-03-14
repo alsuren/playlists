@@ -80,18 +80,18 @@ def get_artist_list(song):
 songs_by_artist_name = {} # {artist: {name: [songdetails]}}
 songs_by_name_artist = {} # {name: {artist: [songdetails]}}
 for song in structured_listing:
-    name = normalize(song["name"])
+    song_name = normalize(song["name"])
     artists = get_artist_list(song)
 
     for artist in set(artists):
         songs_by_name = songs_by_artist_name.setdefault(artist, {})
-        songs = songs_by_name.setdefault(name, [])
+        songs = songs_by_name.setdefault(song_name, [])
         songs.append(song)
 
 #Transpose
 for artist, songs_by_name in songs_by_artist_name.iteritems():
-    for name, songs in songs_by_name.iteritems():
-        by_artist = songs_by_name_artist.setdefault(name, {})
+    for song_name, songs in songs_by_name.iteritems():
+        by_artist = songs_by_name_artist.setdefault(song_name, {})
         songs = by_artist.setdefault(artist, songs)
 
 
@@ -99,8 +99,10 @@ playlist = simplejson.load(open("Filed/Bal/011--bal_killer--"
         "spotify_user_alsuren_playlist_6LaCJqhVMoM5dL8nxku9EP.json"))
 
 for spotify_song in playlist["songs"]:
-    name = normalize_name_tag(spotify_song["name"])
-    if name not in songs_by_name_artist:
+    if not song:
+        continue
+    song_name = normalize_name_tag(spotify_song["name"])
+    if song_name not in songs_by_name_artist:
         continue
         
     songs_by_artist = songs_by_name_artist[name]

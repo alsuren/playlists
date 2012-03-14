@@ -3,9 +3,9 @@
 "spotify_link": "spotify:user:laura.h.knight:playlist:1ZX2ppkwcQibWAjhtdVMV2",
 "songs": [
 {"name": "Night Time Is The Right Time", "artists": ["Rufus and Carla Thomas"], "album": "Stax-Volt: The Complete Singles 1959-1968", "duration": 160000, "link": "spotify:track:5tt4gWT4Y3Vwwjqa7VNeIJ"},
-{"name": "Smokestack Lightnin' - Single Version", "artists": ["Howlin' Wolf"], "album": "The Best of Chess Records Original Artist Recordings Of Songs In The Film "Cadillac Records"", "duration": 187000, "link": "spotify:track:60tMEXEQuA6FtAANzGW8Bp"},
+{"name": "Smokestack Lightnin' - Single Version", "artists": ["Howlin' Wolf"], "album": "The Best of Chess Records Original Artist Recordings Of Songs In The Film \"Cadillac Records\"", "duration": 187000, "link": "spotify:track:60tMEXEQuA6FtAANzGW8Bp"},
 {"name": "Dr. Feelgood [Love Is Serious Business]", "artists": ["Aretha Franklin"], "album": "Definitive Soul: Aretha Franklin", "duration": 199000, "link": "spotify:track:5jCPMKwNuoxJEIuRSLKuju"},
-{"name": "My Babe - Single Version", "artists": ["Little Walter"], "album": "The Best of Chess Records Original Artist Recordings Of Songs In The Film "Cadillac Records"", "duration": 160000, "link": "spotify:track:5Qk1PUMSXoB9nNSc1FtXB8"},
+{"name": "My Babe - Single Version", "artists": ["Little Walter"], "album": "The Best of Chess Records Original Artist Recordings Of Songs In The Film \"Cadillac Records\"", "duration": 160000, "link": "spotify:track:5Qk1PUMSXoB9nNSc1FtXB8"},
 {"name": "One Scotch, One Bourbon, One Beer", "artists": ["Amos Milburn"], "album": "Rock N' Roll Drinkers & Sinners", "duration": 174000, "link": "spotify:track:5kpi4tOYCuftLGADRbNdbd"},
 {"name": "I Can't Quit You Baby", "artists": ["Otis Rush"], "album": "Boss Of The Chicago Blues", "duration": 177000, "link": "spotify:track:2hrIuO8V5GuXcsZbq8fs2M"},
 {"name": "I Don't Know", "artists": ["Ruth Brown"], "album": "The Essentials: Ruth Brown", "duration": 174000, "link": "spotify:track:047Ip9c6dijAJfuwloV3NF"},
@@ -52,6 +52,6 @@
 {"name": "Wonder Why", "artists": ["Koko Taylor"], "album": "South Side Lady", "duration": 203000, "link": "spotify:track:2G0p6PfkMBu978eXrPv7Kd"},
 {"name": "You've Got to Love Her With a Feeling", "artists": ["Freddie King"], "album": "Hide Away", "duration": 194000, "link": "spotify:track:3M9iFVKPt4H21OK99wAIjY"},
 {"name": "Young Fashioned Ways", "artists": ["Muddy Waters"], "album": "The Chess Box", "duration": 180000, "link": "spotify:track:71pqJsXxd5YVbhke9FwDDV"},
-{"name": "I Pity the Fool", "artists": ["Bobby "Blue" Bland"], "album": "Blues Masters: I Pity the Fool", "duration": 164000, "link": "spotify:track:6V6UMhPC3fN9AMCNGbz9XC"},
+{"name": "I Pity the Fool", "artists": ["Bobby \"Blue\" Bland"], "album": "Blues Masters: I Pity the Fool", "duration": 164000, "link": "spotify:track:6V6UMhPC3fN9AMCNGbz9XC"},
 {"name": "Flying Home", "artists": ["Lionel Hampton"], "album": "Lionel Hampton And The Just Jazz All Stars", "duration": 691000, "link": "spotify:track:5KgmXYAOpRvqhSioxJBY8a"},
 {}]}
