@@ -30,7 +30,8 @@ def normalize_name_tag(string):
 def parse_artist_tag(string):
     artists = []
     artist_tag = normalize(string)
-    for sep in [" w ", " et ", " and ", " & ", "'s ", " orch"]:
+    for sep in [" w ", " et ", " and ", " & ", "'s ", " orch",
+		" sextet", " quintet", " quartet", " trio"]:
         artist, sep, rest = artist_tag.partition(sep)
         if rest:
             artists.append(artist)
@@ -80,7 +81,7 @@ def get_artist_list(song):
 songs_by_artist_name = {} # {artist: {name: [songdetails]}}
 songs_by_name_artist = {} # {name: {artist: [songdetails]}}
 for song in structured_listing:
-    song_name = normalize(song["name"])
+    song_name = normalize_name_tag(song["name"])
     artists = get_artist_list(song)
 
     for artist in set(artists):
@@ -99,13 +100,14 @@ playlist = simplejson.load(open("Filed/Bal/011--bal_killer--"
         "spotify_user_alsuren_playlist_6LaCJqhVMoM5dL8nxku9EP.json"))
 
 for spotify_song in playlist["songs"]:
-    if not song:
+    if not spotify_song:
         continue
     song_name = normalize_name_tag(spotify_song["name"])
     if song_name not in songs_by_name_artist:
+        print spotify_song
         continue
         
-    songs_by_artist = songs_by_name_artist[name]
+    songs_by_artist = songs_by_name_artist[song_name]
     for artist in spotify_song["artists"]:
         artist = normalize(artist)
         if artist in songs_by_artist:
@@ -120,5 +122,9 @@ for spotify_song in playlist["songs"]:
 	    for song in songs:
 	        links.append(song["link"])
 	    fallbacks[artist] = links
-        spotify_song["jol_fallbacks"] = fallbacks
+	if fallbacks:
+            spotify_song["jol_fallbacks"] = fallbacks
+	else:
+	    print spotify_song
+	    continue
 
