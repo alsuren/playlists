@@ -1,4 +1,3 @@
-import simplejson
 import os
 import json
 import re
@@ -159,6 +158,91 @@ def make_local_files_map(directory_root):
 	os.path.walk(directory_root, add_to_map, local_files_map)
 	return local_files_map
 
+
+def pick_best_link_or_download(link_list, local_files_map):
+	fallback_links = []
+	for link in link_list:
+		remote_location, _slash, filename = link.rpartition("/")
+		location = local_files_map.get(filename.lower(), None)
+		if location is not None:
+			return "/".join((location, filename))
+		else:
+			fallback_links.append(link)
+
+	for link in fallback_links:
+		remote_location, _slash, filename = link.rpartition("/")
+		# os.system(r'"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" %s' % link)
+		local_files_map[filename.lower()] = "DOWNLOADING"
+		# raw_input("hit enter when you get %s" % link)
+		return "DOWNLOADING/" + filename
+	return None
+
+def pick_best_link(link_list, local_files_map):
+	for link in link_list:
+		remote_location, _slash, filename = link.rpartition("/")
+		location = local_files_map.get(filename.lower(), None)
+		if location is not None:
+			return "/".join((location, filename))
+	return None
+
+def get_local_song_location(spotify_song, local_files_map):
+	fallback_links = []
+	location = pick_best_link_or_download(spotify_song.get("jol_links", []), local_files_map)
+	if location is not None:
+		return location
+
+	jol_fallbacks = spotify_song.get("jol_fallbacks", {})
+
+	if not jol_fallbacks:
+		return "#not found"
+
+	for artist, links in jol_fallbacks.items():
+		location = pick_best_link(links, local_files_map)
+		if location is not None:
+			return location
+
+	print "Which is your favourite artist? (and I'll download their version)"
+	options = sorted(jol_fallbacks.keys())
+	print '\n'.join("%s: %s" % (i+1, artist) for i, artist in enumerate(options))
+	i = int(raw_input() or 0)
+	if i == 0:
+		return "#didn't like any of %s" % options
+
+	artist = options[i-1]
+
+	link = pick_best_link_or_download(jol_fallbacks[artist], local_files_map)
+	if link is None:
+		link = "#Sorry. couldn't find %s's version after all" % artis
+	return link
+
+
+def get_m3u_string(playlist, local_files_map):
+	lines = []
+	for spotify_song in playlist["songs"]:
+		spotify_song["length"] = spotify_song.get("duration", -1) // 1000
+		line =  u"#EXTINF:%(length)s, %(artists)s - %(name)s" % spotify_song
+		lines.append(line); print line.encode('ascii', errors='ignore')
+		line = get_local_song_location(spotify_song, local_files_map)
+		lines.append(line); print line.encode('ascii', errors='ignore')
+	return u'\n'.join(lines)
+
+
+def convert_to_m3u(destination, dirname, fnames):
+	for fname in fnames:
+		if not fname.endswith('json'):
+			continue
+		playlist = json.load(open(dirname+'/'+fname))
+		playlist["songs"].remove({})
+		add_jol_links(playlist)
+		m3u_string = get_m3u_string(playlist, local_files_map)
+		m3u_string = m3u_string.replace("DOWNLOADING",
+			"C:/users/alsuren/music/incoming")
+		print repr(m3u_string)
+		f = open("%s/%s.m3u" % (destination, fname), "w")
+		f.write(m3u_string.encode('ascii', errors="ignore"))
+
+
+
 if __name__ == "__main__":
 
     structured_listing = get_structured_listing("listing.txt")
@@ -171,7 +255,8 @@ if __name__ == "__main__":
         local_files_map = make_local_files_map("C:/users/alsuren/music")
         json.dump(local_files_map, open("local_files_map.json", "w"), indent=1)
 
-    playlist = simplejson.load(open("Filed/Bal/011--bal_killer--"
-            "spotify_user_alsuren_playlist_6LaCJqhVMoM5dL8nxku9EP.json"))
-    add_jol_links(playlist)
+    try:
+	    os.path.walk("Filed/Bal", convert_to_m3u, "m3u")
+    finally:
+	    json.dump(local_files_map, open("local_files_map_end.json", "w"), indent=1)
 
