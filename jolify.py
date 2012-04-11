@@ -1,4 +1,6 @@
 import simplejson
+import os
+import json
 import re
 
 LISTING_FORMAT = ["link", "artist", "name",
@@ -143,11 +145,31 @@ def add_jol_links(playlist):
 	        print spotify_song
 	        continue
 
+def make_local_files_map(directory_root):
+	local_files_map = {}
+	def add_to_map(local_files_map, dirname, fnames):
+		dirname = dirname.replace("\\", "/")
+		for name in fnames[:]:
+			name = name.lower()
+			if name.endswith("mp3"):
+				local_files_map[name] = dirname
+			elif '.' in name:
+				print dirname, name
+
+	os.path.walk(directory_root, add_to_map, local_files_map)
+	return local_files_map
+
 if __name__ == "__main__":
 
     structured_listing = get_structured_listing("listing.txt")
     songs_by_artist_name = get_name_artist_map(structured_listing)
     songs_by_name_artist = transpose(songs_by_artist_name)
+
+    if os.path.exists("local_files_map.json"):
+        local_files_map = json.load(open("local_files_map.json"))
+    else:
+        local_files_map = make_local_files_map("C:/users/alsuren/music")
+        json.dump(local_files_map, open("local_files_map.json", "w"), indent=1)
 
     playlist = simplejson.load(open("Filed/Bal/011--bal_killer--"
             "spotify_user_alsuren_playlist_6LaCJqhVMoM5dL8nxku9EP.json"))
