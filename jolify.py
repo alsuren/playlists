@@ -34,16 +34,22 @@ def parse_artist_tag(string):
     for sep in [" w ", " et ", " and ", " & ", "'s ", " orch",
 		" sextet", " quintet", " quartet", " trio"]:
         artist, sep, rest = artist_tag.partition(sep)
-        if rest:
+        if sep:
             artists.append(artist)
             break
     else:
         artists.append(artist_tag)
 
-    for sep in [" feat. ", " w "]:
+    for sep in [" feat. ", " and ", " w "]:
         artist, sep, feature = artist_tag.partition(sep)
-        if feature:
+        if feature and not feature.startswith("his ") \
+		and not feature.startswith("her "):
             artists.append(feature)
+
+    mistakes = {"rgythm": "rhythm", "the ": ""}
+    for mistake, replacement in mistakes.items():
+        if mistake in artist_tag:
+            artists.extend(parse_artist_tag(artist_tag.replace(mistake, replacement)))
 
     return artists
 
