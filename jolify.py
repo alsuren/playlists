@@ -46,22 +46,24 @@ def parse_artist_tag(string):
 
     return artists
 
-listings = open("listing.txt")
-listings.next()
-structured_listing = []
-previous_line = ""
-for lineno, line in enumerate(listings):
-    splitline = line.split("\t")
-    if len(splitline) < len(LISTING_FORMAT):
-        print "problem on line", lineno
-        print repr(previous_line)
-        print repr(line)
-        continue
-    song = dict(zip(LISTING_FORMAT, splitline))
-    structured_listing.append(song)
-    previous_line = line
+def get_structured_listing(listings_filename):
+	listings = open(listings_filename)
+	listings.next()
+	structured_listing = []
+	previous_line = ""
+	for lineno, line in enumerate(listings):
+	    splitline = line.split("\t")
+	    if len(splitline) < len(LISTING_FORMAT):
+		print "problem on line", lineno
+		print repr(previous_line)
+		print repr(line)
+		continue
+	    song = dict(zip(LISTING_FORMAT, splitline))
+	    structured_listing.append(song)
+	    previous_line = line
 
-structured_listing.sort(key=lambda x: x["link"].rpartition('/')[-1])
+	structured_listing.sort(key=lambda x: x["link"].rpartition('/')[-1])
+	return structured_listing
 
 def get_artist_list(song):
     artists = parse_artist_tag(song["artist"])
@@ -132,6 +134,7 @@ def add_jol_links(playlist):
 
 if __name__ == "__main__":
 
+    structured_listing = get_structured_listing("listing.txt")
     songs_by_artist_name = get_name_artist_map(structured_listing)
     songs_by_name_artist = transpose(songs_by_artist_name)
 
