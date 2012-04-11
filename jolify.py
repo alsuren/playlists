@@ -107,7 +107,12 @@ def transpose(songs_by_artist_name):
             songs = by_artist.setdefault(artist, songs)
     return songs_by_name_artist
 
-
+def spotify_artist_list(spotify_song):
+	for artist in spotify_song["artists"]:
+		print artist
+		for possibility in parse_artist_tag(artist):
+			print possibility
+			yield(possibility)
 
 def add_jol_links(playlist):
     for spotify_song in playlist["songs"]:
@@ -119,8 +124,7 @@ def add_jol_links(playlist):
             continue
             
         songs_by_artist = songs_by_name_artist[song_name]
-        for artist in spotify_song["artists"]:
-            artist = normalize(artist)
+        for artist in spotify_artist_list(spotify_song):
             if artist in songs_by_artist:
                 songs = songs_by_artist[artist]
                 jol_links = spotify_song.setdefault("jol_links", [])
