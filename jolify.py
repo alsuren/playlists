@@ -24,8 +24,9 @@ def normalize_name_tag(string):
     for sep in [" - ", " feat. "]:
         name, sep, rest = name_tag.partition(sep)
 	if rest:
-	    return name
-    return name_tag
+	    name_tag = name
+	    break
+    return name_tag.replace('-', ' ').replace('ing', 'in').replace("'", "")
 
 def parse_artist_tag(string):
     artists = []
