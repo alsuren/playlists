@@ -201,14 +201,27 @@ def get_local_song_location(spotify_song, local_files_map):
 		if location is not None:
 			return location
 
-	print "Which is your favourite artist? (and I'll download their version)"
 	options = sorted(jol_fallbacks.keys())
-	print '\n'.join("%s: %s" % (i+1, artist) for i, artist in enumerate(options))
-	i = int(raw_input() or 0)
-	if i == 0:
+
+	# Only pick the shortest name.
+	for option_i in options[:]:
+	    if option_i in u''.join(spotify_song["artists"]).lower():
+	        options = [option_i]
+		break
+	    for option_j in options[:]:
+	    	if option_i in option_j and option_j != option_i:
+		     options.remove(option_j)
+
+	if len(options) == 1:
+		artist = options[0]
+	else:
+	    print "Which is your favourite artist? (and I'll download their version)"
+	    print '\n'.join("%s: %s" % (i+1, artist) for i, artist in enumerate(options))
+	    i = int(raw_input() or 0)
+	    if i == 0:
 		return "#didn't like any of %s" % options
 
-	artist = options[i-1]
+	    artist = options[i-1]
 
 	link = pick_best_link_or_download(jol_fallbacks[artist], local_files_map)
 	if link is None:
