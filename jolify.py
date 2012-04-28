@@ -1,6 +1,11 @@
 import os
 import json
 import re
+from xml.sax.saxutils import escape
+
+import logging
+
+logger = logging.getLogger('jazz-on-line search library')
 
 LISTING_FORMAT = ["link", "artist", "name",
         "label", "number", "matrix", "year", "artists"]
@@ -62,9 +67,9 @@ def get_structured_listing(listings_filename):
 	for lineno, line in enumerate(listings):
 	    splitline = line.split("\t")
 	    if len(splitline) < len(LISTING_FORMAT):
-		print "problem on line", lineno
-		print repr(previous_line)
-		print repr(line)
+		logger.error("problem on line %s", lineno)
+		logger.error("%s", repr(previous_line))
+		logger.error("%s", repr(line))
 		continue
 	    song = dict(zip(LISTING_FORMAT, splitline))
 	    structured_listing.append(song)
@@ -110,9 +115,9 @@ def transpose(songs_by_artist_name):
 
 def spotify_artist_list(spotify_song):
 	for artist in spotify_song["artists"]:
-		print artist
+		# print artist
 		for possibility in parse_artist_tag(artist):
-			print possibility
+			# print possibility
 			yield(possibility)
 
 def add_jol_links(playlist):
@@ -121,7 +126,7 @@ def add_jol_links(playlist):
             continue
         song_name = normalize_name_tag(spotify_song["name"])
         if song_name not in songs_by_name_artist:
-            print spotify_song
+            # print spotify_song
             continue
             
         songs_by_artist = songs_by_name_artist[song_name]
@@ -141,7 +146,7 @@ def add_jol_links(playlist):
 	    if fallbacks:
                 spotify_song["jol_fallbacks"] = fallbacks
 	    else:
-	        print spotify_song
+	        # print spotify_song
 	        continue
 
 def make_local_files_map(directory_root):
@@ -152,8 +157,8 @@ def make_local_files_map(directory_root):
 			name = name.lower()
 			if name.endswith("mp3"):
 				local_files_map[name] = dirname
-			elif '.' in name:
-				print dirname, name
+			# elif '.' in name:
+				# print dirname, name
 
 	os.path.walk(directory_root, add_to_map, local_files_map)
 	return local_files_map
@@ -187,7 +192,7 @@ def pick_best_link(link_list, local_files_map):
 
 def get_local_song_location(spotify_song, local_files_map):
 	fallback_links = []
-	location = pick_best_link_or_download(spotify_song.get("jol_links", []), local_files_map)
+	location = pick_best_link(spotify_song.get("jol_links", []), local_files_map)
 	if location is not None:
 		return location
 
@@ -200,6 +205,8 @@ def get_local_song_location(spotify_song, local_files_map):
 		location = pick_best_link(links, local_files_map)
 		if location is not None:
 			return location
+	
+	return "#not found"
 
 	options = sorted(jol_fallbacks.keys())
 
@@ -215,13 +222,7 @@ def get_local_song_location(spotify_song, local_files_map):
 	if len(options) == 1:
 		artist = options[0]
 	else:
-	    print "Which is your favourite artist? (and I'll download their version)"
-	    print '\n'.join("%s: %s" % (i+1, artist) for i, artist in enumerate(options))
-	    i = int(raw_input() or 0)
-	    if i == 0:
 		return "#didn't like any of %s" % options
-
-	    artist = options[i-1]
 
 	link = pick_best_link_or_download(jol_fallbacks[artist], local_files_map)
 	if link is None:
@@ -234,29 +235,92 @@ def get_m3u_string(playlist, local_files_map):
 	for spotify_song in playlist["songs"]:
 		spotify_song["length"] = spotify_song.get("duration", -1) // 1000
 		line =  u"#EXTINF:%(length)s, %(artists)s - %(name)s" % spotify_song
-		lines.append(line); print line.encode('ascii', errors='ignore')
+		lines.append(line); # print line.encode('ascii', errors='ignore')
 		line = get_local_song_location(spotify_song, local_files_map)
-		lines.append(line); print line.encode('ascii', errors='ignore')
+		lines.append(line); # print line.encode('ascii', errors='ignore')
 	return u'\n'.join(lines)
 
 
-def convert_to_m3u(destination, dirname, fnames):
+def convert_to_m3u(destination_map, dirname, fnames):
+	for forbidden in ['.git', 'users', 'Friends_List', 'm3u', 'xspf']:
+		if forbidden in fnames:
+			fnames.remove(forbidden)
+	destination = dirname
+        for k, v in destination_map.items():
+		destination = destination.replace(k, v, 1)
+	if not os.path.exists(destination):
+		os.mkdir(destination)
 	for fname in fnames:
 		if not fname.endswith('json'):
 			continue
+		logger.debug("%s/%s", dirname, fname)
 		playlist = json.load(open(dirname+'/'+fname))
+		if 'songs' not in playlist:
+			continue
 		playlist["songs"].remove({})
 		add_jol_links(playlist)
 		m3u_string = get_m3u_string(playlist, local_files_map)
 		m3u_string = m3u_string.replace("DOWNLOADING",
 			"C:/users/alsuren/music/incoming")
-		print repr(m3u_string)
+		m3u_string = m3u_string.replace("/", "\\")
+		# print repr(m3u_string)
 		f = open("%s/%s.m3u" % (destination, fname), "w")
 		f.write(m3u_string.encode('ascii', errors="ignore"))
+
+def get_xspf_string(playlist, local_files_map):
+	lines = ['<?xml version="1.0" encoding="UTF-8"?><playlist xmlns="http://xspf.org/ns/0/" version="0"><trackList>']
+	for spotify_song in playlist["songs"]:
+		spotify_song["length"] = spotify_song.get("duration", -1) // 1000
+		lines.append('\t<track>')
+		for artist in spotify_song["artists"][:1]:
+			lines.append("\t\t<creator>%s</creator>"
+				% escape(artist))
+		lines.append("\t\t<title>%s</title>"
+			% escape(spotify_song['name']))
+		lines.append("\t\t<duration>%s</duration>"
+			% spotify_song['duration'])
+		lines.append("\t\t<album>%s</album>"
+			% escape(spotify_song['album']))
+
+		location = get_local_song_location(spotify_song, local_files_map)
+		if 0 and location and not location.startswith('#') \
+				and "DOWNLOAD" not in location:
+			lines.append("\t\t<location>file://%s</location>" % location)
+		lines.append('\t</track>')
+	lines.append('</trackList></playlist>')
+	return u'\n'.join(lines)
+
+
+def convert_to_xspf(destination_map, dirname, fnames):
+	for forbidden in ['.git', 'users', 'Friends_List', 'm3u', 'xspf']:
+		if forbidden in fnames:
+			fnames.remove(forbidden)
+	destination = dirname
+        for k, v in destination_map.items():
+		destination = destination.replace(k, v, 1)
+	if not os.path.exists(destination):
+		os.mkdir(destination)
+	for fname in fnames:
+		if not fname.endswith('json'):
+			continue
+		logger.debug("%s", dirname+'/'+fname)
+		playlist = json.load(open(dirname+'/'+fname))
+		if 'songs' not in playlist:
+			continue
+		playlist["songs"].remove({})
+		add_jol_links(playlist)
+		xspf_string = get_xspf_string(playlist, local_files_map)
+		f = open("%s/%s.xspf" % (destination, fname), "w")
+		f.write(xspf_string.encode('ascii', errors="ignore"))
 
 
 
 if __name__ == "__main__":
+    handler = logging.FileHandler('.jolify.log')
+    formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+    handler.setFormatter(formatter)
+    logger.addHandler(handler)
+    logger.setLevel(logging.INFO)
 
     structured_listing = get_structured_listing("listing.txt")
     songs_by_artist_name = get_name_artist_map(structured_listing)
@@ -269,7 +333,7 @@ if __name__ == "__main__":
         json.dump(local_files_map, open("local_files_map.json", "w"), indent=1)
 
     try:
-	    os.path.walk("Filed/Bal", convert_to_m3u, "m3u")
+	    os.path.walk(".", convert_to_xspf, {".": "xspf"})
     finally:
 	    json.dump(local_files_map, open("local_files_map_end.json", "w"), indent=1)
 
