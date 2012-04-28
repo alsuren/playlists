@@ -2,7 +2,7 @@
 "http_link": "http://open.spotify.com/user/lornatwo/playlist/16dRDRcg5WplZQ04qQLJxU",
 "spotify_link": "spotify:user:lornatwo:playlist:16dRDRcg5WplZQ04qQLJxU",
 "songs": [
-{"name": "'Deed I Do", "artists": ["Yehudi Menuhin", "Joe Venuti"], "album": "The Best Of The Jazz Violins", "duration": 272000, "link": "spotify:track:1W0spcH2ga0hDOx9217piu"},
+{"name": "'Deed I Do", "artists": ["Stéphane Grappelli", "Joes Venuti"], "album": "The Best Of The Jazz Violins", "duration": 272000, "link": "spotify:track:1W0spcH2ga0hDOx9217piu"},
 {"name": "Chatanooga Choo Choo - Original Mix", "artists": ["Carmen Miranda"], "album": "Absolutamente Carmen", "duration": 165000, "link": "spotify:track:2K7cwp3POyXzBw2kbPrbV8"},
 {"name": "I Won't Dance", "artists": ["Lew Stone"], "album": "Presenting Lew Stone 1934-1935", "duration": 171000, "link": "spotify:track:7BEPIro70j2iEgoKXAEDIP"},
 {"name": "Russian Lullaby - DJ Wuthe am Grammophon", "artists": ["Red Norvo & His Orchestra"], "album": "Balboa Swing, Vol. 2", "duration": 183000, "link": "spotify:track:25jMB1AFd7W9VpCzo2QxAm"},
@@ -30,7 +30,6 @@
 {"name": "Varsity Drag", "artists": ["Les Elgart"], "album": "Best Of The Big Bands - Vol. 2", "duration": 102000, "link": "spotify:track:3faI2WTWxwLU1m6uA7UcQ1"},
 {"name": "Big Chief De Sota", "artists": ["Al Bowlly", "Sterling Bose", "Ray Noble & his American Orchestra"], "album": "Al Bowlly with Ray Noble & His Orchestra", "duration": 206000, "link": "spotify:track:3tUkr0dkLoPPesnF3Fv7q3"},
 {"name": "Brazil", "artists": ["Django Reinhardt"], "album": "Memorial", "duration": 165000, "link": "spotify:track:2rIcOp5j2XkZwOLL4zYpas"},
-{"name": "The Continental", "artists": ["Frank Sinatra"], "album": "Swing And Dance With Frank Sinatra", "duration": 152000, "link": "spotify:track:3f6Zf4LvEcxPdB7J1MaBpZ"},
 {"name": "I'm Just Wild About Harry", "artists": ["Peggy Lee with orchestra"], "album": "I Like Men", "duration": 132000, "link": "spotify:track:7p0IwVl5HbwGKhNDwg7bQ1"},
 {"name": "Swingin' In The Dell", "artists": ["DUKE ELLINGTON", "Johnny Hodges & His Orchestra"], "album": "100 Rare Sessions", "duration": 155000, "link": "spotify:track:2Om8R9q8yaAU9199s2IxxB"},
 {"name": "Dancing On The Stairs", "artists": ["DUKE ELLINGTON", "Johnny Hodges & His Orchestra"], "album": "100 Rare Sessions", "duration": 176000, "link": "spotify:track:7MCaMgq5VHj5WZLpHT18SJ"},
@@ -46,4 +45,5 @@
 {"name": "Taking My Time", "artists": ["Maxine Sullivan"], "album": "The Very Best Of", "duration": 129000, "link": "spotify:track:2QxR7G4V8d3bBG68jVevXT"},
 {"name": "Gypsy In My Soul", "artists": ["Bing Crosby", "Constance Bennett", "John Scott Trotter"], "album": "The Vintage Years, CD B", "duration": 141000, "link": "spotify:track:7LZAMhe6Sw6W8vhkA39qb7"},
 {"name": "Midnight Ramble", "artists": ["The Mills Blue Rhythm Band"], "album": "The Mills Blue Rhythm Band 1933-1936", "duration": 178000, "link": "spotify:track:0RtoYV8lY1AfSJjpPfnpBH"},
+{"name": "The Continental", "artists": ["Xavier Cugat"], "album": "Adios Muchachos", "duration": 170000, "link": "spotify:track:3WMMXYJctNgq3VcFpVhJR9"},
 ]}

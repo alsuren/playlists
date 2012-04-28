@@ -35,4 +35,9 @@
 {"name": "Texas Shuffle", "artists": ["Count Basie"], "album": "The Best of Early Basie", "duration": 187000, "link": "spotify:local:Count+Basie:The+Best+of+Early+Basie:Texas+Shuffle:187"},
 {"name": "I Would Do Anything For You", "artists": ["Miff  Mole"], "album": "Masters of Classic Jazz: Dixieland", "duration": 148000, "link": "spotify:track:6XcG7cxOe11Cg8FD8IkeHa"},
 {"name": "It Don't Mean A Thing (If It Ain't Got That Swing)", "artists": ["DUKE ELLINGTON"], "album": "Swing Essentials Vol 6 - Dont Stop Swinging", "duration": 190000, "link": "spotify:track:67HkeKmbBfWL87K8mzKaNp"},
+{"name": "Some of These Days", "artists": ["Mario 'Harp' Lorenzi & His Rhythmics"], "album": "Anthology of British Vintage Jazz, Volume 2", "duration": 186000, "link": "spotify:track:4NqsBIqgxfHko9zMvnsUJS"},
+{"name": "Blue Skies (Live)", "artists": ["Benny Goodman"], "album": "Live At Carnegie Hall (Disc 2)", "duration": 198000, "link": "spotify:local:Benny+Goodman:Live+At+Carnegie+Hall+%28Disc+2%29:Blue+Skies+%28Live%29:198"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:5qHj2ewYOvVdvxqrCakuIE"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:6oJc7sagjEUgZhscPC7Ejl"},
+{"name": "Black Coffee", "artists": ["Wingy Manone"], "album": "The Wingy Manone Collection Vol. 4 - 1935-1936", "duration": 178000, "link": "spotify:track:4cUspovnlFgH8088z8rFok"},
 ]}

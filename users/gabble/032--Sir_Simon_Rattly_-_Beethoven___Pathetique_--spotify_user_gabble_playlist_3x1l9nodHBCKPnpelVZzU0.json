@@ -2,7 +2,7 @@
 "http_link": "http://open.spotify.com/user/gabble/playlist/3x1l9nodHBCKPnpelVZzU0",
 "spotify_link": "spotify:user:gabble:playlist:3x1l9nodHBCKPnpelVZzU0",
 "songs": [
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4XrUJuw8uxs4Ky47pObNXm"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:6sokvpWnkKujYSi8SA6jM0"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:04KX87XrWF7TBEzoHLGPgq"},
+{"name": "Beethoven : Piano Sonata No.8 in C minor Op.13, 'Pathétique' : II Adagio cantabile", "artists": ["Daniel Barenboim"], "album": "Beethoven & Tchaikovsky : 'Pathétique'", "duration": 294000, "link": "spotify:track:4XrUJuw8uxs4Ky47pObNXm"},
+{"name": "Beethoven : Piano Sonata No.8 in C minor Op.13, 'Pathétique' : III Rondo - Allegro", "artists": ["Daniel Barenboim"], "album": "Beethoven & Tchaikovsky : 'Pathétique'", "duration": 284000, "link": "spotify:track:6sokvpWnkKujYSi8SA6jM0"},
+{"name": "Beethoven : Piano Sonata No.8 in C minor Op.13, 'Pathétique' : I Grave - Allegro di molto e con brio", "artists": ["Daniel Barenboim"], "album": "Beethoven & Tchaikovsky : 'Pathétique'", "duration": 557000, "link": "spotify:track:04KX87XrWF7TBEzoHLGPgq"},
 ]}

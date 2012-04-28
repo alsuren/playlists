@@ -28,7 +28,7 @@
 {"name": "Puttin' On The Ritz (Live)", "artists": ["Judy Garland"], "album": "Judy At Carnegie Hall", "duration": 138000, "link": "spotify:track:1jL7IGag1WjcC6pY4lM4JC"},
 {"name": "A Tisket A Tasket", "artists": ["Ella Fitzgerald"], "album": "Miss Ella's Playhouse", "duration": 158000, "link": "spotify:track:0b8kAVII7DqRSo7cWyZ1sE"},
 {"name": "I Found My Yellow Basket", "artists": ["Chick Webb And His Orchestra"], "album": "Big Band - The World’s Greatest Jazz Collection: Vol. 39", "duration": 156000, "link": "spotify:track:7bz2evsT1WDklgYtl7LeJt"},
-{"name": "When We're Human", "artists": ["Bruno Campos", "Anika Noni Rose", "Leon-Wooley", "Terence Blanchard"], "album": "The Princess And The Frog", "duration": 142000, "link": "spotify:track:0OldQAzci33J0Z5IwJXYvF"},
+{"name": "When We're Human", "artists": ["Leon-Wooley", "Anika Noni Rose", "Bruno Campos", "Terence Blanchard"], "album": "The Princess And The Frog", "duration": 142000, "link": "spotify:track:0OldQAzci33J0Z5IwJXYvF"},
 {"name": "Swanee", "artists": ["Sam Levine"], "album": "Dixieland Jazz", "duration": 156000, "link": "spotify:track:5DcRHCfIwRzSWETBbi9SCn"},
 {"name": "Texas And Pacific", "artists": ["Louis Jordan"], "album": "Classic Years Of Louis Jordan", "duration": 181000, "link": "spotify:track:4rM8WpRQj5NnBH52e6eoOr"},
 {"name": "I Can't Give You Anything But Love", "artists": ["Billie Holiday"], "album": "Who Loves You", "duration": 209000, "link": "spotify:track:4Oo68C19V6N4vl9CuWXh9a"},
@@ -42,4 +42,8 @@
 {"name": "Who Walks In When I Walk Out?", "artists": ["Ella Fitzgerald", "Louis Armstrong"], "album": "Ella Sings With...", "duration": 140000, "link": "spotify:track:3KWStNKQIxhofIwGDIYJhw"},
 {"name": "Look A There (6/27/1938)", "artists": ["Slim and Slam"], "album": "Complete Recordings 1938 - 1942 CD 1", "duration": 134000, "link": "spotify:track:0ET3OCHR9lfTPj0tlBLkEN"},
 {"name": "Overture/And All That Jazz", "artists": ["Catherine Zeta-Jones;Renée Zellweger;Taye Diggs"], "album": "Chicago - Music From The Miramax Motion Picture", "duration": 364000, "link": "spotify:track:3cGmUgp7hF5Eb8NyuEmtCA"},
+{"name": "Summertime", "artists": ["Louis Armstrong", "Ella Fitzgerald"], "album": "The Beatles Jukebox", "duration": 297000, "link": "spotify:track:6ojMugRyzh3US4se7esA7Z"},
+{"name": "As Time Goes By", "artists": ["Peggy Lee"], "album": "The Magic Of Peggy Lee", "duration": 174000, "link": "spotify:track:5uoWCICVt6nEgIAAEACMLj"},
+{"name": "Begin the Beguine", "artists": ["Glenn Miller"], "album": "The Sounds of Glenn Miller", "duration": 210000, "link": "spotify:track:56RYGdzr2RQxpnFCbuSsgn"},
+{"name": "Limehouse Blues", "artists": ["Django Reinhardt", "Hot Club De France Quintet"], "album": "The Best Of Django Reinhardt", "duration": 166000, "link": "spotify:track:1Et1KM6nmOwbrEUQI8dtc7"},
 ]}

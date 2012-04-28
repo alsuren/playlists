@@ -16,7 +16,7 @@
 {"name": "Miss You - Dr. Dre Remix 2002", "artists": ["The Rolling Stones"], "album": "Austin Powers - Goldmember O.S.T.", "duration": 220000, "link": "spotify:track:1LknzxVsWCQHhW7cVQajWv"},
 {"name": "Chains", "artists": ["Tina Arena"], "album": "Love Songs", "duration": 262000, "link": "spotify:track:4yqZWgTlntLSEaS1Z72jlS"},
 {"name": "Morning Train", "artists": ["Daniel Lemma"], "album": "Morning Train", "duration": 270000, "link": "spotify:track:7ubBZ5fR1A998H0I4gY6Ve"},
-{"name": "Night Train", "artists": ["Steve Winwood"], "album": "Arc Of A Diver", "duration": 470000, "link": "spotify:track:1lm0kjkAVC0uDevKwsfR2n"},
+{"name": "Night Train", "artists": ["Steve Winwood"], "album": "Arc Of A Diver", "duration": 468000, "link": "spotify:track:1lm0kjkAVC0uDevKwsfR2n"},
 {"name": "Love Sex Magic featuring Justin Timberlake", "artists": ["Ciara"], "album": "Love Sex Magic featuring Justin Timberlake", "duration": 220000, "link": "spotify:track:0upQ8bgqXGhFsBgvchxbGm"},
 {"name": "Beggin (Original version)", "artists": ["Madcon"], "album": "Beggin", "duration": 218000, "link": "spotify:track:6f1kX16GXNncubgCL3KMOP"},
 {"name": "Beat Goes On - Featuring Kanye West Album Version", "artists": ["Madonna"], "album": "Hard Candy", "duration": 267000, "link": "spotify:track:3G81fQKp3zRnw1mzLmjSKi"},
@@ -86,5 +86,5 @@
 {"name": "No Diggity", "artists": ["Blackstreet", "Dr. Dre"], "album": "No Diggity: The Very Best Of Blackstreet", "duration": 306000, "link": "spotify:track:4l2ecMeHvDg2Y9OOkqfucN"},
 {"name": "Brave", "artists": ["Jennifer Lopez"], "album": "Brave", "duration": 261000, "link": "spotify:track:6GYdQJxwk3qkjVxAX2IqMD"},
 {"name": "Against The Grain", "artists": ["Akon", "Ray Lavender"], "album": "Freedom", "duration": 244000, "link": "spotify:track:6LgIIvQXqFISoY8tJBb9Am"},
-{"name": "Celebration - feat. Akon", "artists": ["Madonna", "Akon"], "album": "Celebration [feat. Akon]", "duration": 235000, "link": "spotify:track:7tGMTaKoxBaDHx9qLRzQZp"},
+{"name": "Celebration - feat. Akon", "artists": ["Madonna"], "album": "Celebration [feat. Akon]", "duration": 235000, "link": "spotify:track:7tGMTaKoxBaDHx9qLRzQZp"},
 ]}

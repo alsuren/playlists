@@ -74,7 +74,7 @@
 {"name": "Every Day Is Exactly The Same", "artists": ["Nine Inch Nails"], "album": "With Teeth", "duration": 295000, "link": "spotify:track:63LhdsPzzSLq82VhFDdmDz"},
 {"name": "Misery", "artists": ["Maroon 5"], "album": "Misery", "duration": 216000, "link": "spotify:track:1cKvOe1HfGA56y1YW2T0Zi"},
 {"name": "Use Somebody", "artists": ["Kings Of Leon"], "album": "Use Somebody", "duration": 231000, "link": "spotify:track:3QkNkun3dzkeGo1jpkC76S"},
-{"name": "Out in the Fields", "artists": ["Gary Moore"], "album": "Gary Moore - The Platinum Collection", "duration": 258000, "link": "spotify:track:5AQhw6cV5w1NipoBJbOb3f"},
+{"name": "Out in the Fields - 2002 - Remaster", "artists": ["Gary Moore"], "album": "Gary Moore - The Platinum Collection", "duration": 258000, "link": "spotify:track:5AQhw6cV5w1NipoBJbOb3f"},
 {"name": "Generation Wild", "artists": ["Crashdiet"], "album": "Generation Wild", "duration": 234000, "link": "spotify:track:6NC7Xg8F2reCPStYe8xSPr"},
 {"name": "I Only Wanna Be With You", "artists": ["Volbeat"], "album": "The Strength/The Sound/The Songs", "duration": 164000, "link": "spotify:track:4fmHQdt9I9mi4hAVmt0Iyz"},
 {"name": "You're Gonna Go Far, Kid - Explicit Album Version", "artists": ["The Offspring"], "album": "You're Gonna Go Far, Kid", "duration": 178000, "link": "spotify:track:3jNyatJv1JxuIlwKoYlo7Y"},
@@ -108,4 +108,5 @@
 {"name": "Lost In Space", "artists": ["Avantasia"], "album": "Lost In Space [Chapter 1 & 2]", "duration": 233000, "link": "spotify:track:1GhCTXvTM3WBgfWCKtdexG"},
 {"name": "I'll be waiting", "artists": ["Talisman"], "album": "Talisman", "duration": 179000, "link": "spotify:local:Talisman:Talisman:I%27ll+be+waiting:179"},
 {"name": "Send Me A Sign", "artists": ["Gamma Ray"], "album": "Skeletons and Majesties - The Mini Album", "duration": 266000, "link": "spotify:track:0EbOOKAmRvd2w7K1Wvs3Q5"},
+{"name": "Somebody That I Used To Know", "artists": ["Gotye", "Kimbra"], "album": "Making Mirrors", "duration": 245000, "link": "spotify:track:4VRLGNMTfymoYzD4dLAsNb"},
 ]}

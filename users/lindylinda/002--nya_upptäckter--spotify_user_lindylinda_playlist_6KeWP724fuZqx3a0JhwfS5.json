@@ -14,4 +14,9 @@
 {"name": "Emmylou", "artists": ["First Aid Kit"], "album": "The Lion's Roar", "duration": 258000, "link": "spotify:track:4ELZepvO9f4k3QCxInn0Ps"},
 {"name": "Real In Rio", "artists": ["will.i.am", "Anne Hathaway", "The Rio Singers", "George Lopez", "Jesse Eisenberg", "Jamie Foxx"], "album": "Rio: Music From The Motion Picture", "duration": 228000, "link": "spotify:track:3qytQlsWcXeVQ2gR2mx8VI"},
 {"name": "Telling The World", "artists": ["Taio Cruz"], "album": "Rio: Music From The Motion Picture", "duration": 213000, "link": "spotify:track:1ybmdo2pG61usgZYj8LIrn"},
+{"name": "Amazing", "artists": ["Danny Saucedo"], "album": "Amazing", "duration": 181000, "link": "spotify:track:33qw98yPnShEQMoF72ORUa"},
+{"name": "Euphoria - Single Version", "artists": ["Loreen"], "album": "Euphoria", "duration": 182000, "link": "spotify:track:1xN7BpTAWnZkuSLOtRP6Qc"},
+{"name": "We Are Young - feat. Janelle Monáe", "artists": ["Fun."], "album": "Some Nights", "duration": 251000, "link": "spotify:track:7a86XRg84qjasly9f6bPSD"},
+{"name": "Call Me Maybe", "artists": ["Carly Rae Jepsen"], "album": "Call Me Maybe", "duration": 193000, "link": "spotify:track:6ol4ZSifr7r3Lb2a9L5ZAB"},
+{"name": "Why Start A Fire", "artists": ["Lisa Miskovsky"], "album": "Why Start A Fire", "duration": 182000, "link": "spotify:track:1JeA1NY2YF5FFDng0yPLqy"},
 ]}

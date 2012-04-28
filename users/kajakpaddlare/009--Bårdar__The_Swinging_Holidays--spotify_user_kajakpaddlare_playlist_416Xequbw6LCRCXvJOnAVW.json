@@ -4,8 +4,8 @@
 "songs": [
 {"name": "Swingle Jingle", "artists": ["Lionel Hampton"], "album": "Swinging Christmas (Jazz Club)", "duration": 172000, "link": "spotify:track:5K8mSrruueOyFMD0h0oYXp"},
 {"name": "Boogie Woogie Santa Claus", "artists": ["Angela Strehli"], "album": "An Austin Rhythm And Blues Christmas", "duration": 146000, "link": "spotify:track:27tBqDP2bmQyFGqz0KBbFO"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:0KIbWpeVKKl2XVLzTWVIA9"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:0QaAzQeYLQT0sfye03eyPP"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4WbKBuK9efpzDL5YbnynjE"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4qfVvBU0msMy0mESZE1Nvw"},
+{"name": "Cool Yule", "artists": ["Kurt Elling"], "album": "Blue Christmas", "duration": 211000, "link": "spotify:track:0KIbWpeVKKl2XVLzTWVIA9"},
+{"name": "Winter Weather", "artists": ["Joe Williams", "Harry "Sweets" Edison"], "album": "Together/Have A Good Time", "duration": 113000, "link": "spotify:track:0QaAzQeYLQT0sfye03eyPP"},
+{"name": "Sleigh Ride", "artists": ["Ella Fitzgerald"], "album": "Swinging Christmas Masters: Jingle Bells", "duration": 178000, "link": "spotify:track:4WbKBuK9efpzDL5YbnynjE"},
+{"name": "Christmas Night in Harlem", "artists": ["Louis Armstrong and His All Stars"], "album": "Christmas Romance - Christmas Classics From The Past (50 Weihnachts Klassiker der 40er und 50er Jahre)", "duration": 160000, "link": "spotify:track:4qfVvBU0msMy0mESZE1Nvw"},
 ]}

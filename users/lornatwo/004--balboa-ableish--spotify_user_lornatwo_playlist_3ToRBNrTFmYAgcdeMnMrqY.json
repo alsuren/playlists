@@ -87,7 +87,7 @@
 {"name": "Lee Wiley - Too Good to be True - 1936", "artists": [""], "album": "", "duration": 142000, "link": "spotify:local:::Lee+Wiley+-+Too+Good+to+be+True+-+1936:142"},
 {"name": "There'll Be Some Changes Made (01-30-41)", "artists": ["Woody Herman"], "album": "Complete Jazz Series 1940 - 1941", "duration": 122000, "link": "spotify:track:5Q2FhbCNa1Yn6fRFcuzgGw"},
 {"name": "Deed I Do", "artists": ["Lena Horn"], "album": "Lena Horne Sings", "duration": 151000, "link": "spotify:track:58cVUX5kZrCQQPSQej6wru"},
-{"name": "'Deed I Do", "artists": ["Yehudi Menuhin", "Joe Venuti"], "album": "The Best Of The Jazz Violins", "duration": 272000, "link": "spotify:track:1W0spcH2ga0hDOx9217piu"},
+{"name": "'Deed I Do", "artists": ["Stéphane Grappelli", "Joes Venuti"], "album": "The Best Of The Jazz Violins", "duration": 272000, "link": "spotify:track:1W0spcH2ga0hDOx9217piu"},
 {"name": "Am I Blue?", "artists": ["Ziggy Elman and His Orchestra"], "album": "Blue & Sentimental", "duration": 154000, "link": "spotify:track:6yYe9c7mYvZPHYZSAcWYNh"},
 {"name": "Streamline Strut", "artists": ["Ambrose"], "album": "Embassy Stomp", "duration": 154000, "link": "spotify:track:4uugxYrXmiNx4PIUnm7eBK"},
 {"name": "When Buddha Smiles", "artists": ["Benny Goodman"], "album": "We Got Rhythm! American Dance Bands Of The '30's", "duration": 189000, "link": "spotify:track:0t2KfZ47NyI6JFhX4CywEN"},
@@ -126,4 +126,5 @@
 {"name": "Taking My Time", "artists": ["Maxine Sullivan"], "album": "The Very Best Of", "duration": 129000, "link": "spotify:track:2QxR7G4V8d3bBG68jVevXT"},
 {"name": "Gypsy In My Soul", "artists": ["Bing Crosby", "Constance Bennett", "John Scott Trotter"], "album": "The Vintage Years, CD B", "duration": 141000, "link": "spotify:track:7LZAMhe6Sw6W8vhkA39qb7"},
 {"name": "Midnight Ramble", "artists": ["The Mills Blue Rhythm Band"], "album": "The Mills Blue Rhythm Band 1933-1936", "duration": 178000, "link": "spotify:track:0RtoYV8lY1AfSJjpPfnpBH"},
+{"name": "The Continental", "artists": ["Xavier Cugat"], "album": "Adios Muchachos", "duration": 170000, "link": "spotify:track:3WMMXYJctNgq3VcFpVhJR9"},
 ]}

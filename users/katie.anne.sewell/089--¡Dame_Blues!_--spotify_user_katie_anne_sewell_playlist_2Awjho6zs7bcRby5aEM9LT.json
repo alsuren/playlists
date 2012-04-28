@@ -82,7 +82,12 @@
 {"name": "Lazzy River", "artists": ["Lake City Stompers"], "album": "New Orleans-Mississippi-Dixieland Festival", "duration": 323000, "link": "spotify:track:5AhbjN5DYiSVVYocTBf9f3"},
 {"name": "Back Water Blues", "artists": ["Dinah Washington"], "album": "Nights In Rodanthe - Original Motion Picture Soundtrack", "duration": 296000, "link": "spotify:track:6cNuCJHprak6r26xGdAMxU"},
 {"name": "Backwater Blues", "artists": ["Johnny Silvo", "Diz Disley"], "album": "Blues In The Backyard", "duration": 198000, "link": "spotify:track:3SLw3NKjSWbTU2cjzmB5Md"},
-{"name": "Don't You Feel My Leg (Don't You Make Me High)", "artists": ["New Orleans Musicians' Clinic", "Blu Lu Barker", "Maria Muldaur"], "album": "Get You A Healin' Special Anniversary Re-Release", "duration": 289000, "link": "spotify:track:1Ykqd2zFmCgQ0FpKsjKfcX"},
 {"name": "New Orleans", "artists": ["Bobby Hackett and his orchestra"], "album": "Jazz-Club Main Stream - Dixieland", "duration": 186000, "link": "spotify:local:Bobby+Hackett+and+his+orchestra:Jazz-Club+Main+Stream+-+Dixieland:New+Orleans:186"},
 {"name": "Coal Miner's Shift", "artists": ["Mojo Blues Band"], "album": "Blues Parade 2000", "duration": 168000, "link": "spotify:track:639fDXwxrechfcSFXTbBvU"},
+{"name": "Blues Man", "artists": ["B.B. King"], "album": "Blues On The Bayou", "duration": 320000, "link": "spotify:track:41GRlHYJfmvM0eEoCEW5E8"},
+{"name": "My Dearest Darling", "artists": ["Etta James"], "album": "Etta James - At Last", "duration": 181000, "link": "spotify:track:19laolWXTTBFv7AVSgFw5B"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:7bRY3ZFu7GCkkiFXLAS44l"},
+{"name": "Sweet Lover", "artists": ["Tipitina"], "album": "Taking Care of Business", "duration": 297000, "link": "spotify:track:3nq6bPrUYoZI1WFkQsF04B"},
+{"name": "Brickyard Blues", "artists": ["Tipitina"], "album": "Taking Care of Business", "duration": 372000, "link": "spotify:track:1mM0ubbSvAK5pFF6uuKScH"},
+{"name": "Turk's Blues", "artists": ["Turk Murphy's Jazz Band"], "album": "Favorites", "duration": 179000, "link": "spotify:local:Turk+Murphy%27s+Jazz+Band:Favorites:Turk%27s+Blues:179"},
 ]}

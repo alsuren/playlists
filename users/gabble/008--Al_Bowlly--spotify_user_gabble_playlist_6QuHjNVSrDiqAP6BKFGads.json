@@ -2,10 +2,10 @@
 "http_link": "http://open.spotify.com/user/gabble/playlist/6QuHjNVSrDiqAP6BKFGads",
 "spotify_link": "spotify:user:gabble:playlist:6QuHjNVSrDiqAP6BKFGads",
 "songs": [
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4W5c65vsreu9sxFRPU63IP"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:5nxWiYFaQiICv07s5jOWLP"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:0lpp93POJdAAXEfZDh4UCV"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:3t3RZxeIr7VkoefMFfFdde"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4LHEtwXPdj205ZzamuMyKN"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:5IP0alz84x3MGmg4IuXggH"},
+{"name": "Love Is The Sweetest Thing", "artists": ["Al Bowlly"], "album": "Top Hits Of The 1930s", "duration": 205000, "link": "spotify:track:4W5c65vsreu9sxFRPU63IP"},
+{"name": "The Very Thought Of You", "artists": ["Al Bowlly", "Ray Noble & His Orchestra"], "album": "The Very Thought Of You", "duration": 214000, "link": "spotify:track:5nxWiYFaQiICv07s5jOWLP"},
+{"name": "Sweet And Lovely", "artists": ["Al Bowlly"], "album": "The One and Only Al Bowlly", "duration": 202000, "link": "spotify:track:0lpp93POJdAAXEfZDh4UCV"},
+{"name": "Goodnight Sweetheart", "artists": ["Al Bowlly"], "album": "Goodnight Sweetheart", "duration": 195000, "link": "spotify:track:3t3RZxeIr7VkoefMFfFdde"},
+{"name": "Goodnight Vienna", "artists": ["Al Bowlly"], "album": "The One and Only Al Bowlly", "duration": 190000, "link": "spotify:track:4LHEtwXPdj205ZzamuMyKN"},
+{"name": "My Woman", "artists": ["Nat Gonella", "Lew Stone", "The Monseigneur Band", "Al Bowlly"], "album": "Best of Lew Stone & the Monseigneur Band, 1932-34", "duration": 195000, "link": "spotify:track:5IP0alz84x3MGmg4IuXggH"},
 ]}

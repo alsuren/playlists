@@ -1,0 +1,16 @@
+{"playlist_name": "New stuff ",
+"http_link": "http://open.spotify.com/user/rupertsanfordscutt/playlist/0xmrFiaaVSoV0tjBCyX3s8",
+"spotify_link": "spotify:user:rupertsanfordscutt:playlist:0xmrFiaaVSoV0tjBCyX3s8",
+"songs": [
+{"name": "To The End", "artists": ["Blur"], "album": "The Best Of [Disc 1]", "duration": 231000, "link": "spotify:local:Blur:The+Best+Of+%5bDisc+1%5d:To+The+End:231"},
+{"name": "Tangerine", "artists": ["Led Zeppelin"], "album": "Led Zeppelin III", "duration": 190000, "link": "spotify:local:Led+Zeppelin:Led+Zeppelin+III:Tangerine:190"},
+{"name": "John Wayne Gacy Jr.", "artists": ["Sufjan Stevens"], "album": "Illinoise", "duration": 199000, "link": "spotify:local:Sufjan+Stevens:Illinoise:John+Wayne+Gacy+Jr.:199"},
+{"name": "In The Air Tonight", "artists": ["Phil Collins"], "album": "Hits", "duration": 330000, "link": "spotify:local:Phil+Collins:Hits:In+The+Air+Tonight:330"},
+{"name": "Little Eyes", "artists": ["Yo La Tengo"], "album": "Prisoners Of Love [Disc 1]", "duration": 262000, "link": "spotify:local:Yo+La+Tengo:Prisoners+Of+Love+%5bDisc+1%5d:Little+Eyes:262"},
+{"name": "You Can Have It All", "artists": ["Yo La Tengo"], "album": "Prisoners Of Love [Disc 1]", "duration": 277000, "link": "spotify:local:Yo+La+Tengo:Prisoners+Of+Love+%5bDisc+1%5d:You+Can+Have+It+All:277"},
+{"name": "After The Goldrush", "artists": ["Neil Young"], "album": "Greatest Hits", "duration": 229000, "link": "spotify:local:Neil+Young:Greatest+Hits:After+The+Goldrush:229"},
+{"name": "The Needle & The Damage Done", "artists": ["Neil Young"], "album": "Greatest Hits", "duration": 133000, "link": "spotify:local:Neil+Young:Greatest+Hits:The+Needle+%26+The+Damage+Done:133"},
+{"name": "Harvest", "artists": ["Neil Young"], "album": "Harvest", "duration": 191000, "link": "spotify:local:Neil+Young:Harvest:Harvest:191"},
+{"name": "Viva La Vida", "artists": ["Coldplay"], "album": "Viva La Vida", "duration": 241000, "link": "spotify:local:Coldplay:Viva+La+Vida:Viva+La+Vida:241"},
+{"name": "Lovers In Japan/Reign Of Love", "artists": ["Coldplay"], "album": "Viva La Vida", "duration": 411000, "link": "spotify:local:Coldplay:Viva+La+Vida:Lovers+In+Japan%2fReign+Of+Love:411"},
+]}

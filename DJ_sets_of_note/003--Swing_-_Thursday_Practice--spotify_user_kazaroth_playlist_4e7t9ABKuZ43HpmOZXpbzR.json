@@ -65,7 +65,7 @@
 {"name": "Shadrach, Meshach and Abednego", "artists": ["Asylum Street Spankers"], "album": "God's Favorite Band", "duration": 162000, "link": "spotify:track:35xnbXIosXGLAN8fRMEgbe"},
 {"name": "Shoot the Likker to Me, John Boy! - DJ Wuthe am Grammophon", "artists": ["Artie Shaw & His New Music"], "album": "Balboa Swing, Vol. 2", "duration": 174000, "link": "spotify:track:5IlDxaVNZaqjD4czxOwsJc"},
 {"name": "Shorty George", "artists": ["Count Basie & His Orchestra"], "album": "The Best Of Early Basie", "duration": 164000, "link": "spotify:track:1h3tCaWIDrtpsOpLUlyzmS"},
-{"name": "Sing, Sing, Sing (Introducing "Christopher Columbus")", "artists": ["Benny Goodman"], "album": "The Harry James Years Vol. 1", "duration": 245000, "link": "spotify:track:3DQiLIg2sfSuyWpiwoheuT"},
+{"name": "Sing, Sing, Sing (Introducing "Christopher Columbus")", "artists": ["Benny Goodman and his Orchestra"], "album": "The Harry James Years Vol. 1", "duration": 245000, "link": "spotify:track:3DQiLIg2sfSuyWpiwoheuT"},
 {"name": "Snatch And Grab It", "artists": ["Julia Lee"], "album": "Roots Of R&B", "duration": 176000, "link": "spotify:local:Julia+Lee:Roots+Of+R%26B:Snatch+And+Grab+It:176"},
 {"name": "Stomp, Stomp", "artists": ["The Cats And The Fiddle"], "album": "We Cats Will Swing For You - Volume 2 - 1940-1941", "duration": 175000, "link": "spotify:local:The+Cats+And+The+Fiddle:We+Cats+Will+Swing+For+You+-+Volume+2+-+1940-1941:Stomp%2c+St"},
 {"name": "Stompin' at the Savoy - 1996 Remastered - Take 2", "artists": ["Benny Goodman Quartet"], "album": "Trésors Benny Goodman", "duration": 168000, "link": "spotify:track:4JwdaVDNDfeN8u0sDLpCON"},
@@ -103,4 +103,9 @@
 {"name": "Sing Me A Swing Song (And Let Me Dance)", "artists": ["Ella Fitzgerald", "Chick Webb"], "album": "The Hits From The 30s And 40s", "duration": 156000, "link": "spotify:track:6mspToO9v6Ewz4GSCEDBTi"},
 {"name": "Sing Me A Swing Song (And Let Me Dance)", "artists": ["Ella Fitzgerald", "Chick Webb"], "album": "The Hits From The 30s And 40s", "duration": 156000, "link": "spotify:track:6mspToO9v6Ewz4GSCEDBTi"},
 {"name": "Minor Swing", "artists": ["Boilermaker Jazz Band"], "album": "Give Me Your Telephone Number", "duration": 221000, "link": "spotify:track:6P1b66Y4aeXedDIFVW3WPZ"},
+{"name": "What's The Reason? I'm Not Pleasing You", "artists": ["The Six Swingers"], "album": "The Six Swingers: 1934 - 1935", "duration": 149000, "link": "spotify:track:01LSTAf6IzzI6TQUssq3Rf"},
+{"name": "Your Mother's Son-In-Law", "artists": ["The Six Swingers"], "album": "The Six Swingers: 1934 - 1935", "duration": 185000, "link": "spotify:track:302oqmGEaruCGSAjAizdMh"},
+{"name": "I'm Walkin' The Chalk-Line", "artists": ["The Six Swingers"], "album": "The Six Swingers: 1934 - 1935", "duration": 201000, "link": "spotify:track:7G9HJLvLt3SGCbYd10P2FJ"},
+{"name": "Dere’s Jazz In Dem Dere Horns", "artists": ["Sam Costa", "George Scott Wood & His Six Swingers"], "album": "The Essential Collection (Digitally Remastered)", "duration": 191000, "link": "spotify:track:14e9btOrTK42DxMZhoscFu"},
+{"name": "Hello Mabel - 2007 Digital Remaster", "artists": ["Bonzo Dog Band"], "album": "A Dog's Life (The Albums 1967 - 1972)", "duration": 166000, "link": "spotify:track:5eacVX3WEjxXrjCEtPG0Go"},
 ]}

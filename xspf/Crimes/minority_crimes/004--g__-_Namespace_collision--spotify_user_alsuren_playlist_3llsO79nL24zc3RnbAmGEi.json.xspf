@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><playlist xmlns="http://xspf.org/ns/0/" version="0"><trackList>
+	<track>
+		<creator>Ella Fitzgerald</creator>
+		<title>Flying Home</title>
+		<duration>146000</duration>
+		<album>The Jazz Selection - Volume One</album>
+	</track>
+	<track>
+		<creator>Bob Barnard</creator>
+		<title>Blues My Naughty Sweetie Gave To Me</title>
+		<duration>284000</duration>
+		<album>Easy Street</album>
+	</track>
+	<track>
+		<creator>Gnarls Barkley</creator>
+		<title>Gnarls Barkley</title>
+		<duration>181000</duration>
+		<album></album>
+	</track>
+</trackList></playlist>

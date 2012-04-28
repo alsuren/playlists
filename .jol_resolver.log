@@ -1,0 +1,493 @@
+2012-04-20 20:33:16,351 INFO Started in c:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:33:19,707 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:33:19,707 INFO Advertised settings.
+2012-04-20 20:33:19,709 DEBUG waiting for message length
+2012-04-20 20:33:19,720 DEBUG waiting for 91 more chars
+2012-04-20 20:33:19,721 DEBUG searching for for {'track': 'spring cleaning', 'qid': '123456789', '_msgtype': 'rq', 'artist': 'fats waller'}
+2012-04-20 20:33:19,723 DEBUG responding {"qid": "123456789", "results": [{"source": "jazz-on-line.com", "track": "Spring Cleaning", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3c/VIC06418-1.mp3", "score": 1, "artist": "Fats Waller And His Rhythm"}], "_msgtype": "results"}
+2012-04-20 20:33:19,723 DEBUG waiting for message length
+2012-04-20 20:33:19,823 DEBUG No length given (''). Exiting.
+2012-04-20 20:34:07,299 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:34:12,145 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:34:12,147 INFO Advertised settings.
+2012-04-20 20:34:12,148 DEBUG waiting for message length
+2012-04-20 20:34:12,148 DEBUG waiting for 141 more chars
+2012-04-20 20:34:12,148 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:12,148 DEBUG waiting for message length
+2012-04-20 20:34:12,381 DEBUG waiting for 115 more chars
+2012-04-20 20:34:12,381 DEBUG searching for for {'track': 'Alreet', 'qid': 'aac7566a-4ee3-482f-b82c-d5407e65ee37', '_msgtype': 'rq', 'artist': "ANITA O'DAY"}
+2012-04-20 20:34:12,381 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 66, in search_for_track
+    if exact_results:
+UnboundLocalError: local variable 'exact_results' referenced before assignment
+2012-04-20 20:34:13,161 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:34:16,111 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:34:16,111 INFO Advertised settings.
+2012-04-20 20:34:16,111 DEBUG waiting for message length
+2012-04-20 20:34:16,111 DEBUG waiting for 141 more chars
+2012-04-20 20:34:16,111 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:16,112 DEBUG waiting for message length
+2012-04-20 20:34:16,112 DEBUG waiting for 141 more chars
+2012-04-20 20:34:16,115 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:16,117 DEBUG waiting for message length
+2012-04-20 20:34:16,532 DEBUG waiting for 123 more chars
+2012-04-20 20:34:16,532 DEBUG searching for for {'track': 'victor_52261_B', 'qid': 'b486467e-a524-4dc2-bdf1-3eb13e4565ee', '_msgtype': 'rq', 'artist': 'FATS WALLER'}
+2012-04-20 20:34:16,532 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 58, in search_for_track
+    songs_by_artist = songs_by_name_artist[song_name]
+KeyError: 'victor_52261_b'
+2012-04-20 20:34:17,362 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:34:21,594 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:34:21,595 INFO Advertised settings.
+2012-04-20 20:34:21,595 DEBUG waiting for message length
+2012-04-20 20:34:21,595 DEBUG waiting for 141 more chars
+2012-04-20 20:34:21,596 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:21,596 DEBUG waiting for message length
+2012-04-20 20:34:21,596 DEBUG waiting for 141 more chars
+2012-04-20 20:34:21,598 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:21,598 DEBUG waiting for message length
+2012-04-20 20:34:21,806 DEBUG waiting for 127 more chars
+2012-04-20 20:34:21,808 DEBUG searching for for {'track': 'Egyptian Fantasy', 'qid': '02730938-c2e4-4526-af06-ef1347178bf0', '_msgtype': 'rq', 'artist': 'Sidney Bechet'}
+2012-04-20 20:34:21,808 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 66, in search_for_track
+    if exact_results:
+UnboundLocalError: local variable 'exact_results' referenced before assignment
+2012-04-20 20:34:22,621 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:34:25,973 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:34:25,973 INFO Advertised settings.
+2012-04-20 20:34:25,976 DEBUG waiting for message length
+2012-04-20 20:34:25,976 DEBUG waiting for 141 more chars
+2012-04-20 20:34:25,976 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:25,979 DEBUG waiting for message length
+2012-04-20 20:34:25,979 DEBUG waiting for 141 more chars
+2012-04-20 20:34:25,979 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:25,982 DEBUG waiting for message length
+2012-04-20 20:34:26,921 DEBUG waiting for 125 more chars
+2012-04-20 20:34:26,921 DEBUG searching for for {'track': 'Lavender Coffin', 'qid': 'f7ff504c-ac0a-4fdf-9bc6-4627b538438c', '_msgtype': 'rq', 'artist': 'Sonny Parker'}
+2012-04-20 20:34:26,921 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 66, in search_for_track
+    if exact_results:
+UnboundLocalError: local variable 'exact_results' referenced before assignment
+2012-04-20 20:34:27,887 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:34:31,428 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:34:31,434 INFO Advertised settings.
+2012-04-20 20:34:31,434 DEBUG waiting for message length
+2012-04-20 20:34:31,434 DEBUG waiting for 141 more chars
+2012-04-20 20:34:31,436 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:31,436 DEBUG waiting for message length
+2012-04-20 20:34:31,436 DEBUG waiting for 141 more chars
+2012-04-20 20:34:31,436 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:31,437 DEBUG waiting for message length
+2012-04-20 20:34:31,641 DEBUG waiting for 132 more chars
+2012-04-20 20:34:31,641 DEBUG searching for for {'track': 'Love Me Or Leave Me', 'qid': '6bc5970f-159e-45d9-8cae-eff442127fd3', '_msgtype': 'rq', 'artist': 'Sammy Davis Jr.'}
+2012-04-20 20:34:31,641 DEBUG responding {"qid": "6bc5970f-159e-45d9-8cae-eff442127fd3", "results": [{"source": "jazz-on-line.com", "track": "Love Me Or Leave Me", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3w/1955_084.mp3", "score": 1, "artist": "Sammy Davis Jr."}], "_msgtype": "results"}
+2012-04-20 20:34:31,642 DEBUG waiting for message length
+2012-04-20 20:34:31,742 DEBUG waiting for 130 more chars
+2012-04-20 20:34:31,743 DEBUG searching for for {'track': 'For Dancers Only', 'qid': '79d2820c-8bf6-41df-a979-bc37f1291387', '_msgtype': 'rq', 'artist': 'Jimmie Lunceford'}
+2012-04-20 20:34:31,743 DEBUG responding {"qid": "79d2820c-8bf6-41df-a979-bc37f1291387", "results": [{"source": "jazz-on-line.com", "track": "For Dancers Only", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3w/1937_123.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orchestra"}, {"source": "jazz-on-line.com", "track": "For Dancers Only", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3o/DEC62263.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orch"}, {"source": "jazz-on-line.com", "track": "For Dancers Only", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3d/Dec62263-A.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orchestra"}, {"source": "jazz-on-line.com", "track": "For Dancers Only", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3e/V-D355B1.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orchestra"}, {"source": "jazz-on-line.com", "track": "For Dancers Only", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3d/V-DVP-1598a.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orchestra"}], "_msgtype": "results"}
+2012-04-20 20:34:31,743 DEBUG waiting for message length
+2012-04-20 20:34:31,851 DEBUG waiting for 135 more chars
+2012-04-20 20:34:31,851 DEBUG searching for for {'track': 'Spoonful - Single Version', 'qid': '48e36a12-1a3a-42ae-8b4f-d5c6d36e34b7', '_msgtype': 'rq', 'artist': "Howlin' Wolf"}
+2012-04-20 20:34:31,851 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 58, in search_for_track
+    songs_by_artist = songs_by_name_artist[song_name]
+KeyError: 'spoonful'
+2012-04-20 20:34:32,641 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:34:36,335 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:34:36,335 INFO Advertised settings.
+2012-04-20 20:34:36,335 DEBUG waiting for message length
+2012-04-20 20:34:36,336 DEBUG waiting for 141 more chars
+2012-04-20 20:34:36,336 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:36,336 DEBUG waiting for message length
+2012-04-20 20:34:36,336 DEBUG waiting for 141 more chars
+2012-04-20 20:34:36,338 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:36,338 DEBUG waiting for message length
+2012-04-20 20:34:36,549 DEBUG waiting for 131 more chars
+2012-04-20 20:34:36,551 DEBUG searching for for {'track': 'Your Untouchable Face', 'qid': 'dc1770be-fb8f-4af2-91ff-a1d23d4f916f', '_msgtype': 'rq', 'artist': 'Ani DiFranco'}
+2012-04-20 20:34:36,551 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 58, in search_for_track
+    songs_by_artist = songs_by_name_artist[song_name]
+KeyError: 'your untouchable face'
+2012-04-20 20:34:37,247 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:34:40,203 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:34:40,203 INFO Advertised settings.
+2012-04-20 20:34:40,203 DEBUG waiting for message length
+2012-04-20 20:34:40,203 DEBUG waiting for 132 more chars
+2012-04-20 20:34:40,203 DEBUG searching for for {'track': "Tain't What You Do", 'qid': 'c38b6fea-d952-473a-b345-59673f582af6', '_msgtype': 'rq', 'artist': 'Jimmie Lunceford'}
+2012-04-20 20:34:40,204 DEBUG responding {"qid": "c38b6fea-d952-473a-b345-59673f582af6", "results": [{"source": "jazz-on-line.com", "track": "Tain't What You Do", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3a/CBS23905.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orch"}, {"source": "jazz-on-line.com", "track": "'tain't What You Do (it's The Way That You Do It)", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3d/Oke23905-1.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orchestra"}], "_msgtype": "results"}
+2012-04-20 20:34:40,204 DEBUG waiting for message length
+2012-04-20 20:34:40,204 DEBUG waiting for 141 more chars
+2012-04-20 20:34:40,204 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:40,206 DEBUG waiting for message length
+2012-04-20 20:34:40,207 DEBUG waiting for 141 more chars
+2012-04-20 20:34:40,207 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:40,207 DEBUG waiting for message length
+2012-04-20 20:34:40,430 DEBUG waiting for 134 more chars
+2012-04-20 20:34:40,430 DEBUG searching for for {'track': 'Shoot the Sherbert to Me', 'qid': '9245937e-6e95-4e3b-aa64-d7b59e228bab', '_msgtype': 'rq', 'artist': 'Tommy Dorsey'}
+2012-04-20 20:34:40,430 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 58, in search_for_track
+    songs_by_artist = songs_by_name_artist[song_name]
+KeyError: 'shoot the sherbert to me'
+2012-04-20 20:34:41,332 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:34:45,168 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:34:45,170 INFO Advertised settings.
+2012-04-20 20:34:45,170 DEBUG waiting for message length
+2012-04-20 20:34:45,171 DEBUG waiting for 141 more chars
+2012-04-20 20:34:45,171 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:45,171 DEBUG waiting for message length
+2012-04-20 20:34:45,171 DEBUG waiting for 141 more chars
+2012-04-20 20:34:45,171 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:45,171 DEBUG waiting for message length
+2012-04-20 20:34:45,392 DEBUG waiting for 132 more chars
+2012-04-20 20:34:45,394 DEBUG searching for for {'track': 'Love Me Or Leave Me', 'qid': '6bc5970f-159e-45d9-8cae-eff442127fd3', '_msgtype': 'rq', 'artist': 'Sammy Davis Jr.'}
+2012-04-20 20:34:45,394 DEBUG responding {"qid": "6bc5970f-159e-45d9-8cae-eff442127fd3", "results": [{"source": "jazz-on-line.com", "track": "Love Me Or Leave Me", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3w/1955_084.mp3", "score": 1, "artist": "Sammy Davis Jr."}], "_msgtype": "results"}
+2012-04-20 20:34:45,394 DEBUG waiting for message length
+2012-04-20 20:34:45,507 DEBUG waiting for 142 more chars
+2012-04-20 20:34:45,509 DEBUG searching for for {'track': 'Joshua Fit De Battle Of Jericho', 'qid': '3b746590-62f0-431b-819c-2d4864a45984', '_msgtype': 'rq', 'artist': 'Sidney Bechet'}
+2012-04-20 20:34:45,509 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 58, in search_for_track
+    songs_by_artist = songs_by_name_artist[song_name]
+KeyError: 'joshua fit de battle of jericho'
+2012-04-20 20:34:46,346 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:34:49,375 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:34:49,377 INFO Advertised settings.
+2012-04-20 20:34:49,377 DEBUG waiting for message length
+2012-04-20 20:34:49,377 DEBUG waiting for 141 more chars
+2012-04-20 20:34:49,377 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:49,378 DEBUG waiting for message length
+2012-04-20 20:34:49,378 DEBUG waiting for 141 more chars
+2012-04-20 20:34:49,378 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:49,378 DEBUG waiting for message length
+2012-04-20 20:34:49,509 DEBUG waiting for 134 more chars
+2012-04-20 20:34:49,509 DEBUG searching for for {'track': 'Shoot the Sherbert to Me', 'qid': '9245937e-6e95-4e3b-aa64-d7b59e228bab', '_msgtype': 'rq', 'artist': 'Tommy Dorsey'}
+2012-04-20 20:34:49,510 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 58, in search_for_track
+    songs_by_artist = songs_by_name_artist[song_name]
+KeyError: 'shoot the sherbert to me'
+2012-04-20 20:34:50,200 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:34:53,713 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:34:53,713 INFO Advertised settings.
+2012-04-20 20:34:53,713 DEBUG waiting for message length
+2012-04-20 20:34:53,714 DEBUG waiting for 141 more chars
+2012-04-20 20:34:53,714 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:53,714 DEBUG waiting for message length
+2012-04-20 20:34:53,714 DEBUG waiting for 141 more chars
+2012-04-20 20:34:53,714 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:53,716 DEBUG waiting for message length
+2012-04-20 20:34:54,052 DEBUG waiting for 125 more chars
+2012-04-20 20:34:54,052 DEBUG searching for for {'track': 'Lavender Coffin', 'qid': 'f7ff504c-ac0a-4fdf-9bc6-4627b538438c', '_msgtype': 'rq', 'artist': 'Sonny Parker'}
+2012-04-20 20:34:54,053 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 66, in search_for_track
+    if exact_results:
+UnboundLocalError: local variable 'exact_results' referenced before assignment
+2012-04-20 20:34:54,862 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:34:58,200 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:34:58,200 INFO Advertised settings.
+2012-04-20 20:34:58,200 DEBUG waiting for message length
+2012-04-20 20:34:58,200 DEBUG waiting for 141 more chars
+2012-04-20 20:34:58,200 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:58,200 DEBUG waiting for message length
+2012-04-20 20:34:58,200 DEBUG waiting for 141 more chars
+2012-04-20 20:34:58,201 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:34:58,201 DEBUG waiting for message length
+2012-04-20 20:34:58,499 DEBUG waiting for 135 more chars
+2012-04-20 20:34:58,499 DEBUG searching for for {'track': 'Spoonful - Single Version', 'qid': '48e36a12-1a3a-42ae-8b4f-d5c6d36e34b7', '_msgtype': 'rq', 'artist': "Howlin' Wolf"}
+2012-04-20 20:34:58,500 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 58, in search_for_track
+    songs_by_artist = songs_by_name_artist[song_name]
+KeyError: 'spoonful'
+2012-04-20 20:37:05,259 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:37:09,134 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:37:09,134 INFO Advertised settings.
+2012-04-20 20:37:09,134 DEBUG waiting for message length
+2012-04-20 20:37:09,135 DEBUG waiting for 141 more chars
+2012-04-20 20:37:09,135 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:09,135 DEBUG waiting for message length
+2012-04-20 20:37:09,315 DEBUG waiting for 131 more chars
+2012-04-20 20:37:09,315 DEBUG searching for for {'track': 'Your Untouchable Face', 'qid': '20907636-50e2-411c-8b63-e013d679ca89', '_msgtype': 'rq', 'artist': 'Ani DiFranco'}
+2012-04-20 20:37:09,316 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 66, in search_for_track
+    if exact_results:
+UnboundLocalError: local variable 'exact_results' referenced before assignment
+2012-04-20 20:37:10,055 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:37:13,595 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:37:13,598 INFO Advertised settings.
+2012-04-20 20:37:13,598 DEBUG waiting for message length
+2012-04-20 20:37:13,598 DEBUG waiting for 141 more chars
+2012-04-20 20:37:13,598 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:13,598 DEBUG waiting for message length
+2012-04-20 20:37:13,598 DEBUG waiting for 141 more chars
+2012-04-20 20:37:13,599 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:13,599 DEBUG waiting for message length
+2012-04-20 20:37:13,971 DEBUG waiting for 115 more chars
+2012-04-20 20:37:13,973 DEBUG searching for for {'track': 'Alreet', 'qid': 'd35a4ad0-237a-44a8-a22b-cd699de9ae02', '_msgtype': 'rq', 'artist': "ANITA O'DAY"}
+2012-04-20 20:37:13,973 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 66, in search_for_track
+    if exact_results:
+UnboundLocalError: local variable 'exact_results' referenced before assignment
+2012-04-20 20:37:15,349 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:37:18,815 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:37:18,815 INFO Advertised settings.
+2012-04-20 20:37:18,815 DEBUG waiting for message length
+2012-04-20 20:37:18,816 DEBUG waiting for 131 more chars
+2012-04-20 20:37:18,816 DEBUG searching for for {'track': 'Your Untouchable Face', 'qid': '20907636-50e2-411c-8b63-e013d679ca89', '_msgtype': 'rq', 'artist': 'Ani DiFranco'}
+2012-04-20 20:37:18,818 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 66, in search_for_track
+    if exact_results:
+UnboundLocalError: local variable 'exact_results' referenced before assignment
+2012-04-20 20:37:20,072 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:37:22,910 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:37:22,911 INFO Advertised settings.
+2012-04-20 20:37:22,911 DEBUG waiting for message length
+2012-04-20 20:37:22,911 DEBUG waiting for 141 more chars
+2012-04-20 20:37:22,911 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:22,911 DEBUG waiting for message length
+2012-04-20 20:37:22,911 DEBUG waiting for 141 more chars
+2012-04-20 20:37:22,913 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:22,913 DEBUG waiting for message length
+2012-04-20 20:37:23,698 DEBUG waiting for 131 more chars
+2012-04-20 20:37:23,700 DEBUG searching for for {'track': 'Your Untouchable Face', 'qid': '20907636-50e2-411c-8b63-e013d679ca89', '_msgtype': 'rq', 'artist': 'Ani DiFranco'}
+2012-04-20 20:37:23,700 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 66, in search_for_track
+    if exact_results:
+UnboundLocalError: local variable 'exact_results' referenced before assignment
+2012-04-20 20:37:24,451 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:37:27,565 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:37:27,565 INFO Advertised settings.
+2012-04-20 20:37:27,565 DEBUG waiting for message length
+2012-04-20 20:37:27,565 DEBUG waiting for 141 more chars
+2012-04-20 20:37:27,566 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:27,566 DEBUG waiting for message length
+2012-04-20 20:37:27,568 DEBUG waiting for 141 more chars
+2012-04-20 20:37:27,569 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:27,569 DEBUG waiting for message length
+2012-04-20 20:37:28,259 DEBUG waiting for 131 more chars
+2012-04-20 20:37:28,259 DEBUG searching for for {'track': 'Your Untouchable Face', 'qid': '20907636-50e2-411c-8b63-e013d679ca89', '_msgtype': 'rq', 'artist': 'Ani DiFranco'}
+2012-04-20 20:37:28,259 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 66, in search_for_track
+    if exact_results:
+UnboundLocalError: local variable 'exact_results' referenced before assignment
+2012-04-20 20:37:29,115 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:37:32,138 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:37:32,138 INFO Advertised settings.
+2012-04-20 20:37:32,138 DEBUG waiting for message length
+2012-04-20 20:37:32,138 DEBUG waiting for 141 more chars
+2012-04-20 20:37:32,140 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:32,140 DEBUG waiting for message length
+2012-04-20 20:37:32,140 DEBUG waiting for 141 more chars
+2012-04-20 20:37:32,140 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:32,141 DEBUG waiting for message length
+2012-04-20 20:37:33,076 DEBUG waiting for 123 more chars
+2012-04-20 20:37:33,078 DEBUG searching for for {'track': 'victor_52261_B', 'qid': '4058efae-264e-4ca1-80c0-594fb4d632b2', '_msgtype': 'rq', 'artist': 'FATS WALLER'}
+2012-04-20 20:37:33,078 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 66, in search_for_track
+    if exact_results:
+UnboundLocalError: local variable 'exact_results' referenced before assignment
+2012-04-20 20:37:33,832 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:37:36,815 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:37:36,815 INFO Advertised settings.
+2012-04-20 20:37:36,815 DEBUG waiting for message length
+2012-04-20 20:37:36,815 DEBUG waiting for 141 more chars
+2012-04-20 20:37:36,816 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:36,816 DEBUG waiting for message length
+2012-04-20 20:37:36,822 DEBUG waiting for 141 more chars
+2012-04-20 20:37:36,822 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:36,822 DEBUG waiting for message length
+2012-04-20 20:37:37,375 DEBUG waiting for 123 more chars
+2012-04-20 20:37:37,375 DEBUG searching for for {'track': 'victor_52261_B', 'qid': '4058efae-264e-4ca1-80c0-594fb4d632b2', '_msgtype': 'rq', 'artist': 'FATS WALLER'}
+2012-04-20 20:37:37,375 ERROR something went wrong
+Traceback (most recent call last):
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 144, in <module>
+    search_for_track(request, print_json)
+  File "C:/Users/alsuren/src/libspotify/examples/spshell/win32/playlists/jol_resolver.py", line 66, in search_for_track
+    if exact_results:
+UnboundLocalError: local variable 'exact_results' referenced before assignment
+2012-04-20 20:37:38,213 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:37:41,832 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:37:41,832 INFO Advertised settings.
+2012-04-20 20:37:41,832 DEBUG waiting for message length
+2012-04-20 20:37:41,832 DEBUG waiting for 141 more chars
+2012-04-20 20:37:41,832 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:41,832 DEBUG waiting for message length
+2012-04-20 20:37:41,834 DEBUG waiting for 141 more chars
+2012-04-20 20:37:41,834 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:37:41,834 DEBUG waiting for message length
+2012-04-20 20:37:42,391 DEBUG waiting for 131 more chars
+2012-04-20 20:37:42,391 DEBUG searching for for {'track': 'Your Untouchable Face', 'qid': '20907636-50e2-411c-8b63-e013d679ca89', '_msgtype': 'rq', 'artist': 'Ani DiFranco'}
+2012-04-20 20:37:42,391 DEBUG {'track': 'Your Untouchable Face', 'qid': '20907636-50e2-411c-8b63-e013d679ca89', '_msgtype': 'rq', 'artist': 'Ani DiFranco'} produced no results
+2012-04-20 20:37:42,391 DEBUG waiting for message length
+2012-04-20 20:37:42,392 DEBUG waiting for 123 more chars
+2012-04-20 20:37:42,392 DEBUG searching for for {'track': 'victor_52261_B', 'qid': '4058efae-264e-4ca1-80c0-594fb4d632b2', '_msgtype': 'rq', 'artist': 'FATS WALLER'}
+2012-04-20 20:37:42,392 DEBUG {'track': 'victor_52261_B', 'qid': '4058efae-264e-4ca1-80c0-594fb4d632b2', '_msgtype': 'rq', 'artist': 'FATS WALLER'} produced no results
+2012-04-20 20:37:42,392 DEBUG waiting for message length
+2012-04-20 20:38:16,203 INFO Started in c:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:38:18,934 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:38:18,934 INFO Advertised settings.
+2012-04-20 20:38:18,934 DEBUG waiting for message length
+2012-04-20 20:38:18,947 DEBUG waiting for 101 more chars
+2012-04-20 20:38:18,948 DEBUG searching for for {'track': 'spring cleaning', 'qid': '123456789', '_msgtype': 'rq', 'artist': 'fats sdgsdsergsfvsdfg'}
+2012-04-20 20:38:18,948 DEBUG {'track': 'spring cleaning', 'qid': '123456789', '_msgtype': 'rq', 'artist': 'fats sdgsdsergsfvsdfg'} produced no results
+2012-04-20 20:38:18,948 DEBUG waiting for message length
+2012-04-20 20:43:58,092 INFO Started in c:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:44:00,763 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:44:00,763 INFO Advertised settings.
+2012-04-20 20:44:00,765 DEBUG waiting for message length
+2012-04-20 20:44:00,776 DEBUG waiting for 91 more chars
+2012-04-20 20:44:00,776 DEBUG searching for for {'track': 'spring cleaning', 'qid': '123456789', '_msgtype': 'rq', 'artist': 'fats waller'}
+2012-04-20 20:44:00,778 DEBUG responding {"qid": "123456789", "results": [{"source": "jazz-on-line.com", "track": "Spring Cleaning", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3c/VIC06418-1.mp3", "score": 1, "artist": "Fats Waller And His Rhythm"}], "_msgtype": "results"}
+2012-04-20 20:44:00,778 DEBUG waiting for message length
+2012-04-20 20:44:00,855 DEBUG No length given (''). Exiting.
+2012-04-20 20:44:22,204 INFO Started in c:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:44:24,792 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:44:24,792 INFO Advertised settings.
+2012-04-20 20:44:24,792 DEBUG waiting for message length
+2012-04-20 20:44:24,806 DEBUG waiting for 102 more chars
+2012-04-20 20:44:24,808 DEBUG searching for for {'track': 'spring cleaningwewsefvsref', 'qid': '123456789', '_msgtype': 'rq', 'artist': 'fats waller'}
+2012-04-20 20:44:24,808 DEBUG {'track': 'spring cleaningwewsefvsref', 'qid': '123456789', '_msgtype': 'rq', 'artist': 'fats waller'} produced no results
+2012-04-20 20:44:24,808 DEBUG waiting for message length
+2012-04-20 20:44:54,819 INFO Started in C:\Users\alsuren\src\libspotify\examples\spshell\win32\playlists
+2012-04-20 20:44:59,157 DEBUG responding {"targettime": 100, "weight": 80, "name": "jazz-on-line resolver", "_msgtype": "settings"}
+2012-04-20 20:44:59,158 INFO Advertised settings.
+2012-04-20 20:44:59,158 DEBUG waiting for message length
+2012-04-20 20:44:59,158 DEBUG waiting for 141 more chars
+2012-04-20 20:44:59,160 DEBUG ignoring config message: {'proxyport': 0, 'proxytype': 'none', '_msgtype': 'config', 'proxyuser': '', 'proxypass': '', 'noproxyhosts': [], 'proxyhost': ''}
+2012-04-20 20:44:59,160 DEBUG waiting for message length
+2012-04-20 20:44:59,739 DEBUG waiting for 131 more chars
+2012-04-20 20:44:59,740 DEBUG searching for for {'track': 'Your Untouchable Face', 'qid': '6aa555e0-caa8-4fab-bf2f-80250873dcd7', '_msgtype': 'rq', 'artist': 'Ani DiFranco'}
+2012-04-20 20:44:59,740 DEBUG {'track': 'Your Untouchable Face', 'qid': '6aa555e0-caa8-4fab-bf2f-80250873dcd7', '_msgtype': 'rq', 'artist': 'Ani DiFranco'} produced no results
+2012-04-20 20:44:59,740 DEBUG waiting for message length
+2012-04-20 20:44:59,740 DEBUG waiting for 123 more chars
+2012-04-20 20:44:59,740 DEBUG searching for for {'track': 'victor_52261_B', 'qid': '5dd8c487-bbb5-4b12-bc27-378f51509841', '_msgtype': 'rq', 'artist': 'FATS WALLER'}
+2012-04-20 20:44:59,740 DEBUG {'track': 'victor_52261_B', 'qid': '5dd8c487-bbb5-4b12-bc27-378f51509841', '_msgtype': 'rq', 'artist': 'FATS WALLER'} produced no results
+2012-04-20 20:44:59,740 DEBUG waiting for message length
+2012-04-20 20:45:00,533 DEBUG waiting for 115 more chars
+2012-04-20 20:45:00,533 DEBUG searching for for {'track': 'Alreet', 'qid': 'c03a7ba9-441a-4017-90e4-3d9dfc7c17d7', '_msgtype': 'rq', 'artist': "ANITA O'DAY"}
+2012-04-20 20:45:00,535 DEBUG {'track': 'Alreet', 'qid': 'c03a7ba9-441a-4017-90e4-3d9dfc7c17d7', '_msgtype': 'rq', 'artist': "ANITA O'DAY"} produced no results
+2012-04-20 20:45:00,535 DEBUG waiting for message length
+2012-04-20 20:45:01,690 DEBUG waiting for 127 more chars
+2012-04-20 20:45:01,690 DEBUG searching for for {'track': 'Egyptian Fantasy', 'qid': 'ec5ba573-7a62-4a1a-96b0-d6fa831ea5e6', '_msgtype': 'rq', 'artist': 'Sidney Bechet'}
+2012-04-20 20:45:01,690 DEBUG {'track': 'Egyptian Fantasy', 'qid': 'ec5ba573-7a62-4a1a-96b0-d6fa831ea5e6', '_msgtype': 'rq', 'artist': 'Sidney Bechet'} produced no results
+2012-04-20 20:45:01,690 DEBUG waiting for message length
+2012-04-20 20:45:03,003 DEBUG waiting for 135 more chars
+2012-04-20 20:45:03,003 DEBUG searching for for {'track': 'Spoonful - Single Version', 'qid': '68551e56-5823-4019-9aec-bc3c9fa3b7bf', '_msgtype': 'rq', 'artist': "Howlin' Wolf"}
+2012-04-20 20:45:03,005 DEBUG {'track': 'Spoonful - Single Version', 'qid': '68551e56-5823-4019-9aec-bc3c9fa3b7bf', '_msgtype': 'rq', 'artist': "Howlin' Wolf"} produced no results
+2012-04-20 20:45:03,005 DEBUG waiting for message length
+2012-04-20 20:45:03,815 DEBUG waiting for 118 more chars
+2012-04-20 20:45:03,815 DEBUG searching for for {'track': 'Opus No. 1', 'qid': '742f8f82-cd18-417c-9c2f-277667f511c3', '_msgtype': 'rq', 'artist': 'Gene Krupa'}
+2012-04-20 20:45:03,815 DEBUG responding {"qid": "742f8f82-cd18-417c-9c2f-277667f511c3", "results": [{"source": "jazz-on-line.com", "track": "Opus No. 1", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3c/COLCO35110.mp3", "score": 1, "artist": "Gene Krupa & His Orch"}, {"source": "jazz-on-line.com", "track": "Opus No. 1", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3t/TS481109.mp3", "score": 1, "artist": "Gene Krupa Orch. Feat. Anita O'day"}], "_msgtype": "results"}
+2012-04-20 20:45:03,815 DEBUG waiting for message length
+2012-04-20 20:45:04,917 DEBUG waiting for 125 more chars
+2012-04-20 20:45:04,917 DEBUG searching for for {'track': 'Lavender Coffin', 'qid': '85e893c2-c01c-48d0-8c0f-ce90472d1c48', '_msgtype': 'rq', 'artist': 'Sonny Parker'}
+2012-04-20 20:45:04,917 DEBUG {'track': 'Lavender Coffin', 'qid': '85e893c2-c01c-48d0-8c0f-ce90472d1c48', '_msgtype': 'rq', 'artist': 'Sonny Parker'} produced no results
+2012-04-20 20:45:04,917 DEBUG waiting for message length
+2012-04-20 20:45:05,321 DEBUG waiting for 125 more chars
+2012-04-20 20:45:05,321 DEBUG searching for for {'track': 'Lavender Coffin', 'qid': '70364549-2e72-4dae-8f26-5c387c3dc436', '_msgtype': 'rq', 'artist': 'Sonny Parker'}
+2012-04-20 20:45:05,322 DEBUG {'track': 'Lavender Coffin', 'qid': '70364549-2e72-4dae-8f26-5c387c3dc436', '_msgtype': 'rq', 'artist': 'Sonny Parker'} produced no results
+2012-04-20 20:45:05,322 DEBUG waiting for message length
+2012-04-20 20:45:07,766 DEBUG waiting for 134 more chars
+2012-04-20 20:45:07,766 DEBUG searching for for {'track': 'Shoot the Sherbert to Me', 'qid': '9e2e6d01-b47b-46dd-a321-5268eb7e7f58', '_msgtype': 'rq', 'artist': 'Tommy Dorsey'}
+2012-04-20 20:45:07,767 DEBUG {'track': 'Shoot the Sherbert to Me', 'qid': '9e2e6d01-b47b-46dd-a321-5268eb7e7f58', '_msgtype': 'rq', 'artist': 'Tommy Dorsey'} produced no results
+2012-04-20 20:45:07,767 DEBUG waiting for message length
+2012-04-20 20:45:08,884 DEBUG waiting for 132 more chars
+2012-04-20 20:45:08,884 DEBUG searching for for {'track': 'Love Me Or Leave Me', 'qid': '4cfc5237-ef49-4920-bcc8-a997139a3dd0', '_msgtype': 'rq', 'artist': 'Sammy Davis Jr.'}
+2012-04-20 20:45:08,884 DEBUG responding {"qid": "4cfc5237-ef49-4920-bcc8-a997139a3dd0", "results": [{"source": "jazz-on-line.com", "track": "Love Me Or Leave Me", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3w/1955_084.mp3", "score": 1, "artist": "Sammy Davis Jr."}], "_msgtype": "results"}
+2012-04-20 20:45:08,884 DEBUG waiting for message length
+2012-04-20 20:45:10,286 DEBUG waiting for 130 more chars
+2012-04-20 20:45:10,286 DEBUG searching for for {'track': 'For Dancers Only', 'qid': 'a63c4f9c-bf3d-40ea-bb13-2eaac42452fe', '_msgtype': 'rq', 'artist': 'Jimmie Lunceford'}
+2012-04-20 20:45:10,286 DEBUG responding {"qid": "a63c4f9c-bf3d-40ea-bb13-2eaac42452fe", "results": [{"source": "jazz-on-line.com", "track": "For Dancers Only", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3w/1937_123.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orchestra"}, {"source": "jazz-on-line.com", "track": "For Dancers Only", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3o/DEC62263.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orch"}, {"source": "jazz-on-line.com", "track": "For Dancers Only", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3d/Dec62263-A.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orchestra"}, {"source": "jazz-on-line.com", "track": "For Dancers Only", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3e/V-D355B1.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orchestra"}, {"source": "jazz-on-line.com", "track": "For Dancers Only", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3d/V-DVP-1598a.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orchestra"}], "_msgtype": "results"}
+2012-04-20 20:45:10,288 DEBUG waiting for message length
+2012-04-20 20:45:10,721 DEBUG waiting for 142 more chars
+2012-04-20 20:45:10,721 DEBUG searching for for {'track': 'On Revival Day - Mono LP Version', 'qid': 'ef99c8b6-72ac-45a0-b06f-a73e321bf428', '_msgtype': 'rq', 'artist': 'LaVern Baker'}
+2012-04-20 20:45:10,723 DEBUG {'track': 'On Revival Day - Mono LP Version', 'qid': 'ef99c8b6-72ac-45a0-b06f-a73e321bf428', '_msgtype': 'rq', 'artist': 'LaVern Baker'} produced no results
+2012-04-20 20:45:10,723 DEBUG waiting for message length
+2012-04-20 20:45:10,880 DEBUG waiting for 132 more chars
+2012-04-20 20:45:10,880 DEBUG searching for for {'track': "Tain't What You Do", 'qid': '9533b3a7-74a9-4db8-8534-9e989028130c', '_msgtype': 'rq', 'artist': 'Jimmie Lunceford'}
+2012-04-20 20:45:10,881 DEBUG responding {"qid": "9533b3a7-74a9-4db8-8534-9e989028130c", "results": [{"source": "jazz-on-line.com", "track": "Tain't What You Do", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3a/CBS23905.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orch"}, {"source": "jazz-on-line.com", "track": "'tain't What You Do (it's The Way That You Do It)", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3d/Oke23905-1.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orchestra"}], "_msgtype": "results"}
+2012-04-20 20:45:10,882 DEBUG waiting for message length
+2012-04-20 20:45:11,875 DEBUG waiting for 142 more chars
+2012-04-20 20:45:11,875 DEBUG searching for for {'track': 'Joshua Fit De Battle Of Jericho', 'qid': '0d1c0823-dd2b-4887-8d86-7927b1736c36', '_msgtype': 'rq', 'artist': 'Sidney Bechet'}
+2012-04-20 20:45:11,875 DEBUG {'track': 'Joshua Fit De Battle Of Jericho', 'qid': '0d1c0823-dd2b-4887-8d86-7927b1736c36', '_msgtype': 'rq', 'artist': 'Sidney Bechet'} produced no results
+2012-04-20 20:45:11,877 DEBUG waiting for message length
+2012-04-20 20:45:12,200 DEBUG waiting for 148 more chars
+2012-04-20 20:45:12,200 DEBUG searching for for {'track': "(Hep-Hep!) The Jumpin' Jive (07-17-39)", 'qid': '13b0019e-7fcb-476c-988f-19e9af028087', '_msgtype': 'rq', 'artist': 'Cab Calloway'}
+2012-04-20 20:45:12,200 DEBUG {'track': "(Hep-Hep!) The Jumpin' Jive (07-17-39)", 'qid': '13b0019e-7fcb-476c-988f-19e9af028087', '_msgtype': 'rq', 'artist': 'Cab Calloway'} produced no results
+2012-04-20 20:45:12,200 DEBUG waiting for message length
+2012-04-20 20:45:13,621 DEBUG waiting for 140 more chars
+2012-04-20 20:45:13,621 DEBUG searching for for {'track': "Choo-Choo Ch'boogie - Original", 'qid': '69ff9662-76a0-40a8-96c5-3d36efca913f', '_msgtype': 'rq', 'artist': 'Louis Jordan'}
+2012-04-20 20:45:13,621 DEBUG {'track': "Choo-Choo Ch'boogie - Original", 'qid': '69ff9662-76a0-40a8-96c5-3d36efca913f', '_msgtype': 'rq', 'artist': 'Louis Jordan'} produced no results
+2012-04-20 20:45:13,621 DEBUG waiting for message length
+2012-04-20 20:45:16,555 DEBUG waiting for 137 more chars
+2012-04-20 20:45:16,556 DEBUG searching for for {'track': 'Intermission Riff (01-14-46)', 'qid': '7a0ffc0c-5095-4b23-b063-0f671513b29f', '_msgtype': 'rq', 'artist': 'Stan Kenton'}
+2012-04-20 20:45:16,556 DEBUG responding {"qid": "7a0ffc0c-5095-4b23-b063-0f671513b29f", "results": [{"source": "jazz-on-line.com", "track": "Intermission Riff", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3a/CAP892-2R.mp3", "score": 1, "artist": "Stan Kenton And His Orch"}], "_msgtype": "results"}
+2012-04-20 20:45:16,556 DEBUG waiting for message length
+2012-04-20 20:45:17,697 DEBUG waiting for 123 more chars
+2012-04-20 20:45:17,697 DEBUG searching for for {'track': 'Flying Home', 'qid': '5e6dc0db-de0c-4664-9244-7e2eab932114', '_msgtype': 'rq', 'artist': 'Charlie Barnet'}
+2012-04-20 20:45:17,697 DEBUG responding {"qid": "5e6dc0db-de0c-4664-9244-7e2eab932114", "results": [{"source": "jazz-on-line.com", "track": "Flying Home", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3c/BLU050620.mp3", "score": 1, "artist": "Charlie Barnet & His Orch"}, {"source": "jazz-on-line.com", "track": "Flying Home", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3r/RiBLU10794.mp3", "score": 1, "artist": "Charlie Barnet & His Orchestra"}], "_msgtype": "results"}
+2012-04-20 20:45:17,697 DEBUG waiting for message length
+2012-04-20 20:45:17,803 DEBUG waiting for 125 more chars
+2012-04-20 20:45:17,803 DEBUG searching for for {'track': 'Redskin Rumba', 'qid': 'ccb84eed-2dfb-401b-962f-593ac64b09da', '_msgtype': 'rq', 'artist': 'Charlie Barnet'}
+2012-04-20 20:45:17,805 DEBUG {'track': 'Redskin Rumba', 'qid': 'ccb84eed-2dfb-401b-962f-593ac64b09da', '_msgtype': 'rq', 'artist': 'Charlie Barnet'} produced no results
+2012-04-20 20:45:17,805 DEBUG waiting for message length
+2012-04-20 20:45:18,805 DEBUG waiting for 116 more chars
+2012-04-20 20:45:18,805 DEBUG searching for for {'track': 'Leap Frog', 'qid': 'de34ae19-7df7-4577-8580-6d4fea92b5d7', '_msgtype': 'rq', 'artist': 'Les Brown'}
+2012-04-20 20:45:18,806 DEBUG responding {"qid": "de34ae19-7df7-4577-8580-6d4fea92b5d7", "results": [{"source": "jazz-on-line.com", "track": "Leap Frog", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3a/COLCO34716.mp3", "score": 1, "artist": "Les Brown's Band Of Reknown"}], "_msgtype": "results"}
+2012-04-20 20:45:18,806 DEBUG waiting for message length
+2012-04-20 20:45:18,806 DEBUG waiting for 119 more chars
+2012-04-20 20:45:18,806 DEBUG searching for for {'track': 'Posin', 'qid': '05076ab6-8969-4c3e-84f1-c52ec356b307', '_msgtype': 'rq', 'artist': 'Jimmie Lunceford'}
+2012-04-20 20:45:18,808 DEBUG responding {"qid": "05076ab6-8969-4c3e-84f1-c52ec356b307", "results": [{"source": "jazz-on-line.com", "track": "Posin'", "mimetime": "audio/mpeg", "url": "http://www.jazz-on-line.com/a/mp3d/Dec62344-A.mp3", "score": 1, "artist": "Jimmie Lunceford And His Orchestra"}], "_msgtype": "results"}
+2012-04-20 20:45:18,808 DEBUG waiting for message length
+2012-04-20 20:45:19,023 DEBUG waiting for 125 more chars
+2012-04-20 20:45:19,023 DEBUG searching for for {'track': 'Quiet Whiskey', 'qid': '9324219b-9528-4c81-9397-edf2839c11ba', '_msgtype': 'rq', 'artist': 'Wynonie Harris'}
+2012-04-20 20:45:19,023 DEBUG {'track': 'Quiet Whiskey', 'qid': '9324219b-9528-4c81-9397-edf2839c11ba', '_msgtype': 'rq', 'artist': 'Wynonie Harris'} produced no results
+2012-04-20 20:45:19,023 DEBUG waiting for message length

@@ -2,9 +2,10 @@
 "http_link": "http://open.spotify.com/user/noemissima/playlist/1T225xq6T358HCwoix5xKd",
 "spotify_link": "spotify:user:noemissima:playlist:1T225xq6T358HCwoix5xKd",
 "songs": [
+{"name": "Artichaut", "artists": ["Chinese Man"], "album": "The Groove Sessions Vol. 1: 2004-2007", "duration": 267000, "link": "spotify:track:1kPqYrb1Kc9NvKbd9JaRMO"},
 {"name": "Kje si Lubi?", "artists": ["Manouche"], "album": "Kje si Lubi?", "duration": 188000, "link": "spotify:track:1AY1D6b4g8fVuQStVOTVqt"},
-{"name": "Minor Swing (John Beltran's Remember New Orleans Mix)", "artists": ["Django Reinhardt"], "album": "Music For Mad Men - Swingin' Jazz", "duration": 266000, "link": "spotify:track:6lFggfls5eohHxdC5s5x8l"},
 {"name": "On the Downbeat", "artists": ["Swing Republic", "Bing Crosby"], "album": "Electro Swing Republic", "duration": 212000, "link": "spotify:track:7053IZwHsbhHUNYld2IpxQ"},
+{"name": "Minor Swing (John Beltran's Remember New Orleans Mix)", "artists": ["Django Reinhardt"], "album": "Music For Mad Men - Swingin' Jazz", "duration": 266000, "link": "spotify:track:6lFggfls5eohHxdC5s5x8l"},
 {"name": "I'm Leaving", "artists": ["Swing Republic", "Woody Herman and His Orchestra"], "album": "Electro Swing Republic", "duration": 227000, "link": "spotify:track:02FtkhM4z3p5IFSVbzzTq7"},
 {"name": "Peas and Rice", "artists": ["Swing Republic", "Count Basie", "Jimmy Rushing"], "album": "Electro Swing Republic", "duration": 193000, "link": "spotify:track:07wPMeY3rPByljMmIHdVJ9"},
 {"name": "Dragons", "artists": ["Caravan Palace"], "album": "Caravan Palace", "duration": 246000, "link": "spotify:track:6JMZJUyjquUbx3X7tRqMLt"},
@@ -16,7 +17,6 @@
 {"name": "Bambous", "artists": ["Caravan Palace"], "album": "Caravan Palace", "duration": 195000, "link": "spotify:track:3UQ4lYxFMVf31oLCkhI8dB"},
 {"name": "La Caravane", "artists": ["Caravan Palace"], "album": "Caravan Palace", "duration": 305000, "link": "spotify:track:2CsmW30KsyyKCXdksFj2cF"},
 {"name": "I've Got That Tune", "artists": ["Chinese Man"], "album": "The Groove Sessions Vol. 1: 2004-2007", "duration": 270000, "link": "spotify:track:6ZOeDXutLpSGqA1sSL6LrL"},
-{"name": "Artichaut", "artists": ["Chinese Man"], "album": "The Groove Sessions Vol. 1: 2004-2007", "duration": 267000, "link": "spotify:track:1kPqYrb1Kc9NvKbd9JaRMO"},
 {"name": "Sing With A Swing - A New Thing Radio Mix", "artists": ["DKS"], "album": "Tonterias Las Justas", "duration": 200000, "link": "spotify:track:50QJeILELymynrNtWVwVTJ"},
 {"name": "Box Of Secrets", "artists": ["Zarif"], "album": "The Electro Swing Revolution Vol. 2", "duration": 220000, "link": "spotify:track:5D0xJ2qjMca7zkhCBvJ24o"},
 {"name": "Booty Swing - Original", "artists": ["Parov Stelar"], "album": "The Electro Swing Revolution Vol. 2", "duration": 196000, "link": "spotify:track:3JORxqvchEuFYyKuQbRv4V"},
@@ -156,4 +156,5 @@
 {"name": "Mambo De Paree", "artists": ["Eartha Kitt"], "album": "Burlesque Lounge 2", "duration": 174000, "link": "spotify:track:4e2C53GNfYh53hkgrs7PTg"},
 {"name": "I Shouldn't I Wouldn't", "artists": ["Jojo Effect"], "album": "Burlesque Lounge 2", "duration": 227000, "link": "spotify:track:4HgJuWZmmRfynPUUWRojSw"},
 {"name": "I miss you", "artists": ["Velada Project"], "album": "Burlesque Lounge 2", "duration": 366000, "link": "spotify:track:4ygbyCqcVNPdMOzkQiMe69"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:15KHOhZTNh7bGogTgLNTZh"},
 ]}

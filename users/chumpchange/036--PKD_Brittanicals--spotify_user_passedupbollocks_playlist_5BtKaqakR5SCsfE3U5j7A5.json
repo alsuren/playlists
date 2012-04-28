@@ -3,7 +3,7 @@
 "spotify_link": "spotify:user:passedupbollocks:playlist:5BtKaqakR5SCsfE3U5j7A5",
 "songs": [
 {"name": "All Day And All Of The Night", "artists": ["The Kinks"], "album": "The Singles Collection", "duration": 142000, "link": "spotify:track:0rDPgBLRNgOionDMHWLODv"},
-{"name": "A Message To You Rudy", "artists": ["The Specials"], "album": "The Best Of The Specials", "duration": 173000, "link": "spotify:track:2EwEtZrsBpjLmwhe7GCGhs"},
+{"name": "A Message To You Rudy - 2002 Remaster", "artists": ["The Specials"], "album": "The Best Of The Specials", "duration": 173000, "link": "spotify:track:2EwEtZrsBpjLmwhe7GCGhs"},
 {"name": "Mirror In The Bathroom", "artists": ["The Beat / The English Beat (USA)"], "album": "I Just Can't Stop It", "duration": 191000, "link": "spotify:track:0zsiQnaF5NOA2VsF5NpN37"},
 {"name": "There There My Dear", "artists": ["Dexy's Midnight Runners"], "album": "Searching For The Young Soul Rebels", "duration": 211000, "link": "spotify:track:7sZa3zvNoLZI76DNhxCbeD"},
 {"name": "Up The Junction", "artists": ["Squeeze"], "album": "Greatest Hits", "duration": 190000, "link": "spotify:track:1zWLu0Glg7glW6ulCfDbeN"},
@@ -17,7 +17,7 @@
 {"name": "Monkey Man", "artists": ["The Specials"], "album": "The Specials", "duration": 165000, "link": "spotify:track:3ZUQDwdyRof8jEiVdhvvnL"},
 {"name": "Should I Stay Or Should I Go", "artists": ["The Clash"], "album": "London Calling / Combat Rock", "duration": 188000, "link": "spotify:track:4LNOEPVTrNZgTBiZym1n2R"},
 {"name": "Pretty Vacant", "artists": ["Sex Pistols"], "album": "Never Mind The Bollocks, Here Comes The Sex Pistols/Spunk", "duration": 196000, "link": "spotify:track:02AX1umvDtr7A6LEzEG1Ns"},
-{"name": "Geno", "artists": ["Dexy's Midnight Runners"], "album": "Searching For The Young Soul Rebels", "duration": 211000, "link": "spotify:track:7gb626DDDHoiuVAGZEnlJk"},
+{"name": "Geno - 2000 Digital Remaster", "artists": ["Dexy's Midnight Runners"], "album": "Searching For The Young Soul Rebels", "duration": 211000, "link": "spotify:track:7gb626DDDHoiuVAGZEnlJk"},
 {"name": "One Step Beyond", "artists": ["Madness"], "album": "Above And Beyond", "duration": 138000, "link": "spotify:track:6QUOo63GVelaCpRguhKwbT"},
 {"name": "Ghost Town", "artists": ["The Specials"], "album": "Greatest Hits", "duration": 316000, "link": "spotify:track:7iOA86nwA7RF3GwMa93H0v"},
 {"name": "Feelin' Alright?", "artists": ["Traffic"], "album": "Traffic", "duration": 258000, "link": "spotify:track:276ReeOvW0ZbRxhijvWzR0"},
@@ -178,4 +178,5 @@
 {"name": "The Space Between", "artists": ["Roxy Music"], "album": "Avalon", "duration": 270000, "link": "spotify:track:06ru3pzsFPXGZkenlnwt5S"},
 {"name": "Last Train To London", "artists": ["Electric Light Orchestra"], "album": "Light Years: The Very Best Of", "duration": 273000, "link": "spotify:track:4ZnNbbwcDKug29fHBXVUzi"},
 {"name": "Are You A Boy Or Are You A Girl?", "artists": ["The Barbarians"], "album": "Are You A Boy Or Are You A Girl?", "duration": 138000, "link": "spotify:track:4Lw73SYab8PsWNtElKLzCP"},
+{"name": "Rebel Rebel", "artists": ["David Bowie"], "album": "The Best Of David Bowie 1969-74", "duration": 271000, "link": "spotify:track:2E7xOCFlqXGbkCiMgBGbrn"},
 ]}

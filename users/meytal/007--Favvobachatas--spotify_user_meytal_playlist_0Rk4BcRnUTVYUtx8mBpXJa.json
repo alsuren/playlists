@@ -2,9 +2,9 @@
 "http_link": "http://open.spotify.com/user/meytal/playlist/0Rk4BcRnUTVYUtx8mBpXJa",
 "spotify_link": "spotify:user:meytal:playlist:0Rk4BcRnUTVYUtx8mBpXJa",
 "songs": [
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:7lKi5STlphA23HxNp8Zyng"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:3YP0tEWPl2WcpZsKJ7AQdK"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:7cpc9v4MC13AYoxe4aXowG"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:3hauOiCQQ4qXVsdf1ENihe"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2Bhmj4XK33InfhqKPxcJ1v"},
+{"name": "Bachata En Fukuoka", "artists": ["Juan Luis Guerra"], "album": "asondeguerra", "duration": 191000, "link": "spotify:track:7lKi5STlphA23HxNp8Zyng"},
+{"name": "Mi Corazoncito", "artists": ["Aventura"], "album": "Now Latino 3", "duration": 235000, "link": "spotify:track:3YP0tEWPl2WcpZsKJ7AQdK"},
+{"name": "Te Extraño", "artists": ["Xtreme"], "album": "Bachateando 2", "duration": 214000, "link": "spotify:track:7cpc9v4MC13AYoxe4aXowG"},
+{"name": "Un beso", "artists": ["Aventura"], "album": "La Soga Soundtrack", "duration": 261000, "link": "spotify:track:3hauOiCQQ4qXVsdf1ENihe"},
+{"name": "Dile al amor", "artists": ["Aventura"], "album": "The Last", "duration": 229000, "link": "spotify:track:2Bhmj4XK33InfhqKPxcJ1v"},
 ]}

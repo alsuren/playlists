@@ -2,7 +2,7 @@
 "http_link": "http://open.spotify.com/user/samrae/playlist/0OzgeAICAFhuwXV3H3khjv",
 "spotify_link": "spotify:user:samrae:playlist:0OzgeAICAFhuwXV3H3khjv",
 "songs": [
-{"name": "Soukora", "artists": ["Ali Farka Touré", "Ry Cooder"], "album": "World Circuit Presents...", "duration": 363000, "link": "spotify:track:3LCzhgdSkW3dqTmlAdSU3b"},
+{"name": "Soukora", "artists": ["Ali Farka Touré & Ry Cooder"], "album": "World Circuit Presents...", "duration": 363000, "link": "spotify:track:3LCzhgdSkW3dqTmlAdSU3b"},
 {"name": "Me gustas tu", "artists": ["Manu Chao"], "album": "Once Upon a Time in Mexico", "duration": 229000, "link": "spotify:track:7tIzEqfD8SONXtdI5KE9uk"},
 {"name": "Dreamy Days", "artists": ["Roots Manuva"], "album": "Run Come Save Me", "duration": 285000, "link": "spotify:track:2uWOeqmusPoh1MJaSmvXFv"},
 {"name": "Ragged Wood", "artists": ["Fleet Foxes"], "album": "Fleet Foxes", "duration": 307000, "link": "spotify:track:3riUyX19LdMzPfiZKooPNf"},
@@ -24,7 +24,7 @@
 {"name": "Blood Bank", "artists": ["Bon Iver"], "album": "Blood Bank", "duration": 285000, "link": "spotify:track:1tlXPa2eOmj64as5cTLDFY"},
 {"name": "River To The Bank", "artists": ["The Skatalites"], "album": "Essential Skatalites", "duration": 175000, "link": "spotify:track:3biOpB0rBB73R9T8LqiSBk"},
 {"name": "Ragged Wood", "artists": ["Fleet Foxes"], "album": "Fleet Foxes", "duration": 307000, "link": "spotify:track:3riUyX19LdMzPfiZKooPNf"},
-{"name": "I Love To Love", "artists": ["Nina Simone"], "album": "Nina Simone Collection", "duration": 205000, "link": "spotify:track:00zW9huPhamul4I6hVJlbx"},
+{"name": "I Love To Love - 2004 Digital Remaster", "artists": ["Nina Simone"], "album": "Nina Simone Collection", "duration": 205000, "link": "spotify:track:00zW9huPhamul4I6hVJlbx"},
 {"name": "Hey Ya", "artists": ["Obadiah Parker"], "album": "Obadiah Parker Live", "duration": 267000, "link": "spotify:track:0ELVXVHz8aPgwLySfkDn8e"},
 {"name": "Home", "artists": ["Edward Sharpe & The Magnetic Zeros"], "album": "Up From Below", "duration": 306000, "link": "spotify:track:10ViidwjGLCfVtGPfdcszR"},
 {"name": "Chimes At The Meeting - Original", "artists": ["Willie Bryant and His Orchestra"], "album": "Willie Bryant and His Orchestra Selected Favorites", "duration": 180000, "link": "spotify:track:6bWrF9dfrKXn1ujWvrSZRY"},

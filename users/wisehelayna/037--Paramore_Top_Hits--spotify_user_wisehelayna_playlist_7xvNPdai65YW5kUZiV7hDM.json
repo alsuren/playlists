@@ -4,8 +4,8 @@
 "songs": [
 {"name": "Misery Business", "artists": ["Paramore"], "album": "RIOT!", "duration": 212000, "link": "spotify:track:6SpLc7EXZIPpy0sVko0aoU"},
 {"name": "Decode - Twilight Soundtrack Version", "artists": ["Paramore"], "album": "Decode", "duration": 262000, "link": "spotify:track:1mI2M5XtSmGXKTLvL4mcnR"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:6R7ur16TEompB0H089BdD3"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:3VA4sjTMSTTF02hFGmlpJh"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:1JdKrFyoU05abww0Zv0ayQ"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2E59wdcCUh3BAqepSNNMga"},
+{"name": "Ignorance", "artists": ["Paramore"], "album": "Ignorance", "duration": 218000, "link": "spotify:track:6R7ur16TEompB0H089BdD3"},
+{"name": "crushcrushcrush", "artists": ["Paramore"], "album": "RIOT!", "duration": 189000, "link": "spotify:track:3VA4sjTMSTTF02hFGmlpJh"},
+{"name": "That's What You Get", "artists": ["Paramore"], "album": "RIOT!", "duration": 220000, "link": "spotify:track:1JdKrFyoU05abww0Zv0ayQ"},
+{"name": "I Caught Myself - Twilight Soundtrack Version", "artists": ["Paramore"], "album": "Twilight Original Motion Picture Soundtrack", "duration": 235000, "link": "spotify:track:2E59wdcCUh3BAqepSNNMga"},
 ]}

@@ -8,7 +8,7 @@
 {"name": "Jump Session (08-17-38)", "artists": ["Slim Gaillard"], "album": "Complete Jazz Series 1937 - 1938", "duration": 157000, "link": "spotify:track:0l1a5QgUWreryNaPk0h1VI"},
 {"name": "Straighten Up & Fly Right", "artists": ["The Andrews Sisters"], "album": "Gold", "duration": 150000, "link": "spotify:track:0biehze9QiGsh3Yd4O0Wa6"},
 {"name": "T'Ain't No Use (11-05-36)", "artists": ["Benny Goodman"], "album": "Complete Jazz Series 1936 Vol. 2", "duration": 164000, "link": "spotify:track:4JiQJpz0gOodnoeCaajUoj"},
-{"name": "The Glory Of Love", "artists": ["Benny Goodman"], "album": "And Let Me Dance", "duration": 159000, "link": "spotify:track:6HZsqSe2Q3S4BcHt6MiiGq"},
+{"name": "The Glory of Love", "artists": ["Benny Goodman"], "album": "And Let Me Dance", "duration": 159000, "link": "spotify:track:6HZsqSe2Q3S4BcHt6MiiGq"},
 {"name": "When We're Alone", "artists": ["Harry James", "Count Basie"], "album": "Basie Rhythm", "duration": 159000, "link": "spotify:track:4gXJ770dPnJXLNA8qykSn6"},
 {"name": "Bei Mir Bist Du Schoen", "artists": ["The Andrews Sisters"], "album": "The Hits Of The 30's & 40's", "duration": 189000, "link": "spotify:track:5c1Kc1vPr8xEF4BBEFmePw"},
 {"name": "Bob White", "artists": ["Benny Goodman", "Helen Forrest"], "album": "Benny Goodman from A to Z, Vol. 8", "duration": 176000, "link": "spotify:track:5oQfcBQHaTwHu6H1Waopf2"},
@@ -25,7 +25,7 @@
 {"name": "Fit As A Fiddle", "artists": ["Annette Hanshaw"], "album": "Ain't She Sweet", "duration": 186000, "link": "spotify:track:38oEcgvld7L2PPNGel7wfb"},
 {"name": "Flat Foot Floogee", "artists": ["Benny Goodman"], "album": "Benny Goodman - Blue Skies", "duration": 201000, "link": "spotify:track:5ilh3IObI2uEctf7VZhkK4"},
 {"name": "Glory of Love", "artists": ["Bill Broonzy"], "album": "Big Bill Broonzy Sings Folk Songs", "duration": 204000, "link": "spotify:track:0Pyt471NjfRtkIeKIL2oqa"},
-{"name": "Go Fly A Kite", "artists": ["Artie Shaw"], "album": "Jazz Boxset", "duration": 156000, "link": "spotify:track:7drH7ZbqxncHWHCKWOZlV3"},
+{"name": "Go Fly A Kite", "artists": ["James Monaco", "Artie Shaw", "Burke"], "album": "Jazz Boxset", "duration": 156000, "link": "spotify:track:7drH7ZbqxncHWHCKWOZlV3"},
 {"name": "He Ain’t Got Rhythm", "artists": ["Benny Goodman and his Orchestra"], "album": "Big Band - The World’s Greatest Jazz Collection: Vol. 68", "duration": 163000, "link": "spotify:track:5pxRlf4uLgDgt1pQChUTGI"},
 {"name": "How Big Can You Get", "artists": ["Cab Calloway"], "album": "Don't Worry Be Happy Vol. 2", "duration": 229000, "link": "spotify:track:5fB9kEF1NtE1EopKJszsZT"},
 {"name": "Humpty-Dumpty", "artists": ["Slim & Slam"], "album": "Vocal Group Magic", "duration": 146000, "link": "spotify:track:1lnzB5wAQtpxCpEJmhKhqV"},
@@ -41,4 +41,5 @@
 {"name": "Jump Steady (07-29-38)", "artists": ["Al Cooper"], "album": "Complete Jazz Series 1938 - 1941", "duration": 180000, "link": "spotify:track:6e5zuZy4TYVwBIQWZCfoZi"},
 {"name": "Massachusetts", "artists": ["Four Vagabonds"], "album": "Four Vagabonds Vol. 1 (1941-1951)", "duration": 162000, "link": "spotify:track:7lZz9Sfu7MqIsDIPoVhcD4"},
 {"name": "Please Don't Talk About Me When I'm Gone", "artists": ["Stept", "Clare"], "album": "The Washboard Rhythm Kings Collection Vol. 1 - 1931", "duration": 190000, "link": "spotify:track:0SWCiORJfiINFIag3SUFHK"},
+{"name": "Watcha Know, Joe?", "artists": ["Tommy Dorsey With Joe Stafford & The Pied Pipers"], "album": "Jumpin' Jive!", "duration": 206000, "link": "spotify:track:5SQo0oLjl0lRlieLKRlEXm"},
 ]}

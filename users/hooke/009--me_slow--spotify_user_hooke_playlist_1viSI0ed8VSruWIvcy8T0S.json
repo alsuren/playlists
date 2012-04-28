@@ -2,8 +2,8 @@
 "http_link": "http://open.spotify.com/user/hooke/playlist/1viSI0ed8VSruWIvcy8T0S",
 "spotify_link": "spotify:user:hooke:playlist:1viSI0ed8VSruWIvcy8T0S",
 "songs": [
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:28AZM08WStiEXfqN065BvN"},
+{"name": "Everybody Hurts", "artists": ["R.E.M."], "album": "In Time: The Best Of R.E.M., 1988-2003", "duration": 318000, "link": "spotify:track:28AZM08WStiEXfqN065BvN"},
 {"name": "Losing My Religion", "artists": ["R.E.M."], "album": "Out Of Time", "duration": 267000, "link": "spotify:track:4T3hXdHqxmMuPeLueWdYSY"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:3ZffCQKLFLUvYM59XKLbVm"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:7KVFfovbYMG2NXQclk0RM6"},
+{"name": "Wake Me Up When September Ends", "artists": ["Green Day"], "album": "American Idiot", "duration": 286000, "link": "spotify:track:3ZffCQKLFLUvYM59XKLbVm"},
+{"name": "Black Hole Sun", "artists": ["Soundgarden"], "album": "A Sides", "duration": 318000, "link": "spotify:track:7KVFfovbYMG2NXQclk0RM6"},
 ]}

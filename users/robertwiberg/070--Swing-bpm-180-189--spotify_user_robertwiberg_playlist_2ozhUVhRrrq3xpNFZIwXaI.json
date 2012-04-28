@@ -24,7 +24,7 @@
 {"name": "King Porter Stomp", "artists": ["Benny Goodman"], "album": "Anything For You", "duration": 190000, "link": "spotify:track:6pTXHlIRlK5UOEEkCebqae"},
 {"name": "Let's Get Happy", "artists": ["Mildred Bailey", "Dicky Wells"], "album": "All-Star Groups Vol. 2 (1937-39)", "duration": 151000, "link": "spotify:track:5XYHs8xitFUGLB3Wkf3CN9"},
 {"name": "Lulu's Back In Town", "artists": ["The Mills Brothers"], "album": "Swing Is the Thing", "duration": 178000, "link": "spotify:track:6k7BpSAcRxgS2XPnKatCan"},
-{"name": "Memphis Blues", "artists": ["George Wettling"], "album": "WC Handy - Songbook Of The Blues Pt 2", "duration": 192000, "link": "spotify:track:5Efp5DJv4fOnPBSilEbNhu"},
+{"name": "Memphis Blues", "artists": ["Handy", "George Wettling's Dixielanders"], "album": "WC Handy - Songbook Of The Blues Pt 2", "duration": 192000, "link": "spotify:track:5Efp5DJv4fOnPBSilEbNhu"},
 {"name": "Oriental Swing (02-02-38)", "artists": ["Lil Hardin Armstrong"], "album": "Complete Jazz Series 1936 - 1940", "duration": 179000, "link": "spotify:track:3oCMqMOp1vkPARfuvX5VqP"},
 {"name": "Sax-cobble", "artists": ["Various Artists", "Stig Holm", "Olle Sahlin", "Sture Aberg", "Sven Larsson", "Herbert Welander", "Charles Redland", "Erik Tonna Nilsson"], "album": "Swedish Jazz History, Vol. 3 (1937-1939)", "duration": 187000, "link": "spotify:track:0VsbxgBdZ0xILZw94GjqyR"},
 {"name": "Squatty Roo", "artists": ["Chris Barber"], "album": "Echoes Of Ellington", "duration": 295000, "link": "spotify:track:3OXFATeuMS8WoRhoS0iZMq"},
@@ -36,4 +36,6 @@
 {"name": "You've Got Something There", "artists": ["Tempo King"], "album": "Tempo King", "duration": 175000, "link": "spotify:track:34GdO4bCxyathJEgVcxd8P"},
 {"name": "Jivin' With Jarvis", "artists": ["Lionel Hampton"], "album": "Small Combos 1937-1940", "duration": 160000, "link": "spotify:track:3uUvcHpocrOJjdx7v0fGRy"},
 {"name": "Ebb Tide (09-10-37)", "artists": ["Chu Berry"], "album": "Complete Jazz Series 1937 - 1941", "duration": 171000, "link": "spotify:track:6vZ4IOEoKnW8I6qSpvnoRI"},
+{"name": "Dallas Blues", "artists": ["Woody Herman"], "album": "Jumpin' Jive!", "duration": 181000, "link": "spotify:track:5GChOXgDkciVrdKuVkulrB"},
+{"name": "Chris And His Gang", "artists": ["Fletcher Henderson"], "album": "Jumpin' Jive!", "duration": 181000, "link": "spotify:track:6Cl4LnOpEOajuhGhDflI5x"},
 ]}

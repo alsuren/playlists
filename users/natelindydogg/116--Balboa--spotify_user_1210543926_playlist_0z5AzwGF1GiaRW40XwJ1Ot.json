@@ -10,4 +10,10 @@
 {"name": "Carioca", "artists": ["Artie Shaw"], "album": "100 Jazz Classics", "duration": 191000, "link": "spotify:track:2xMa7xRKpaUOlmo8Ao7vSr"},
 {"name": "For Dancers Only", "artists": ["Jimmie Lunceford"], "album": "V-Disc Jazz Essentials", "duration": 149000, "link": "spotify:track:7DEm0bfAvRmofht00katoy"},
 {"name": "Big John's Special - Nur Für Onkel John", "artists": ["Fletcher Henderson"], "album": "Lindy Hop : Swining Dancers!", "duration": 179000, "link": "spotify:track:13CRRh90klSdu56mFEwFiu"},
+{"name": "Moten Swing", "artists": ["Hot Lips Page"], "album": "Collected Classics", "duration": 207000, "link": "spotify:track:7g5aUsPk8Fyk85o3x1ZEDL"},
+{"name": "I Can't Dance", "artists": ["Chick Webb With Taft Jordan"], "album": "Jumpin' Jive!", "duration": 181000, "link": "spotify:track:3qrDCnPNufh8g1CSSvE0Kd"},
+{"name": "Lafayette", "artists": ["Hot Lips Page"], "album": "Archive Of American Popular Music 1934-1945", "duration": 173000, "link": "spotify:track:5KMNgJTSQmP0yGZcftPjda"},
+{"name": "Swingin' The Blues", "artists": ["Count Basie"], "album": "Count Basie 1937-1943", "duration": 163000, "link": "spotify:local:Count+Basie:Count+Basie+1937-1943:Swingin%27+The+Blues:163"},
+{"name": "Diggin' for Dex", "artists": ["Count Basie"], "album": "The King", "duration": 184000, "link": "spotify:track:1VGtYkIqIHtylUwJIQfmyy"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2ZIT4XkVS6bDrBEbe0CJgs"},
 ]}

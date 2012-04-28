@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><playlist xmlns="http://xspf.org/ns/0/" version="0"><trackList>
+	<track>
+		<creator>Lucky Millinder</creator>
+		<title>Apollo Jump</title>
+		<duration>206000</duration>
+		<album>Jumpin' Jive!</album>
+	</track>
+	<track>
+		<creator>Harry James</creator>
+		<title>Music Makers</title>
+		<duration>187000</duration>
+		<album>The Hits Collection 1941</album>
+	</track>
+	<track>
+		<creator>Willie Lewis and His Negro Band</creator>
+		<title>I Can't Dance (I Got Ants In My Pants) - Original</title>
+		<duration>163000</duration>
+		<album>Willie Lewis And His Negro Band Selected Hits Vol. 1</album>
+	</track>
+</trackList></playlist>

@@ -92,7 +92,7 @@
 {"name": "Little Red Corvette", "artists": ["Mike Zito"], "album": "Today", "duration": 234000, "link": "spotify:track:3PTkefWTT3rMkbjVEG5haY"},
 {"name": "What If", "artists": ["Marit Larsen"], "album": "Spark", "duration": 298000, "link": "spotify:track:6zgyCdbFh5VY7jy0vEY4iE"},
 {"name": "One More Time", "artists": ["Chris Medina"], "album": "One More Time", "duration": 246000, "link": "spotify:track:4nAM9i2Ir7RgKWAjm1kOO3"},
-{"name": "Black Out The Sun (Album Version)", "artists": ["Darren Hayes"], "album": "Secret Codes And Battleships", "duration": 250000, "link": "spotify:track:4csmkNMj3EAJi7mUSriDJR"},
+{"name": "Black Out The Sun", "artists": ["Darren Hayes"], "album": "Secret Codes And Battleships", "duration": 250000, "link": "spotify:track:4csmkNMj3EAJi7mUSriDJR"},
 {"name": "Butterfly", "artists": ["Jason Mraz"], "album": "We Sing.  We Dance.  We Steal Things.", "duration": 299000, "link": "spotify:track:095eK5hacN4Y9r7k8TyJ1B"},
 {"name": "Live High", "artists": ["Jason Mraz"], "album": "We Sing.  We Dance.  We Steal Things.", "duration": 252000, "link": "spotify:track:7M2qyNIe1MQoZBkxNGg7Fh"},
 {"name": "Heartbreak Warfare", "artists": ["John Mayer"], "album": "Battle Studies", "duration": 270000, "link": "spotify:track:4gs07VlJST4bdxGbBsXVue"},
@@ -105,4 +105,6 @@
 {"name": "Moves Like Jagger - Studio Recording From The Voice Performance", "artists": ["Maroon 5", "Christina Aguilera"], "album": "Moves Like Jagger", "duration": 201000, "link": "spotify:track:7jEUxosffRXOZ7rNSajygF"},
 {"name": "When I Held Ya", "artists": ["Moa Lignell"], "album": "When I Held Ya", "duration": 210000, "link": "spotify:track:35LnOMFhAYohocg9doalGL"},
 {"name": "Come Back - Light Therapy", "artists": ["Josh Rouse"], "album": "Juke Joint II", "duration": 277000, "link": "spotify:track:4J8oPOJivBAKdsIdNGo9E7"},
+{"name": "Some Die Young", "artists": ["Laleh"], "album": "Sjung", "duration": 228000, "link": "spotify:track:2bfRfAO1RNWcpNtWJv042o"},
+{"name": "Why Start A Fire", "artists": ["Lisa Miskovsky"], "album": "Why Start A Fire", "duration": 182000, "link": "spotify:track:1JeA1NY2YF5FFDng0yPLqy"},
 ]}
