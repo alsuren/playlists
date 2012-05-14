@@ -77,4 +77,6 @@
 {"name": "One O'clock Jump", "artists": ["Count Basie"], "album": "Basie Blues", "duration": 190000, "link": "spotify:track:75Er05xh6mBAMkoPIeafTV"},
 {"name": "'Bout Time", "artists": ["Louis Armstrong"], "album": "Disney Songs The Satchmo Way", "duration": 173000, "link": "spotify:track:7y2nEEmbnpr5RSYOaP0Yd2"},
 {"name": "Flying Home", "artists": ["Charlie Barnet"], "album": "Wicked Swing", "duration": 173000, "link": "spotify:local:Charlie+Barnet:Wicked+Swing:Flying+Home:173"},
+{"name": "Everybody Loves My Baby", "artists": ["Chris Barber"], "album": "Here Is Chris Barber", "duration": 198000, "link": "spotify:track:2Na3zwEPqK5HJvii9Pr86b"},
+{"name": "Fit As A Fiddle", "artists": ["Cafe Accordion Orcherstra"], "album": "Cinema", "duration": 154000, "link": "spotify:track:0FMiXUk22PkvI2gDT7hTMi"},
 ]}

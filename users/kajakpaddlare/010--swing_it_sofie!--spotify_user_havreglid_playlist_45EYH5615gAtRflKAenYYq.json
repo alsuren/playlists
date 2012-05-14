@@ -220,6 +220,7 @@
 {"name": "Dippermouth Blues", "artists": ["Louis Armstrong"], "album": "The Platinum Collection - Louis Armstrong", "duration": 165000, "link": "spotify:track:47V1XGaFAC4sWmStPayDcr"},
 {"name": "Your Mother's Son In Law", "artists": ["Billie Holiday"], "album": "Best Of - Heritage Jazz", "duration": 167000, "link": "spotify:track:0VLBxTA2DFmWnE7cqoVCeL"},
 {"name": "Meet Me At The Corner", "artists": ["Alma Cogan"], "album": "Swing & Jazz Essentials", "duration": 189000, "link": "spotify:track:6Omon357fIicgEyLCo7tOL"},
+{"name": "Communications (12-22-47)", "artists": ["Slim Gaillard"], "album": "Complete Jazz Series 1947 - 1951", "duration": 150000, "link": "spotify:track:4Kq0wSx9fzMZVKtPwWnmHk"},
 {"name": "Christopher Columbus", "artists": ["Benny Goodman"], "album": "25 Jazz Greats, Vol 4", "duration": 178000, "link": "spotify:track:51HKDl56CArG6yqGvueOc7"},
 {"name": "One O'clock Jump", "artists": ["Harry James"], "album": "25 Jazz Greats, Vol 4", "duration": 180000, "link": "spotify:track:3M8ERo5RjwlbA7dMTzkvjb"},
 {"name": "Blue Drag", "artists": ["Washboard Rhythm Kings"], "album": "The Washboard Rhythm Kings Vol. 3 - 1932-1933", "duration": 192000, "link": "spotify:track:7jWb9SO2e87c7MvnmKUzvw"},
@@ -297,7 +298,7 @@
 {"name": "I Hope Gabriel Likes My Music (02-11-36)", "artists": ["Stuff Smith"], "album": "Complete Jazz Series 1936 - 1939", "duration": 166000, "link": "spotify:track:5g3jrwyw84bMAYbrO9Uqux"},
 {"name": "We Cats Will Swing For You", "artists": ["The Cats And The Fiddle"], "album": "We Cats Will Sing For You 1939-1940 Volume 1", "duration": 158000, "link": "spotify:track:6PwsA4S87yINuMTc6RI2E0"},
 {"name": "Mino Swing", "artists": ["Django Reinhardt"], "album": "Best Of - Heritage Jazz", "duration": 197000, "link": "spotify:track:48wqQ8zJwIA9aOEDtefbPp"},
-{"name": "Django's Tiger", "artists": ["Django Reinhardt"], "album": "The Best Of Django Reinhardt", "duration": 159000, "link": "spotify:track:3MC79TErHHp9FODo2ErBQ1"},
+{"name": "Django's Tiger - .", "artists": ["Django Reinhardt"], "album": "The Best Of Django Reinhardt", "duration": 159000, "link": "spotify:track:3MC79TErHHp9FODo2ErBQ1"},
 {"name": "Honeysuckle Rose", "artists": ["Django Reinhardt"], "album": "The Very Best Of 1934-1939", "duration": 176000, "link": "spotify:track:5faMF2V3WYC30F6fymTS93"},
 {"name": "C Jam Blues", "artists": ["Sidney Bechet"], "album": "Basin Street Blues", "duration": 285000, "link": "spotify:track:7EqVYOu2lms5ixxAGQLFh9"},
 {"name": "I Found A New Baby", "artists": ["Sidney Bechet"], "album": "The Best Of Sidney Bechet", "duration": 189000, "link": "spotify:track:666dKdmoRCRcBNY6BwB98J"},
@@ -321,6 +322,5 @@
 {"name": "Tuxedo Junction - 1989 Remastered", "artists": ["Erskine Hawkins & His Orchestra"], "album": "Tuxedo Junction", "duration": 199000, "link": "spotify:track:4P0tQsQvDPnVU6u2NxGQ2m"},
 {"name": "Spår 7", "artists": ["Swing"], "album": "Okänt album (2008-08-22 20:38:01)", "duration": 218000, "link": "spotify:local:Swing:Ok%c3%a4nt+album+%282008-08-22+20%3a38%3a01%29:Sp%c3%a5r+7:218"},
 {"name": "Save The Bones For Henry Jones", "artists": ["Pat Flowers"], "album": "1945-1947", "duration": 156000, "link": "spotify:track:6Gy44fiwlROgKM0k2bHvHI"},
-{"name": "Communications (12-22-47)", "artists": ["Slim Gaillard"], "album": "Complete Jazz Series 1947 - 1951", "duration": 150000, "link": "spotify:track:4Kq0wSx9fzMZVKtPwWnmHk"},
 {"name": "Is You Is Or Is You Aint My Baby", "artists": ["Cab Calloway"], "album": "Cab Calloway / Minnie The Moocher", "duration": 198000, "link": "spotify:track:3YpcLPnT3e0VGknlgayn3m"},
 ]}

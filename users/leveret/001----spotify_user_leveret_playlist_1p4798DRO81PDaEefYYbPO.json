@@ -2,6 +2,7 @@
 "http_link": "http://open.spotify.com/user/leveret/playlist/1p4798DRO81PDaEefYYbPO",
 "spotify_link": "spotify:user:leveret:playlist:1p4798DRO81PDaEefYYbPO",
 "songs": [
+{"name": "Belongings", "artists": ["Clock Opera"], "album": "Belongings", "duration": 293000, "link": "spotify:track:5g6wQPWruYiWhrTPfaWUXW"},
 {"name": "Silver Dollars", "artists": ["Allo, Darlin'"], "album": "Allo Darlin'", "duration": 253000, "link": "spotify:track:3rXrXZCvHVCXTbHNO7yiQZ"},
 {"name": "Tuxedo Junction", "artists": ["Glenn Miller"], "album": "Glenn Miller & Friends", "duration": 214000, "link": "spotify:track:1qEqRTUWYj4Ne3Yl085esA"},
 {"name": "3 Gymnopedies: Gymnopedie No. 2", "artists": ["Erik Satie", "Anders Miolin"], "album": "Satie: Piano Music", "duration": 205000, "link": "spotify:track:58cpAJ8qQogi03AvftxCcl"},
@@ -14,4 +15,6 @@
 {"name": "Basin Street Blues", "artists": ["Preservation Hall Jazz Band"], "album": "Music from the Motion Picture The Curious Case of Benjamin Button", "duration": 454000, "link": "spotify:track:7g3VhbVKgP2gClVMIrsWBN"},
 {"name": "Kandylamb (02-24-45)", "artists": ["DUKE ELLINGTON"], "album": "Complete Jazz Series 1944 - 1945", "duration": 178000, "link": "spotify:track:6WCafmnjuyok2VcptuRrWB"},
 {"name": "Bizness", "artists": ["Tune-Yards"], "album": "W H O K I L L", "duration": 263000, "link": "spotify:track:78AaMLOriBZuohWdUV3IzE"},
+{"name": "Loomer", "artists": ["My Bloody Valentine"], "album": "Loveless", "duration": 158000, "link": "spotify:track:56ne22ly18uSOXjVP09UEm"},
+{"name": "Tiger Rag", "artists": ["Preservation Hall Jazz Band"], "album": "New Orleans Preservation, Vol. 1", "duration": 424000, "link": "spotify:track:3YAHsHXWsadvSGWOV03wuW"},
 ]}

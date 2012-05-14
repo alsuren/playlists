@@ -62,4 +62,6 @@
 {"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:7tAKN3F0RnGzNCQQMQSqMR"},
 {"name": "A Horse with No Name", "artists": ["America"], "album": "America", "duration": 252000, "link": "spotify:track:54eZmuggBFJbV7k248bTTt"},
 {"name": "Everybody Plays The Fool", "artists": ["The Main Ingredient"], "album": "Everybody Plays The Fool: The Best Of The Main Ingredient", "duration": 202000, "link": "spotify:track:3DkqEHCCqlkknDfksHWWu0"},
+{"name": "Summer Breeze", "artists": ["Seals and Crofts"], "album": "Rhino Hi-Five: Seals & Crofts", "duration": 204000, "link": "spotify:track:0acQgAidYiiSWQrPZHHkzo"},
+{"name": "Without You", "artists": ["Harry Nilsson"], "album": "Everybody's Talkin': The Very Best of Harry Nilsson", "duration": 202000, "link": "spotify:track:7vqubB6rY1NpGVGpHYobbQ"},
 ]}

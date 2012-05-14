@@ -2,10 +2,10 @@
 "http_link": "http://open.spotify.com/user/alandra/playlist/2f6lYfK3iJSGE3nVQzR6VF",
 "spotify_link": "spotify:user:alandra:playlist:2f6lYfK3iJSGE3nVQzR6VF",
 "songs": [
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:2xxdFok3FhbDMNDy9LJPgz"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:1Hs2FT0VEyn722To37Wwfx"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:0eCtJer01h42lZEKkAhQBK"},
+{"name": "Come Together", "artists": ["The Canadian Brass"], "album": "All You Need Is Love", "duration": 204000, "link": "spotify:track:2xxdFok3FhbDMNDy9LJPgz"},
+{"name": "Come Together", "artists": ["Vitamin String Quartet"], "album": "The String Quartet Tribute to The Beatles", "duration": 283000, "link": "spotify:track:1Hs2FT0VEyn722To37Wwfx"},
+{"name": "Come together", "artists": ["Quatuor Ébène", "Richard Héry"], "album": "Fiction", "duration": 186000, "link": "spotify:track:0eCtJer01h42lZEKkAhQBK"},
 {"name": "Come Together", "artists": ["Avishai Cohen", "Mark Guiliana"], "album": "Lyla", "duration": 242000, "link": "spotify:track:2RXoIiVO5BWhlKaphfdOOh"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:0JYnPLpYnYsrLfwBrEye8K"},
-{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4lCghAaxeG0keQkXiVDD2R"},
+{"name": "Misirlou", "artists": ["Quatuor Ébène"], "album": "Fiction", "duration": 188000, "link": "spotify:track:0JYnPLpYnYsrLfwBrEye8K"},
+{"name": "Lydia, The Tattooed Lady", "artists": ["The Juggernaut Jug Band"], "album": "Don't Try This At Home", "duration": 228000, "link": "spotify:track:4lCghAaxeG0keQkXiVDD2R"},
 ]}

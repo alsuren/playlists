@@ -82,7 +82,6 @@
 {"name": "Since I Fell For You", "artists": ["Nina Simone"], "album": "Sings The Blues", "duration": 170000, "link": "spotify:track:1OuJhCr6p1n5XYbaUNScvl"},
 {"name": "Come On In My Kitchen", "artists": ["Robert Johnson"], "album": "Malted Milk", "duration": 176000, "link": "spotify:track:5zDHKV8Xk5glmRU5HOsXWB"},
 {"name": "Come On In My Kitchen", "artists": ["Eric Clapton"], "album": "Me And Mr. Johnson", "duration": 214000, "link": "spotify:track:172AQaUkhJsCz1PtquRbtu"},
-{"name": "Come On In My Kitchen", "artists": ["Crooked Still"], "album": "Shaken By a Low Sound", "duration": 299000, "link": "spotify:track:7b8CfC6saZb8CR2GQ76nqC"},
 {"name": "Come On In My Kitchen", "artists": ["Keb' Mo'"], "album": "Martin Scorsese Presents The Blues: Keb' Mo'", "duration": 248000, "link": "spotify:track:3A7oGkhWXOftAzLOFHq3uJ"},
 {"name": "Come On In My Kitchen", "artists": ["Cassandra Wilson"], "album": "Blue Light 'Til Dawn", "duration": 294000, "link": "spotify:track:0HBLUorgeaV42VUxkcFPrm"},
 {"name": "Come On In My Kitchen", "artists": ["Porterdavis"], "album": "Live At Eddie's Attic", "duration": 353000, "link": "spotify:track:5z40dffgh0NdbDLOqqNQoJ"},
@@ -499,4 +498,8 @@
 {"name": "Sweet Leg Girl", "artists": ["Louisiana Red"], "album": "The Blues Spectrum Of Louisiana Red", "duration": 298000, "link": "spotify:track:3RLwqjlQVVYtfOTVqCUZtA"},
 {"name": "Little Red Rooster", "artists": ["Luther Allison"], "album": "Bad News Is Coming", "duration": 252000, "link": "spotify:track:75hYm3OaFwP7o2ZoobGe85"},
 {"name": "Ain't Nobody's Business", "artists": ["B.B. King"], "album": "The Jungle", "duration": 189000, "link": "spotify:track:77rX4d7Ywik1VEsWXIZ88b"},
+{"name": "Sitting on Top of the World", "artists": ["Howlin' Wolf"], "album": "Blues Classics", "duration": 149000, "link": "spotify:track:2660AMVZrQMOa4czxydbaj"},
+{"name": "Sitting On Top Of The World", "artists": ["B.B. King"], "album": "100 Years Of The Blues", "duration": 216000, "link": "spotify:track:1SqUouddb559LC713PPHve"},
+{"name": "I'm Just Your Fool", "artists": ["Buddy Johnson"], "album": "The R&B Hits of 1954 CD2", "duration": 173000, "link": "spotify:local:Buddy+Johnson:The+R%26B+Hits+of+1954+CD2:I%27m+Just+Your+Fool:173"},
+{"name": "Lonely Avenue", "artists": ["Ray Charles"], "album": "The Right Time", "duration": 156000, "link": "spotify:local:Ray+Charles:The+Right+Time:Lonely+Avenue:156"},
 ]}

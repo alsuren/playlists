@@ -88,6 +88,8 @@
 {"name": "My Dearest Darling", "artists": ["Etta James"], "album": "Etta James - At Last", "duration": 181000, "link": "spotify:track:19laolWXTTBFv7AVSgFw5B"},
 {"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:7bRY3ZFu7GCkkiFXLAS44l"},
 {"name": "Sweet Lover", "artists": ["Tipitina"], "album": "Taking Care of Business", "duration": 297000, "link": "spotify:track:3nq6bPrUYoZI1WFkQsF04B"},
-{"name": "Brickyard Blues", "artists": ["Tipitina"], "album": "Taking Care of Business", "duration": 372000, "link": "spotify:track:1mM0ubbSvAK5pFF6uuKScH"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:1mM0ubbSvAK5pFF6uuKScH"},
 {"name": "Turk's Blues", "artists": ["Turk Murphy's Jazz Band"], "album": "Favorites", "duration": 179000, "link": "spotify:local:Turk+Murphy%27s+Jazz+Band:Favorites:Turk%27s+Blues:179"},
+{"name": "Cryin' Blues", "artists": ["The California Honeydrops"], "album": "Spreadin' Honey", "duration": 339000, "link": "spotify:track:265V7WPataAMH82iSlnCTq"},
+{"name": "Rain", "artists": ["The California Honeydrops"], "album": "Soul Tub!", "duration": 216000, "link": "spotify:track:32UHGiyTr3iNqCGhKLIx51"},
 ]}

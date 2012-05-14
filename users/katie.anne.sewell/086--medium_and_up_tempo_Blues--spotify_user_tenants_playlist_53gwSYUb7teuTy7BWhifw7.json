@@ -113,7 +113,7 @@
 {"name": "The Thrill Is Gone", "artists": ["B.B. King"], "album": "The King Of The Blues", "duration": 293000, "link": "spotify:track:3k3D61i9FSN3oEWuGTmQ6J"},
 {"name": "The Seventh Son", "artists": ["Willie Dixon"], "album": "I Am The Blues", "duration": 255000, "link": "spotify:track:4rCSOXkHt7KyP2YVZIh8me"},
 {"name": "St. James' Infirmary Blues", "artists": ["Tom Jones and Jools Holland"], "album": "Tom Jones & Jools Holland", "duration": 247000, "link": "spotify:track:5KCuVg4DPEzXi4AxH84sJ2"},
-{"name": "St. James Infirmary (Live)", "artists": ["Lou Rawls"], "album": "Anthology-Lou Rawls", "duration": 248000, "link": "spotify:track:1cMRtjLGcPuaaGx2Y6Ymzg"},
+{"name": "St. James Infirmary - Live; Digitally Remastered 00", "artists": ["Lou Rawls"], "album": "Anthology-Lou Rawls", "duration": 248000, "link": "spotify:track:1cMRtjLGcPuaaGx2Y6Ymzg"},
 {"name": "Song With No Words", "artists": ["Asylum Street Spankers"], "album": "Strawberry", "duration": 344000, "link": "spotify:track:1eZgU2jm6iD6fksSTDRiEi"},
 {"name": "Someday Pretty Baby", "artists": ["Singin' Sammy Ward"], "album": "The Complete Motown Singles, Volume 2: 1962", "duration": 170000, "link": "spotify:track:5gihYsbrk4Ck2yXdEF5RA0"},
 {"name": "Slow Walk", "artists": ["Sil Austin"], "album": "Essential Burlesque", "duration": 165000, "link": "spotify:track:1nG2vNjrmgjh6zn0acDpGw"},
@@ -233,4 +233,5 @@
 {"name": "Dimples", "artists": ["John Lee Hooker"], "album": "Coffee House Blues", "duration": 132000, "link": "spotify:track:3l81Sgr82DbfCo0CCuQ4G2"},
 {"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:5LwbF4bAOeNPyPoT3efO2H"},
 {"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:4VHAEG9nbjUQ7ZoP1totuz"},
+{"name": "", "artists": ["Dunno yet."], "album": "Dunno yet.", "duration": 0, "link": "spotify:track:5pemg1FuwvO3rT4tUHvnjs"},
 ]}

@@ -148,7 +148,7 @@
 {"name": "Dedicated Follower Of Fashion", "artists": ["The Kinks"], "album": "The Ultimate Collection", "duration": 181000, "link": "spotify:track:5Bb0lckQS7fHMxG2NhYSNE"},
 {"name": "I'm Going To Stop Pretending That I Didn't Break Your Heart", "artists": ["Eels"], "album": "Blinking Lights And Other Revelations", "duration": 235000, "link": "spotify:track:2cK1Mfr14rN1JtyvHtXOo2"},
 {"name": "Now At Last", "artists": ["Feist"], "album": "Let It Die", "duration": 196000, "link": "spotify:track:2LE3VFruGauWc3nbReGYs9"},
-{"name": "Too Much Love Will Kill You", "artists": ["Queen"], "album": "The Singles Collection - Volume 4", "duration": 262000, "link": "spotify:track:2u8GB8qBsUK6Wvblf3GBMu"},
+{"name": "Too Much Love Will Kill You - 2010 Digital Remaster", "artists": ["Queen"], "album": "The Singles Collection - Volume 4", "duration": 262000, "link": "spotify:track:2u8GB8qBsUK6Wvblf3GBMu"},
 {"name": "Birthday", "artists": ["Kings Of Leon"], "album": "Come Around Sundown", "duration": 195000, "link": "spotify:track:2wiBblcvuNbw1YxIgKQOYw"},
 {"name": "Mi Amigo", "artists": ["Kings Of Leon"], "album": "Come Around Sundown", "duration": 247000, "link": "spotify:track:1JtKh4SF9lcOUAWS6auXn9"},
 {"name": "Beach Side", "artists": ["Kings Of Leon"], "album": "Come Around Sundown", "duration": 171000, "link": "spotify:track:7lzivefCCvAZJrgM60Oaug"},
@@ -281,4 +281,8 @@
 {"name": "Oh Babe", "artists": ["Keely Smith", "Louis Prima"], "album": "The Golden Age Of Radio", "duration": 191000, "link": "spotify:track:5df6Svl6jqCU6KoFVdO1kD"},
 {"name": "The White Cliffs Of Dover", "artists": ["Louis Prima and His Orchestra"], "album": "The Best Of The War Years And More", "duration": 184000, "link": "spotify:track:6I658qHs4LntNGSUUn1JHW"},
 {"name": "Lonely Boy", "artists": ["The Black Keys"], "album": "Lonely Boy", "duration": 193000, "link": "spotify:track:3dOAXUx7I1qnzWzxdnsyB8"},
+{"name": "Viva Las Vegas", "artists": ["Elvis Presley"], "album": "Elvis Double Features Viva Las Vegas & Roustabou", "duration": 140000, "link": "spotify:track:1vVJ9HuJIgFG0vk12yGfeZ"},
+{"name": "That Old Black Hole", "artists": ["Dr. Dog"], "album": "Be The Void", "duration": 201000, "link": "spotify:track:27HUDvaWvjlrLhcsMDWgtd"},
+{"name": "Houdini", "artists": ["Foster The People"], "album": "Torches", "duration": 202000, "link": "spotify:track:730WFDPboojsDQHBsKzbQP"},
+{"name": "I'll Get Along", "artists": ["Michael Kiwanuka"], "album": "Home Again", "duration": 207000, "link": "spotify:track:2QIvd2Uow99gv5kBBbtf3y"},
 ]}

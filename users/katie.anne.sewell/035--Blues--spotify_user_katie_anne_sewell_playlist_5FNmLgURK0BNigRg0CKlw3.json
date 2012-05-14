@@ -31,4 +31,8 @@
 {"name": "One Scotch, One Bourbon, One Beer", "artists": ["Jimmy Witherspoon"], "album": "Jazz Me Blues: The Best Of Jimmy Witherspoon", "duration": 180000, "link": "spotify:track:04BPvTKws4nOkXVwW7JsIn"},
 {"name": "The Levee's Gonna Break", "artists": ["Bob Dylan"], "album": "Modern Times", "duration": 343000, "link": "spotify:track:51GjEqcVAWsUfBKLDRnRxJ"},
 {"name": "You Let Me Down", "artists": ["Wingy Manone"], "album": "Wingy Sings, Manone Plays - Isle of Capri & Other Great Hits", "duration": 203000, "link": "spotify:track:2TghEyIaJMR21IWf7oc3z6"},
+{"name": "Cryin' Blues", "artists": ["The California Honeydrops"], "album": "Spreadin' Honey", "duration": 339000, "link": "spotify:track:265V7WPataAMH82iSlnCTq"},
+{"name": "Rain", "artists": ["The California Honeydrops"], "album": "Soul Tub!", "duration": 216000, "link": "spotify:track:32UHGiyTr3iNqCGhKLIx51"},
+{"name": "Ain't Misbehavin'", "artists": ["Mad4Dixie"], "album": "Keep It Alive!", "duration": 204000, "link": "spotify:local:Mad4Dixie:Keep+It+Alive%21:Ain%27t+Misbehavin%27:204"},
+{"name": "Lazybones", "artists": ["Bing Crosby", "Louis Armstrong"], "album": "Bing Crosby and Friends", "duration": 141000, "link": "spotify:track:0YJCIAvRphAly72Gyojlfz"},
 ]}

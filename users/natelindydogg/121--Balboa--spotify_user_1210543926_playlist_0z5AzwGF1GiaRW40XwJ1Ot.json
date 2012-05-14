@@ -16,4 +16,6 @@
 {"name": "Swingin' The Blues", "artists": ["Count Basie"], "album": "Count Basie 1937-1943", "duration": 163000, "link": "spotify:local:Count+Basie:Count+Basie+1937-1943:Swingin%27+The+Blues:163"},
 {"name": "Diggin' for Dex", "artists": ["Count Basie"], "album": "The King", "duration": 184000, "link": "spotify:track:1VGtYkIqIHtylUwJIQfmyy"},
 {"name": "Riff Time", "artists": ["Erskine Hawkins"], "album": "Erskine Hawkins Selected Favorites, Vol. 2", "duration": 183000, "link": "spotify:track:2ZIT4XkVS6bDrBEbe0CJgs"},
+{"name": "Stompin’ At The Riverside", "artists": ["Spade Cooley"], "album": "King Of Western Swing, Vol. 5", "duration": 172000, "link": "spotify:track:65KY09itW0Ps864Z4nEOU9"},
+{"name": "Special Delivery Stomp", "artists": ["Artie Shaw"], "album": "Artie Shaw - Stardust", "duration": 165000, "link": "spotify:track:2hiikXQalCbH3gzyeP2UNV"},
 ]}

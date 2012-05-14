@@ -25,7 +25,7 @@
 {"name": "Beautiful - Radio Edit", "artists": ["The Sweet Vandals"], "album": "Beautiful", "duration": 218000, "link": "spotify:track:6ynVWGg1zMGOviyKrqpQeP"},
 {"name": "Buck", "artists": ["Nina Simone"], "album": "Sings The Blues", "duration": 111000, "link": "spotify:track:5bxsfGDnq8dr4643BcLN41"},
 {"name": "Am I Wrong", "artists": ["Keb' Mo'"], "album": "Keb' Mo'", "duration": 139000, "link": "spotify:track:3PlpG3hmLouT01BfYJaBJa"},
-{"name": "St. James Infirmary (Live)", "artists": ["Lou Rawls"], "album": "Anthology-Lou Rawls", "duration": 248000, "link": "spotify:track:1cMRtjLGcPuaaGx2Y6Ymzg"},
+{"name": "St. James Infirmary - Live; Digitally Remastered 00", "artists": ["Lou Rawls"], "album": "Anthology-Lou Rawls", "duration": 248000, "link": "spotify:track:1cMRtjLGcPuaaGx2Y6Ymzg"},
 {"name": "Someday Pretty Baby", "artists": ["Singin' Sammy Ward"], "album": "The Complete Motown Singles, Volume 2: 1962", "duration": 170000, "link": "spotify:track:5gihYsbrk4Ck2yXdEF5RA0"},
 {"name": "Somebody Got To Go", "artists": ["Gatemouth Moore"], "album": "Pioneers Of Rhythm & Blues, Volume 10", "duration": 201000, "link": "spotify:track:00CLSPFmJmBX7TgflXlfZG"},
 {"name": "Sinner's Prayer", "artists": ["Ray Charles", "B.B. King"], "album": "Genius Loves Company", "duration": 265000, "link": "spotify:track:3jgkfxYX4nblzWhK0oNk6I"},
@@ -50,4 +50,5 @@
 {"name": "All Comin& 39; Down, Colin Lake.mp3", "artists": [""], "album": "", "duration": 302000, "link": "spotify:local:::All+Comin%26+39%3b+Down%2c+Colin+Lake.mp3:302"},
 {"name": "Amen - Instrumental", "artists": ["Preservation Hall Jazz Band"], "album": "New Orleans - Vol. I", "duration": 198000, "link": "spotify:track:3eFYmBb3ID050maaiR9x3b"},
 {"name": "Don't Turn Your Heater Down", "artists": ["Pops Staples", "Steve Cropper", "Albert King"], "album": "Jammed Together", "duration": 195000, "link": "spotify:track:7dV2MI6dBMF3yNikoFK2Ct"},
+{"name": "Ball & Chain", "artists": ["Flipron"], "album": "Biscuits for Cerberus", "duration": 205000, "link": "spotify:track:4yDXAlu4oVUNj6utm25FLR"},
 ]}

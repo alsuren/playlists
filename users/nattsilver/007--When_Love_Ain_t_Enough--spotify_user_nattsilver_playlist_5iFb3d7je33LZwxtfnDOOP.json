@@ -109,4 +109,6 @@
 {"name": "I'll be waiting", "artists": ["Talisman"], "album": "Talisman", "duration": 179000, "link": "spotify:local:Talisman:Talisman:I%27ll+be+waiting:179"},
 {"name": "Send Me A Sign", "artists": ["Gamma Ray"], "album": "Skeletons and Majesties - The Mini Album", "duration": 266000, "link": "spotify:track:0EbOOKAmRvd2w7K1Wvs3Q5"},
 {"name": "Somebody That I Used To Know", "artists": ["Gotye", "Kimbra"], "album": "Making Mirrors", "duration": 245000, "link": "spotify:track:4VRLGNMTfymoYzD4dLAsNb"},
+{"name": "Mystery", "artists": ["Dead by April"], "album": "Mystery", "duration": 178000, "link": "spotify:track:0ETVZEVDPMwOGkN7UOd8qi"},
+{"name": "Paradise", "artists": ["Coldplay"], "album": "Mylo Xyloto", "duration": 278000, "link": "spotify:track:6nek1Nin9q48AVZcWs9e9D"},
 ]}

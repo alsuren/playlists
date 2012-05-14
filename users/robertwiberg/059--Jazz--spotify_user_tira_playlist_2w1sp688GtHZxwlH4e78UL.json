@@ -45,5 +45,5 @@
 {"name": "Summertime", "artists": ["Louis Armstrong", "Ella Fitzgerald"], "album": "The Beatles Jukebox", "duration": 297000, "link": "spotify:track:6ojMugRyzh3US4se7esA7Z"},
 {"name": "As Time Goes By", "artists": ["Peggy Lee"], "album": "The Magic Of Peggy Lee", "duration": 174000, "link": "spotify:track:5uoWCICVt6nEgIAAEACMLj"},
 {"name": "Begin the Beguine", "artists": ["Glenn Miller"], "album": "The Sounds of Glenn Miller", "duration": 210000, "link": "spotify:track:56RYGdzr2RQxpnFCbuSsgn"},
-{"name": "Limehouse Blues", "artists": ["Django Reinhardt", "Hot Club De France Quintet"], "album": "The Best Of Django Reinhardt", "duration": 166000, "link": "spotify:track:1Et1KM6nmOwbrEUQI8dtc7"},
+{"name": "Limehouse Blues - .", "artists": ["Django Reinhardt", "Hot Club De France Quintet"], "album": "The Best Of Django Reinhardt", "duration": 166000, "link": "spotify:track:1Et1KM6nmOwbrEUQI8dtc7"},
 ]}
