@@ -204,7 +204,7 @@ def get_local_song_location(spotify_song, local_files_map):
 	print "Which is your favourite artist? (and I'll download their version)"
 	options = sorted(jol_fallbacks.keys())
 	print '\n'.join("%s: %s" % (i+1, artist) for i, artist in enumerate(options))
-	i = int(raw_input() or 0)
+	i = 0 # int(raw_input() or 0)
 	if i == 0:
 		return "#didn't like any of %s" % options
 
@@ -212,7 +212,7 @@ def get_local_song_location(spotify_song, local_files_map):
 
 	link = pick_best_link_or_download(jol_fallbacks[artist], local_files_map)
 	if link is None:
-		link = "#Sorry. couldn't find %s's version after all" % artis
+		link = "#Sorry. couldn't find %s's version after all" % artist
 	return link
 
 
